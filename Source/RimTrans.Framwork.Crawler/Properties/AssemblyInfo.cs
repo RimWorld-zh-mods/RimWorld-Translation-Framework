@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // 有关程序集的一般信息由以下
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
-[assembly: AssemblyTitle("RimTrans.Framework")]
+[assembly: AssemblyTitle("RimTrans.Framwork.Crawler")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("RimTrans.Framework")]
+[assembly: AssemblyProduct("RimTrans.Framwork.Crawler")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // 如果此项目向 COM 公开，则下列 GUID 用于类型库的 ID
-[assembly: Guid("dcb9d003-8cdc-4fe3-8308-d917412a14d8")]
+[assembly: Guid("f743813b-e6a8-4b1f-adc7-c0ffd8e76ae7")]
 
 // 程序集的版本信息由下列四个值组成: 
 //

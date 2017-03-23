@@ -4,11 +4,15 @@
   <author>duduluu</author>
   <url>http://rimworld-zh.com</url>
 	<targetVersion>0.17.1474</targetVersion>
-  <description>&lt;color=#9fa8da&gt;&lt;b&gt;Important: This mod replace following vallina method by detouring:
+  <description>&lt;color=#9fa8da&gt;&lt;b&gt;Activate this mod after the Core and before other translation mods. &lt;/b&gt;&lt;/color&gt;
+
+&lt;color=#9fa8da&gt;&lt;b&gt;Important: This mod replaced following vallina methods by detouring:
 
   - 
   - 
   &lt;/b&gt;&lt;/color&gt;
 
-RimTrans.Framwork (RimWorld Translation Framework) is a modding library for translating non-vallina-supported parts of RimWorld.</description>
+RimTrans.Framwork (RimWorld Translation Framework) is a modding library for translating non-vallina-supported parts of RimWorld.
+
+</description>
 </ModMetaData>
