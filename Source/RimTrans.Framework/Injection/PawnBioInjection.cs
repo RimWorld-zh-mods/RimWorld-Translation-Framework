@@ -5,17 +5,17 @@ using System.Text;
 using RimWorld;
 using Verse;
 
-namespace RimTrans.Framework
+namespace RimTrans.Framework.Injection
 {
-    public class PawnBioDef : Def
+    public class PawnBioInjection : Def
     {
         public GenderPossibility gender;
 
         public NameTriple name;
 
-        public string childhood;
+        public BackstoryInjection childhood;
 
-        public string adulthood;
+        public BackstoryInjection adulthood;
 
         public bool pirateKing;
     }

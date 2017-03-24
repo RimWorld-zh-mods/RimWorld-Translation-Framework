@@ -78,7 +78,7 @@ namespace RimTrans.Framework.Detour
         // skip types that were already processed
         private static readonly HashSet<Type> seenTypes = new HashSet<Type>();
 
-        public static void ProcessAllDetour()
+        public static void ProcessAllDetours()
         {
             foreach (var type in Assembly.GetAssembly(typeof(DetourProxy)).GetTypes())
             {
@@ -112,15 +112,19 @@ namespace RimTrans.Framework.Detour
 
         public static void CompletedAndLog()
         {
-            StringBuilder sb = new StringBuilder("Following methods have been detoured:\n");
+            if (detours.Count == 0)
+                return;
+
+            StringBuilder message = new StringBuilder("Following methods have been detoured:\n\n");
             foreach (var kvp in detours)
             {
-                sb.Append(kvp.Key.FullName());
-                sb.Append(" >>> ");
-                sb.Append(kvp.Value.FullName());
-                sb.Append('\n');
+                message.Append(" - ");
+                message.Append(kvp.Key.FullName());
+                message.Append(" >>> ");
+                message.Append(kvp.Value.FullName());
+                message.Append('\n');
             }
-            Log.Message(sb.ToString());
+            Log.Message(message.ToString());
         }
 
         private static void DetourMethodByAttribute(MethodInfo destination, DetourMethodAttribute detourMethodAttribute)

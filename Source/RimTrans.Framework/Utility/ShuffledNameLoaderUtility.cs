@@ -7,15 +7,14 @@ using RimWorld;
 using Verse;
 using RimTrans.Framework.Detour;
 
-namespace RimTrans.Framework.DetourMembers
+namespace RimTrans.Framework.Utility
 {
-    public static class Detour_PawnNameDatabaseShuffled
+    public static class ShuffledNameLoaderUtility
     {
-        // This method do not need to be detoured actually.
         public static void LoadAllNames()
         {
 #if DEBUG
-            Log.Message("Detour_PawnNameDatabaseShuffled.LoadAllNames()");
+            Log.Message("PawnNameDatabaseShuffledUtility.LoadAllNames()");
 #endif
             NameBank nameBank = PawnNameDatabaseShuffled.BankOf(PawnNameCategory.HumanStandard);
             nameBank.AddNamesFromFile(PawnNameSlot.First, Gender.Male, "First_Male");

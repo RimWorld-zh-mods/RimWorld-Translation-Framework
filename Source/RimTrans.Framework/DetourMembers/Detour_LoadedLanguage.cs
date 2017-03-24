@@ -6,6 +6,7 @@ using System.Reflection;
 using RimWorld;
 using Verse;
 using RimTrans.Framework.Detour;
+using RimTrans.Framework.Utility;
 
 namespace RimTrans.Framework.DetourMembers
 {
@@ -32,8 +33,9 @@ namespace RimTrans.Framework.DetourMembers
                 current.InjectIntoDefs();
             }
             BackstoryTranslationUtility.LoadAndInjectBackstoryData(instance);
-
-            // Append
+            
+            // Append: Custom TranslationUtility
+            UtilityHelper.ProceseAllTranslationUtilities();
         }
     }
 }

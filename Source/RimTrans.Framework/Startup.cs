@@ -7,6 +7,7 @@ using UnityEngine;
 using RimWorld;
 using Verse;
 using RimTrans.Framework.Detour;
+using RimTrans.Framework.Utility;
 
 namespace RimTrans.Framework
 {
@@ -37,8 +38,12 @@ namespace RimTrans.Framework
 
             Log.Message("RimWorld Translation Framework " + version);
 
-            DetourProxy.ProcessAllDetour(); // Detour
+            DetourProxy.ProcessAllDetours(); // Detour
+#if DEBUG
             DetourProxy.CompletedAndLog();
+#endif
+
+            UtilityHelper.ProceseAllTranslationUtilities();
         }
     }
 }

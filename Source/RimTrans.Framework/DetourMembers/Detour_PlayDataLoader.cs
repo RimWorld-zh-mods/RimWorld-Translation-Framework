@@ -6,6 +6,7 @@ using System.Reflection;
 using RimWorld;
 using Verse;
 using RimTrans.Framework.Detour;
+using RimTrans.Framework.Utility;
 
 namespace RimTrans.Framework.DetourMembers
 {
@@ -37,10 +38,12 @@ namespace RimTrans.Framework.DetourMembers
             Type t_NameBank = typeof(NameBank);
             FieldInfo f_names = t_NameBank.GetField("names", BindingFlags.NonPublic | BindingFlags.Instance);
             List<string>[,] names = (List<string>[,])f_names.GetValue(nameBank);
-            foreach (List<string> nameList in names)
-            {
-                nameList.Clear();
-            }
+            nameBank.NamesFor(PawnNameSlot.First, Gender.Male).Clear();
+            nameBank.NamesFor(PawnNameSlot.First, Gender.Female).Clear();
+            nameBank.NamesFor(PawnNameSlot.Nick, Gender.Male).Clear();
+            nameBank.NamesFor(PawnNameSlot.Nick, Gender.Female).Clear();
+            nameBank.NamesFor(PawnNameSlot.Nick, Gender.None).Clear();
+            nameBank.NamesFor(PawnNameSlot.Last, Gender.None).Clear();
 
             Current.Game = null;
 
