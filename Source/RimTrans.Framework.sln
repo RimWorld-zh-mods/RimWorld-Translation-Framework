@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RimTrans.Framework", "RimTrans.Framework\RimTrans.Framework.csproj", "{DCB9D003-8CDC-4FE3-8308-D917412A14D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RimTrans.Framwork.Crawler", "RimTrans.Framwork.Crawler\RimTrans.Framwork.Crawler.csproj", "{F743813B-E6A8-4B1F-ADC7-C0FFD8E76AE7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RimTrans.Framework.Converter", "RimTrans.Framework.Converter\RimTrans.Framework.Converter.csproj", "{72C90B3D-8D60-4A31-992C-4D438E5F6046}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{DCB9D003-8CDC-4FE3-8308-D917412A14D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DCB9D003-8CDC-4FE3-8308-D917412A14D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DCB9D003-8CDC-4FE3-8308-D917412A14D8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F743813B-E6A8-4B1F-ADC7-C0FFD8E76AE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F743813B-E6A8-4B1F-ADC7-C0FFD8E76AE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F743813B-E6A8-4B1F-ADC7-C0FFD8E76AE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F743813B-E6A8-4B1F-ADC7-C0FFD8E76AE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72C90B3D-8D60-4A31-992C-4D438E5F6046}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72C90B3D-8D60-4A31-992C-4D438E5F6046}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72C90B3D-8D60-4A31-992C-4D438E5F6046}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72C90B3D-8D60-4A31-992C-4D438E5F6046}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

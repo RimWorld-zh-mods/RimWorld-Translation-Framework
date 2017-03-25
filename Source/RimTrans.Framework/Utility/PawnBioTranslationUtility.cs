@@ -12,7 +12,8 @@ namespace RimTrans.Framework.Utility
 {
     public static class PawnBioTranslationUtility
     {
-        private readonly static Dictionary<string, NameTriple> missings = new Dictionary<string, NameTriple>();
+        private static int countMissings = 0;
+        private readonly static StringBuilder missings = new StringBuilder();
 
         public static void InjectIntoAllBios()
         {
@@ -22,19 +23,24 @@ namespace RimTrans.Framework.Utility
             var debugPawnBioInjection = new PawnBioInjection();
             foreach (var pawnBio in SolidBioDatabase.allBios)
             {
-                debugPawnBioInjection.name = new NameTriple($"起灵Debug{temp}", $"大魔王Debug{temp}", $"风Debug{temp}");
+                debugPawnBioInjection.first = $"起灵Debug{temp}";
+                debugPawnBioInjection.nick = $"大魔王Debug{temp}";
+                debugPawnBioInjection.last = $"风Debug{temp}";
                 pawnBio.name.SetValueByInjection(debugPawnBioInjection);
                 temp++;
             }
             foreach (var name in PawnNameDatabaseSolid.AllNames())
             {
-                debugPawnBioInjection.name = new NameTriple($"起灵Debug{temp}", $"大魔王Debug{temp}", $"风Debug{temp}");
+                debugPawnBioInjection.first = $"起灵Debug{temp}";
+                debugPawnBioInjection.nick = $"大魔王Debug{temp}";
+                debugPawnBioInjection.last = $"风Debug{temp}";
                 name.SetValueByInjection(debugPawnBioInjection);
                 temp++;
             }
             //return;
 #endif
-            missings.Clear();
+            countMissings = 0;
+            missings.Remove(0, missings.Length);
             IEnumerable<PawnBio> allPawnBios = SolidBioDatabase.allBios;
             IEnumerable<PawnBioInjection> allPawnBioDefs = DefDatabase<PawnBioInjection>.AllDefs;
             InjectIntoPawnBiosByInjections(allPawnBios, allPawnBioDefs);
@@ -48,20 +54,13 @@ namespace RimTrans.Framework.Utility
                 PawnNameDatabaseSolid.GetListForGender(GenderPossibility.Either),
                 allPawnBioDefs.Where(d1 => d1.gender == GenderPossibility.Either));
 
-            if (missings.Count > 0)
+            if (missings.Length > 0)
             {
-                StringBuilder message = new StringBuilder("Folloing PawnBios can not find matching PawnBioInjections:\n\n");
-                foreach (var kvp in missings)
-                {
-                    message.Append(" - PawnBio: <");
-                    message.Append(kvp.Value.ToString());
-                    message.Append("> PawnBioInjection: <");
-                    message.Append(kvp.Key);
-                    message.Append(">\n");
-                }
+                string message = $"Folloing {countMissings} PawnBios can not find matching PawnBioInjections:\n" + missings.ToString();
                 Log.Warning(message.ToString());
             }
-            missings.Clear();
+            countMissings = 0;
+            missings.Remove(0, missings.Length);
         }
 
         private static void InjectIntoPawnBiosByInjections(IEnumerable<PawnBio> pawnBios, IEnumerable<PawnBioInjection> pawnBioInjections)
@@ -69,23 +68,32 @@ namespace RimTrans.Framework.Utility
             foreach (PawnBio pawnBio in pawnBios)
             {
                 NameTriple pawnName = pawnBio.name;
-                string defName = pawnName.First + "_" + pawnName.Last + "_" + pawnName.Nick;
-                PawnBioInjection pawnBioDef = null;
+                string identifier = pawnName.ToString();
+                PawnBioInjection pawnBioInjection = null;
                 foreach (PawnBioInjection current in pawnBioInjections)
                 {
-                    if (current.defName == defName)
+                    if (current.identifier == identifier)
                     {
-                        pawnBioDef = current;
+                        pawnBioInjection = current;
                         break;
                     }
                 }
-                if (pawnBioDef == null)
+                if (pawnBioInjection == null)
                 {
-                    missings.Add(defName, pawnBio.name);
+                    countMissings++;
+                    missings.Append(identifier);
+                    missings.Append(", ");
                 }
                 else
                 {
-                    pawnBio.name.SetValueByInjection(pawnBioDef);
+                    try
+                    {
+                        pawnBio.name.SetValueByInjection(pawnBioInjection);
+                    }
+                    catch (Exception e)
+                    {
+                        Log.Error(e.Message);
+                    }
                 }
             }
         }
@@ -95,23 +103,32 @@ namespace RimTrans.Framework.Utility
             foreach (NameTriple name in solidNames)
             {
                 NameTriple pawnName = name;
-                string defName = pawnName.First + "_" + pawnName.Last + "_" + pawnName.Nick;
-                PawnBioInjection pawnBioDef = null;
+                string identifier = pawnName.ToString();
+                PawnBioInjection pawnBioInjection = null;
                 foreach (PawnBioInjection current in pawnBioInjections)
                 {
-                    if (current.defName == defName)
+                    if (current.identifier == identifier)
                     {
-                        pawnBioDef = current;
+                        pawnBioInjection = current;
                         break;
                     }
                 }
-                if (pawnBioDef == null)
+                if (pawnBioInjection == null)
                 {
-                    missings.Add(defName, name);
+                    countMissings++;
+                    missings.Append(identifier);
+                    missings.Append(" | ");
                 }
                 else
                 {
-                    name.SetValueByInjection(pawnBioDef);
+                    try
+                    {
+                        name.SetValueByInjection(pawnBioInjection);
+                    }
+                    catch (Exception e)
+                    {
+                        Log.Error(e.Message);
+                    }
                 }
             }
         }

@@ -28,7 +28,8 @@ namespace RimTrans.Framework.DetourMembers
                 }
                 BackstoryDatabase.AddBackstory(current);
             }
-            SolidBioDatabase.LoadAllBios();
+            //SolidBioDatabase.LoadAllBios();
+            PawnBioLoaderUtility.LoadAllBios();
             
             // Append: Custom LoadAllNames
             ShuffledNameLoaderUtility.LoadAllNames();

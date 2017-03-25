@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BackstoryInjections>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>Punk70</defName>
+    <Slot>Childhood</Slot>
+    <Title>Punk</Title>
+    <TitleShort>Punk</TitleShort>
+    <BaseDesc>NAME spent his childhood selling knockoff cigarettes to 15-year-olds. The cigarettes were often full of grass clippings.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>GameDeveloper59</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Game developer</Title>
+    <TitleShort>Game dev</TitleShort>
+    <BaseDesc>NAME was an independent game developer.\n\nAfter an early success, NAME's career quickly degenerated into a circus of misguided ideas, deals gone wrong, and desperate, failed PR stunts.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+</BackstoryInjections>

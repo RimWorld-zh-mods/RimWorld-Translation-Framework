@@ -14,7 +14,7 @@ namespace RimTrans.Framework.Utility
         public static void LoadAllNames()
         {
 #if DEBUG
-            Log.Message("PawnNameDatabaseShuffledUtility.LoadAllNames()");
+            Log.Message("ShuffledNameLoaderUtility.LoadAllNames()");
 #endif
             NameBank nameBank = PawnNameDatabaseShuffled.BankOf(PawnNameCategory.HumanStandard);
             nameBank.AddNamesFromFile(PawnNameSlot.First, Gender.Male, "First_Male");
@@ -25,6 +25,20 @@ namespace RimTrans.Framework.Utility
             nameBank.AddNamesFromFile(PawnNameSlot.Last, Gender.None, "Last");
             //PawnNameDatabaseShuffled.BankOf(PawnNameCategory.NoName).ErrorCheck(); // There is not NameBank of NoName.
             PawnNameDatabaseShuffled.BankOf(PawnNameCategory.HumanStandard).ErrorCheck();
+        }
+
+        public static void Clear()
+        {
+            NameBank nameBank = PawnNameDatabaseShuffled.BankOf(PawnNameCategory.HumanStandard);
+            Type t_NameBank = typeof(NameBank);
+            FieldInfo f_names = t_NameBank.GetField("names", BindingFlags.NonPublic | BindingFlags.Instance);
+            List<string>[,] names = (List<string>[,])f_names.GetValue(nameBank);
+            nameBank.NamesFor(PawnNameSlot.First, Gender.Male).Clear();
+            nameBank.NamesFor(PawnNameSlot.First, Gender.Female).Clear();
+            nameBank.NamesFor(PawnNameSlot.Nick, Gender.Male).Clear();
+            nameBank.NamesFor(PawnNameSlot.Nick, Gender.Female).Clear();
+            nameBank.NamesFor(PawnNameSlot.Nick, Gender.None).Clear();
+            nameBank.NamesFor(PawnNameSlot.Last, Gender.None).Clear();
         }
     }
 }

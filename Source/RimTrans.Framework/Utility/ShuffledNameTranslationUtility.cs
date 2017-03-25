@@ -30,7 +30,7 @@ namespace RimTrans.Framework.Utility
                 StringBuilder message = new StringBuilder("Folloing ShuffledNames can not find matching ShuffledNamesInjections:\n\n");
                 foreach (var kvp in missings)
                 {
-                    message.Append("defName:");
+                    message.Append("defName: ");
                     message.Append(kvp.Key);
                     message.Append("\n");
                     message.Append(kvp.Value);
@@ -104,7 +104,7 @@ namespace RimTrans.Framework.Utility
             StringBuilder sb;
             if (missings.TryGetValue(defName, out sb))
             {
-                sb.Append(", ");
+                sb.Append(" | ");
                 sb.Append(name);
             }
             else

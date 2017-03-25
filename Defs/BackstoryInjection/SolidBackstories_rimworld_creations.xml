@@ -1,0 +1,3677 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BackstoryInjections>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>FallenProdigy22</defName>
+    <Slot>Childhood</Slot>
+    <Title>Fallen prodigy</Title>
+    <TitleShort>Prodigy</TitleShort>
+    <BaseDesc>NAME was born on a glitterworld falling into chaos. HISCAP father was killed in action.
+
+HECAP struggled for a scholarship at Utmaior Academy and had to prove his right to be there. A child genius, HE was bullied as a charity case and couldn't make friends with the other kids.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>MadScientist28</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Mad scientist</Title>
+    <TitleShort>Scientist</TitleShort>
+    <BaseDesc>Stripped of his life’s work and exiled after his unethical experiments on the survivors of the Callos IX incident were published, NAME learned the skills necessary to survive in the outer rim.
+
+Continuing his research with nothing left to lose, he made minions to carry out the tasks that bored him.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>FarmKid40</defName>
+    <Slot>Childhood</Slot>
+    <Title>Farm kid</Title>
+    <TitleShort>Farm Kid</TitleShort>
+    <BaseDesc>NAME grew up on his family's beef farm. He enjoyed working the fields and taking care of the animals.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>CivilEngineer41</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Civil engineer</Title>
+    <TitleShort>Engineer</TitleShort>
+    <BaseDesc>NAME was a well-known civil engineer. HISCAP job involved designing and maintaining rock fortification structures. HECAP did enough statistical analysis to keep his mind sharp.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>FarmerBoy63</defName>
+    <Slot>Childhood</Slot>
+    <Title>Farmer boy</Title>
+    <TitleShort>Farmer</TitleShort>
+    <BaseDesc>Benjamin's parents died in a fire when he was seven. He grew up on his uncle's farm, plowing fields and doing manual labor.
+
+He could not bear answering questions about his parents, so he replaced social contact with hard work.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>ArmyCook51</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Army cook</Title>
+    <TitleShort>Cook</TitleShort>
+    <BaseDesc>Ben joined the army as a worker and spent most of his time cooking and repairing. While he was stationed on a dangerous planet, he underwent basic shooting and survival training.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>UrbworldCriminal64</defName>
+    <Slot>Childhood</Slot>
+    <Title>Urbworld criminal</Title>
+    <TitleShort>Criminal</TitleShort>
+    <BaseDesc>Born into bad circumstance on an overpopulated urbworld, Vladimir turned to small-time crime as a way to avoid starvation and hypothermia.
+
+Robbery and murder were daily activities for him. Vladimir learned that surviving was winning.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>UrbworldPolitican16</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Urbworld politican</Title>
+    <TitleShort>Politician</TitleShort>
+    <BaseDesc>It's no secret that the Companies own much of the urbworlds, but someone has to take the bribes. Vladimir was one such figurehead.
+
+He learned how to manipulate the hopes and dreams of the people while living comfortably in a penthouse.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>OptimisticChild43</defName>
+    <Slot>Childhood</Slot>
+    <Title>Optimistic child</Title>
+    <TitleShort>Optimistic</TitleShort>
+    <BaseDesc>Kees was blessed with loving parents and a pleasant midworld life. He was an  optimistic and sociable kid who loved making friends and listening to their stories. His imagination would run wild with ideas and questions.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>GraphicDesigner99</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Graphic designer</Title>
+    <TitleShort>Designer</TitleShort>
+    <BaseDesc>Kees' interest in artistic expression led him to become a designer. His eye for detail made him a reasonably well-known artist on his planet, though his meticulousness often led him to spend too much time perfecting a single project.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>UrbworldHooligan8</defName>
+    <Slot>Childhood</Slot>
+    <Title>Urbworld hooligan</Title>
+    <TitleShort>Hooligan</TitleShort>
+    <BaseDesc>NAME grew up in a dangerous urbworld. He quickly learned how to get his daily meal - by crime. Such means left little to no space for cooking and growing activities.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>SpaceTechnician89</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Space technician</Title>
+    <TitleShort>Technician</TitleShort>
+    <BaseDesc>NAME finally managed to flee his criminal life by getting a maintenance job on a nearby space station. He performed multiple repairing and building operations. He also used to participate in basic research activities and often defused co-workers' arguments. He never liked doing art.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>IndworldUrchin11</defName>
+    <Slot>Childhood</Slot>
+    <Title>Indworld urchin</Title>
+    <TitleShort>Urchin</TitleShort>
+    <BaseDesc>NAME grew up on the streets of a world in the early stages of its industrial revolution. HECAP passed HIS days stealing, begging and tinkering with discarded machine scraps, always on the lookout for a way to escape poverty.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>DoomsdayPariah26</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Doomsday pariah</Title>
+    <TitleShort>Pariah</TitleShort>
+    <BaseDesc>NAME managed to open a vault of otherworldly technology while scavenging a dig site. HE unwittingly triggered a doomsday device that cleansed the planet of all life. More interested in the tech than human life, HE boarded the vault’s spacecraft and departed to find more relics to abuse.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>MechanoidNerd80</defName>
+    <Slot>Childhood</Slot>
+    <Title>Mechanoid nerd</Title>
+    <TitleShort>Mechanerd</TitleShort>
+    <BaseDesc>NAME grew up in an urbworld as the only child of a pair of mechanoid designers.
+They encouraged HIS interest in the machines. Eventually, HE became obsessed with building HIS own.
+
+Unfortunately this also lead to HIM being a loner as HE prefered technical books to friends.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>MilitaryEngineer44</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Military engineer</Title>
+    <TitleShort>Engineer</TitleShort>
+    <BaseDesc>NAME worked as an engineer for a colonial military. HECAP got to play with weapons, murder-drones, and other 'fun' stuff.
+
+HECAP specialized in repairing and modifying mechanoids' tools. Sometimes HE tested them HIMself.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>ColiseumCleaner12</defName>
+    <Slot>Childhood</Slot>
+    <Title>Coliseum cleaner</Title>
+    <TitleShort>Cleaner</TitleShort>
+    <BaseDesc>During the 'Inner Destrian War' fallout, HIS parents were captured and HE was born into a life of slavery. Forced to clean coliseums after bloody battles for money. Watching, waiting, and learning. Coliseums were the only thing HE ever knew. One night while cleaning the coliseum, HIS family was murdered.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>ColiseumFighter29</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Coliseum fighter</Title>
+    <TitleShort>Fighter</TitleShort>
+    <BaseDesc>Applying the knowledge that he gained from years around fighters, HE became a successful gladiator in the coliseum that he once cleaned.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>OfficerCadet81</defName>
+    <Slot>Childhood</Slot>
+    <Title>Officer cadet</Title>
+    <TitleShort>Cadet</TitleShort>
+    <BaseDesc>From a young age, Bashkire trained to be a leader of men. He enrolled in the Vanu Defense College when he was a boy and became proficient with a range of weapons and survival techniques.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>FighterController64</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Fighter controller</Title>
+    <TitleShort>Controller</TitleShort>
+    <BaseDesc>During the Zartha crisis, Bashkire fought across many worlds, providing the vital link between the ground and the air as a fighter controller. During the campaign, he saw friends injured and killed. This mental trauma haunts his dreams to this day, but his aim remains sharp.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>ReclusiveProdigy98</defName>
+    <Slot>Childhood</Slot>
+    <Title>Reclusive prodigy</Title>
+    <TitleShort>Prodigy</TitleShort>
+    <BaseDesc>Growing up on a flourishing glitterworld afforded Holly the chance to fully devote herself to her studies.
+
+Having taken a keen interest in genetic modification and neural augmentation from a young age, she had little time (or desire) for a regular childhood.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>FerventResearcher44</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Fervent researcher</Title>
+    <TitleShort>Researcher</TitleShort>
+    <BaseDesc>As a young adult, Holly was sure that her planet and its people were nearing their time of transcendence.
+
+A firm belief that her research would be the catalyst drove her to increasingly alarming acts as bureaucrats and bioethics committees worked to stall her progress.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>WarRefugee81</defName>
+    <Slot>Childhood</Slot>
+    <Title>War refugee</Title>
+    <TitleShort>Refugee</TitleShort>
+    <BaseDesc>A war broke on out NAME's home planet.
+
+Gathering what little food and belongings they could, NAME and his father stole a ship and escaped into space.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>VengefulExplorer48</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Vengeful explorer</Title>
+    <TitleShort>Explorer</TitleShort>
+    <BaseDesc>A violent drifter without a home, NAME and his father fought many battles across hundreds of years. HECAP became a grizzled fighter and crack shot.
+
+After his father's death in battle, NAME began exploring the stars alone, seeking his father's killer, on the hunt for revenge.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>WorkCampSlave37</defName>
+    <Slot>Childhood</Slot>
+    <Title>Work camp slave</Title>
+    <TitleShort>Slave</TitleShort>
+    <BaseDesc>NAME grew up as a slave to a particularly nasty noble family on a medieval world. 
+
+While he received no formal education, the harsh labor regimen made his body strong.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>BanishedSoldier4</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Banished soldier</Title>
+    <TitleShort>Outlaw</TitleShort>
+    <BaseDesc>NAME became the most physically intimidating of the slaves, spending his little free time obsessively sculpting his body. His efforts eventually paid off when the lord offered him a job as a personal bodyguard.
+
+Later, when he plotted to use his position to kill the lord and free the slaves, he was discovered and barely escaped with his life.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>DisciplinedFarmer44</defName>
+    <Slot>Childhood</Slot>
+    <Title>Disciplined farmer</Title>
+    <TitleShort>Farmer</TitleShort>
+    <BaseDesc>Drew was the younger of two sons on the family farm, a frontier plot that struggled to turn a profit. Drew's father was a strict disciplinarian, constantly at his sons to work harder and keep quiet. Drew burnt his hand making breakfast once and swore to cook only when his life was in danger.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>StalwartFarmer89</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Stalwart farmer</Title>
+    <TitleShort>Farmer</TitleShort>
+    <BaseDesc>With the farm under constant threat from brigands, Drew learned to defend himself with his father's hunting rifle. He also mastered how to construct fences to keep livestock in and the local wildlife out. Drew tried to paint a picture of his home and learned he can only draw scribbles and ducks.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>VoyagerChild9</defName>
+    <Slot>Childhood</Slot>
+    <Title>Voyager child</Title>
+    <TitleShort>Voyager</TitleShort>
+    <BaseDesc>NAME was raised on an R&amp;D starship, and spent most of HIS childhood travelling through the void.
+
+Approaching a mysterious planetoid, the ship was severely damaged. HIS next memory is of the ship heading out of orbit, fully repaired. HE soon developed an unnatural gift for technological research.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>SpaceResearcher5</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Space researcher</Title>
+    <TitleShort>Researcher</TitleShort>
+    <BaseDesc>NAME inherited HIS parents' ship and carried on their research.
+
+HISCAP childhood experiences with diverse cultures allowed HIM to preserve his caring nature despite spending most of HIS life isolated in space.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>VatgrownMedic86</defName>
+    <Slot>Childhood</Slot>
+    <Title>Vatgrown medic</Title>
+    <TitleShort>Medic</TitleShort>
+    <BaseDesc>Raised to be a combat medic, NAME was trained in firearms as well as medicine. His favorite phrase when coming upon a wounded soldier was "Life or death?" Most chose life.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>GeneticScientist4</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Genetic scientist</Title>
+    <TitleShort>Geneticist</TitleShort>
+    <BaseDesc>After the war he joined a genetic engineering firm. He worked on enhancements for humans and livestock. His experiences in inflicting and healing wounds were very beneficial to his work, but he developed a black sense of humor. This made social gatherings awkward.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>CoreDilettante99</defName>
+    <Slot>Childhood</Slot>
+    <Title>Core dilettante</Title>
+    <TitleShort>Dilettante</TitleShort>
+    <BaseDesc>Candice spent her formative years on a glitterworld in the core region, where she and her friends pursued lives of idle pleasure.
+
+As she grew up, she began to find the life of ease unfulfilling. She decided to look for a more challenging path.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>Reporter51</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Reporter</Title>
+    <TitleShort>Reporter</TitleShort>
+    <BaseDesc>Candice spent many years as an investigative reporter. She was notorious for making chaotic reports from exotic locations.
+
+Although seen as a lightweight by her critics, she managed to break several high-profile stories after lengthy investigations.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>AspiringPopIdol61</defName>
+    <Slot>Childhood</Slot>
+    <Title>Aspiring pop idol</Title>
+    <TitleShort>Pop idol</TitleShort>
+    <BaseDesc>Min was being trained in song and dance to become the next big pop idol. She grew up being taken care of by company handlers.
+
+She never knew manual labor, but learned a lot about music and social etiquette.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>PopIdol50</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Pop idol</Title>
+    <TitleShort>Pop idol</TitleShort>
+    <BaseDesc>Min performed and did interviews constantly. She refined her skills in dancing and singing, and became a master of social presentation.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>FarmBoy56</defName>
+    <Slot>Childhood</Slot>
+    <Title>Farm boy</Title>
+    <TitleShort>Farm boy</TitleShort>
+    <BaseDesc>John worked on his family's farm, looking after the animals and treating them when they were injured. Preferring hands-on tasks and the outdoors, he avoided softer jobs that might have kept him cooped up inside.
+
+He enjoyed this lonely work, and tended to stay out of people's way and do his own thing.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>UnstableButcher98</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Unstable butcher</Title>
+    <TitleShort>Butcher</TitleShort>
+    <BaseDesc>John began hearing voices. The animals were talking to him, insulting him. He came to hate them, and eventually killed his furry former friends. He started selling the meat just to get human interaction.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>StationWhelp51</defName>
+    <Slot>Childhood</Slot>
+    <Title>Station whelp</Title>
+    <TitleShort>Whelp</TitleShort>
+    <BaseDesc>NAME spent his childhood as a penniless orphan living on a space station. He managed to scrape by doing filthy jobs and stealing. He became so violent due to poor treatment by his “betters” that he was banished from the station, just to be picked up by space pirates.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>PirateKing62</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Pirate king</Title>
+    <TitleShort>Pirate</TitleShort>
+    <BaseDesc>With no real care for other people, NAME fit in perfectly with the pirate crew that he had once been a captive of. Shortly after becoming one of the crew, NAME began to kill anyone or anything that got in his way—including his crew mates.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>ConstructionGrunt79</defName>
+    <Slot>Childhood</Slot>
+    <Title>Construction grunt</Title>
+    <TitleShort>Builder</TitleShort>
+    <BaseDesc>Growing up in his father's lab, Jackson was given the life of an intellectual elite. He got everything he desired, and price was never an object.
+
+However Jackson did not partake in the luxury given to him. Instead, he pursued more physical, and - in his father's eyes - lower-class jobs.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>MilitaryInventor44</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Military inventor</Title>
+    <TitleShort>Inventor</TitleShort>
+    <BaseDesc>Jackson, in a final act of rebellion, left his father's lab and joined the local Imperial military.
+
+He used his laboratory skills to design machines of war. At this he was one of the best on his planet.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>StreetKid29</defName>
+    <Slot>Childhood</Slot>
+    <Title>Street kid</Title>
+    <TitleShort>Street kid</TitleShort>
+    <BaseDesc>Growing up on the streets of the a desert planet, NAME's his only friend was a dog named Rest. The pair scraped by, finding just enough food to survive.
+
+When HE was 13 years old, an interplanetary criminal group took HIM under their wing.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>BanditLeader92</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Bandit leader</Title>
+    <TitleShort>Bandit</TitleShort>
+    <BaseDesc>NAME rose up the ranks of the crime organization, eventually becoming the leader of one of their most remote cells of bandits. His dog Rest never left his side.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>StudentEngineer40</defName>
+    <Slot>Childhood</Slot>
+    <Title>Student engineer</Title>
+    <TitleShort>Engineer</TitleShort>
+    <BaseDesc>A genius child, NAME was put in a special training program covering aerospace warfare and engineering.
+
+One day, he tried to befriend a squirrel by giving it a bracelet. The squirrel bit him, earning him the nickname “Squirrel Boy.”
+
+NAME came to believe that work involving manual labor is beneath HIM.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>EngineeredPilot99</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Engineered pilot</Title>
+    <TitleShort>Pilot</TitleShort>
+    <BaseDesc>After his province was besieged by one of its neighbors, NAME volunteered for a generic modification program that created pilots for the very fighter craft that he had helped develop. The modifications allowed him to pilot the ship, but also made him less able to focus on the people around him.
+
+By this time, people were calling him "Squirrel."</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>FrontierMarshal0</defName>
+    <Slot>Childhood</Slot>
+    <Title>Frontier marshal</Title>
+    <TitleShort>Marshal</TitleShort>
+    <BaseDesc>Henry inherited a sense of duty from his father, and began a law enforcement career on his frontier homeworld.
+
+He tried to uphold the law with honor, but the corruption and greed of local government officials often discouraged him.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>ColonialGovernor77</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Colonial governor</Title>
+    <TitleShort>Governor</TitleShort>
+    <BaseDesc>Disillusioned by rampant government corruption, Henry ran for governor and won. However, the local gangs and their pet officials soon forced him out of power.
+
+He left the community to return to his life as a marshal.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>MercenaryRecruit12</defName>
+    <Slot>Childhood</Slot>
+    <Title>Mercenary recruit</Title>
+    <TitleShort>Mercenary</TitleShort>
+    <BaseDesc>Descended from a long line of off-world mercenaries, NAME grew up in a busy trading hub.
+
+HISCAP's interest in the foreign goods at the market often distracted him from his chores and training.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>MercenaryChef30</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Mercenary chef</Title>
+    <TitleShort>Mercenary</TitleShort>
+    <BaseDesc>Following in his family's footsteps, NAME was a soldier for hire.
+
+He is a naturally gifted sharpshooter. However, his real passion is in perfecting a new recipe or dissecting a new gadget.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>AbandonedChild78</defName>
+    <Slot>Childhood</Slot>
+    <Title>Abandoned child</Title>
+    <TitleShort>Abandoned</TitleShort>
+    <BaseDesc>NAME was a quick witted, funny child. One day, HE wandered off on HIS wealthy genetic parents, and was ultimately lost in a supposedly unused ore warehouse. Due to cloning technology, HIS parents decided that the time looking for HIM was better spent on just cloning a better son.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>CargoPilot0</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Cargo pilot</Title>
+    <TitleShort>Pilot</TitleShort>
+    <BaseDesc>NAME was brought up by cargo hands on a long-haul ore transport ship. HECAP perfected HIS skills at trading and manipulation of people while running weapons between systems.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>TradersChild31</defName>
+    <Slot>Childhood</Slot>
+    <Title>Traders' child</Title>
+    <TitleShort>Trader</TitleShort>
+    <BaseDesc>NAME grew up in a family of nomadic traders, making a living from selling and buying goods on many worlds.
+
+NAME learned the customs and methods of trade of many cultures by participating in his parents' business.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>SpaceHumanitarian98</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Space humanitarian</Title>
+    <TitleShort>Activist</TitleShort>
+    <BaseDesc>After seeing the rampant poverty common on overcrowded urban worlds, NAME decided to dedicate HIS life to helping the less fortunate. This crusade taught HIM how to care for the sick and the hungry.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>CorpStudent17</defName>
+    <Slot>Childhood</Slot>
+    <Title>Corp student</Title>
+    <TitleShort>Student</TitleShort>
+    <BaseDesc>De Dion was bred to become an executive officer for the large space trading corporation that owned his home planet. His family had been working for that corporation for seven generations.
+
+At age six, HE started to study at the corporate academy, where he learned to become a loyal follower and a ruthless executive.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>ExecutiveOfficer58</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Executive officer</Title>
+    <TitleShort>Executive</TitleShort>
+    <BaseDesc>NAME was an executive officer for a large space trading corporation. After a failed attempt at manipulating his way up the corporate ladder, he was framed for the rape and murder of another executive and her family.
+
+He was found guilty. However, because of his family's influence, he was exiled instead of put to death.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>VRAddict62</defName>
+    <Slot>Childhood</Slot>
+    <Title>VR addict</Title>
+    <TitleShort>VR addict</TitleShort>
+    <BaseDesc>Douglas was a VR head - someone who is permanently jacked into the virtual gaming universe by his spinal plug. He moved through his daily tasks barely aware of the physical reality around him. This left him nearly unable to socialize.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>RugbyPlayer15</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Rugby player</Title>
+    <TitleShort>Winger</TitleShort>
+    <BaseDesc>After years of addiction to virtual reality games, Douglas was saved when the doctors unplugged him.
+
+Unfortunately, they unplugged him during a match of Rugby Rampage 4. The mental backlash merged his real identity and his virtual identity, leaving him with the personality and skills of a rugby player.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>Nerd92</defName>
+    <Slot>Childhood</Slot>
+    <Title>Nerd</Title>
+    <TitleShort>Nerd</TitleShort>
+    <BaseDesc>NAME was curious about everything. While other kids played tag in the suburbs of their industrial city, NAME read every book he could find about technology, robots, and weapons - whatever looked coolest.
+
+His strong French accent kept him from making real friends.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>StateEngineer74</defName>
+    <Slot>Adulthood</Slot>
+    <Title>State engineer</Title>
+    <TitleShort>Engineer</TitleShort>
+    <BaseDesc>NAME enrolled in the state weapons research program.
+
+While brilliant in his work, he was so enthusiastic in testing his creations that he accidentally wounded some colleagues and was marked as unfit for service.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>RebelSlave42</defName>
+    <Slot>Childhood</Slot>
+    <Title>Rebel slave</Title>
+    <TitleShort>Rebel</TitleShort>
+    <BaseDesc>NAME was born into corporate slavery and raised to perform menial tasks for minimum pay. HECAP was just another cog in the machine. 
+
+NAME found his freedom by joining a rebel organization whose goal was to break free from their corporate masters.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>CombatNegotiator51</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Combat negotiator</Title>
+    <TitleShort>Negotiator</TitleShort>
+    <BaseDesc>After escaping his homeworld, NAME took his skills to the stars.
+
+He chose to operate as a hired gun, working for various rebel organizations, enslaved groups, and merchant enclaves. His specialty was negotiation in combat situations.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>MedievalPlower12</defName>
+    <Slot>Childhood</Slot>
+    <Title>Medieval plower</Title>
+    <TitleShort>Plower</TitleShort>
+    <BaseDesc>NAME lived on a planet where kings and queens ruled with little regard for the peasants beneath them. HISCAP family owned a large farm, but the king took most of the food it produced. This left NAME's family poor, and unable to pay for HIS education. Instead, HE was required to work the fields with HIS parents, and never had time to practice creativity.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>SpaceStationCook63</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Space station cook</Title>
+    <TitleShort>Cook</TitleShort>
+    <BaseDesc>The space station NAME came from was far from any populated planets, and was in itself understaffed. For this reason, NAME was forced to learn how to cook in order to keep the crew alive. While HE appreciated this learning opportunity, HE didn't appreciate the criticism which came with it, and has had self-esteem issues ever since.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>SonOfAHuntress96</defName>
+    <Slot>Childhood</Slot>
+    <Title>Son of a huntress</Title>
+    <TitleShort>Hunter</TitleShort>
+    <BaseDesc>In the mountains of the planet Ticonderoga, Jon was raised by his tribal mother. She taught him survival skills - trapping, tracking, shooting, skinning, cooking and healing.
+
+His departed father had left behind an old bolt-action rifle, and Jon practiced with it every chance he got.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>SpaceHunter67</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Space hunter</Title>
+    <TitleShort>Huntsman</TitleShort>
+    <BaseDesc>Now a man as well as proficient hunter and marksman, Jon yearned for more. He took leave from his birth world, traveling the great expanse in search of exotic game.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>StudentSocialite73</defName>
+    <Slot>Childhood</Slot>
+    <Title>Student socialite</Title>
+    <TitleShort>Socialite</TitleShort>
+    <BaseDesc>Matis learned politics in an elite training school for socially gifted students on Kalthas IV.
+
+While he was naturally adept at reading and manipulating people, he found no joy in it. He left the academy several years before graduation.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>PoliticalAssassin87</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Political assassin</Title>
+    <TitleShort>Deathjack</TitleShort>
+    <BaseDesc>Matis realized that his true calling was in physical solutions to diplomatic problems. He sought training from the assassins guild on Ceti V.
+
+He was a quick study at the arts of subterfuge and death. He soon earned the guild rank of Deathjack.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>AwkwardNerd12</defName>
+    <Slot>Childhood</Slot>
+    <Title>Awkward nerd</Title>
+    <TitleShort>Nerd</TitleShort>
+    <BaseDesc>Always fascinated by machines, Dave spent his time studying robotics and holography. He preferred the company of his scientific creations to that of other people.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>AIResearcher30</defName>
+    <Slot>Adulthood</Slot>
+    <Title>AI researcher</Title>
+    <TitleShort>Researcher</TitleShort>
+    <BaseDesc>Dave was a renowned researcher in artificial intelligence, robotics, and interactive holography. His friendships with the artificial minds he created gave him the confidence to interact with real people, and he soon excelled at personal communication.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>MidworldGeek88</defName>
+    <Slot>Childhood</Slot>
+    <Title>Midworld geek</Title>
+    <TitleShort>Geek</TitleShort>
+    <BaseDesc>NAME grew up in a quiet suburban neighborhood. He was never a master of social interaction, but his interest in computers blossomed into a true talent at an early age.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>ArmyScientist54</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Army scientist</Title>
+    <TitleShort>Scientist</TitleShort>
+    <BaseDesc>NAME did scientific research for a planetary army. HECAP studied war scenarios and designed weapon systems to help win battles with a minimum of fuss.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>CatHerder45</defName>
+    <Slot>Childhood</Slot>
+    <Title>Cat herder</Title>
+    <TitleShort>Herder</TitleShort>
+    <BaseDesc>NAME helped out in his father's cat breeding business, socializing, herding, and feeding hundreds of cats.
+
+When he refused to clean up after the cats, HE was transferred to the breeding science division.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>FelineScientist25</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Feline scientist</Title>
+    <TitleShort>Scientist</TitleShort>
+    <BaseDesc>NAME became a renowned scientist in the field of felines. Wanting the best for his animals and specializing in selective breeding, he set out on a journey to find the perfect breeding grounds for his cats.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>Scavenger26</defName>
+    <Slot>Childhood</Slot>
+    <Title>Scavenger</Title>
+    <TitleShort>Scavenger</TitleShort>
+    <BaseDesc>NAME grew up in one of the few remaining cities on a world ravaged by nuclear war.
+
+HECAP learned to survive on HIS own in this post-apocalyptic wasteland by scavenging for technology and supplies.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>SpaceMarine90</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Space marine</Title>
+    <TitleShort>Marine</TitleShort>
+    <BaseDesc>NAME was recruited into the security forces of an off-planet corporation.
+
+HECAP defended their ships against pirates and engaged in private space warfare contracts.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>VatgrownAssassin17</defName>
+    <Slot>Childhood</Slot>
+    <Title>Vatgrown assassin</Title>
+    <TitleShort>Clone</TitleShort>
+    <BaseDesc>Vas was not made as a man, but a cold hearted assassin. He was bio-engineered by scientists, and trained as a killer. He was bred to have no emotion, no feelings, and no care for who lives, and who dies.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>Mercenary40</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Mercenary</Title>
+    <TitleShort>Merc</TitleShort>
+    <BaseDesc>Vas spent his teenage years as a mercenary, being hired to kill and maim others. He was tall, menacing, and frightening. He could instill fear into the hearts of any man who crossed him, and kill anyone he wanted.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>HiveWorldChild62</defName>
+    <Slot>Childhood</Slot>
+    <Title>Hive world child</Title>
+    <TitleShort>Hiver</TitleShort>
+    <BaseDesc>NAME had an isolated upbringing in an urbworld hive city. His hatred of heights kept him indoors often, and made him an introverted child.
+
+When HE did go out onto the catwalks of the city, HE enjoyed playing war games, becoming proficient with various simulation weapons.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>Microbiologist37</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Microbiologist</Title>
+    <TitleShort>Biologist</TitleShort>
+    <BaseDesc>A plague struck NAME's native urbworld. NAME and other researchers revealed that the illness was a bioweapon, but the people turned on them, blaming them for the sickness.
+
+NAME barely escaped his homeworld as it fell into chaos.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>Stableboy75</defName>
+    <Slot>Childhood</Slot>
+    <Title>Stableboy</Title>
+    <TitleShort>Stableboy</TitleShort>
+    <BaseDesc>NAME was a stableboy on a medieval planet, mucking dung almost every day to earn his keep.
+
+By the time HE was exiting childhood, NAME had saved up enough money to pay a space trader to take HIM offworld.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>Brigand23</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Brigand</Title>
+    <TitleShort>Brigand</TitleShort>
+    <BaseDesc>NAME flew with a band of brigands HE called friends. HE even had a ship of HIS own - The Dung Mucker 2000.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>StarforceCadet91</defName>
+    <Slot>Childhood</Slot>
+    <Title>Starforce cadet</Title>
+    <TitleShort>Cadet</TitleShort>
+    <BaseDesc>Raised on Amen-Ti, glitterworld capital of the Star Empire, Sam Wissa had an easy childhood.
+
+As a youth, Sam decided that joining the Starforce would be his way of giving back to the Empire.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>AceFighterPilot70</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Ace fighter pilot</Title>
+    <TitleShort>Ace</TitleShort>
+    <BaseDesc>NAME graduated from the Star Academy with honors and distinguished himself as an ace fighter pilot in three campaigns against more advanced aggressor cultures. 
+
+However, after one vicious battle, he found himself stranded and his carrier ship destroyed. With nowhere to go, he entered his escape pod and prayed.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>ArtfulDodger87</defName>
+    <Slot>Childhood</Slot>
+    <Title>Artful dodger</Title>
+    <TitleShort>Dodger</TitleShort>
+    <BaseDesc>Robin grew up on one of the urbworlds and had to fend for himself all his life. He never trusted anyone, relying on his persuasiveness and cunning to survive.
+
+He soon became skilled with firearms and knives as well as words.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>Assassin16</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Assassin</Title>
+    <TitleShort>Assassin</TitleShort>
+    <BaseDesc>Robin was specially trained as an operative to be used for high-risk assassinations. His skill with a rifle was unrivalled.
+
+He was eventually betrayed by his superiors when a target found out about the hit and offered to fund their future projects. Robin swore to never trust anyone again.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>Pickpocket6</defName>
+    <Slot>Childhood</Slot>
+    <Title>Pickpocket</Title>
+    <TitleShort>Pickpocket</TitleShort>
+    <BaseDesc>Orphaned and abandoned on the tumultuous streets of his polluted, teeming homeworld, NAME survived by deft hand and fleet foot. A natural born thief and trickster, HE rose to prominence early, running the notorious and violent urchin gang 'Doomben Rats'.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>BusinessGangster83</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Business gangster</Title>
+    <TitleShort>Gangster</TitleShort>
+    <BaseDesc>Staying one step ahead of the law, NAME became a legitimate businessman and silenced anyone who dared say otherwise. As proprietor of brothels, speakeasies and eateries, NAME's good fortune continued while his competition suffered a series of unfortunate and unexplained accidents.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>DisasterSurvivor58</defName>
+    <Slot>Childhood</Slot>
+    <Title>Disaster survivor</Title>
+    <TitleShort>Survivor</TitleShort>
+    <BaseDesc>Steven was uprooted when marauders attacked his family farm, destroying machinery and killing farmhands and beasts alike.
+
+After the death of all he knew, he was left in the ruins to fend for himself.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>ParamilitaryAgent3</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Paramilitary agent</Title>
+    <TitleShort>Agent</TitleShort>
+    <BaseDesc>After scraping by on assorted shady jobs, NAME joined with a large paramilitary group to fight a war on HIS homeworld. HISCAP role was infiltration and intelligence gathering</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>HistoryStudent52</defName>
+    <Slot>Childhood</Slot>
+    <Title>History student</Title>
+    <TitleShort>Student</TitleShort>
+    <BaseDesc>As a child, NAME spent learned many artistic forms including music and novel writing. As HE grew older, HE began to study legends from HIS home world - legends of the lizard-like beings at the center of HIS culture's folklore.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>Storyteller68</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Storyteller</Title>
+    <TitleShort>Fabulist</TitleShort>
+    <BaseDesc>NAME traveled his world recounting the legends that he had studied.
+
+Obsessed with the legends of his people, NAME seeks someone who can help him grow scales on his skin, so he too can be as the ancients were.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>NobleWard25</defName>
+    <Slot>Childhood</Slot>
+    <Title>Noble ward</Title>
+    <TitleShort>Ward</TitleShort>
+    <BaseDesc>NAME was adopted by a prominent noble family after being left on their doorstep by HIS mother.
+
+HECAP quickly learned secrets that passed between the nobles like cheap wine - of worlds beyond her own, languages, cultures and technologies both new and old.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>InformationBroker88</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Information broker</Title>
+    <TitleShort>Broker</TitleShort>
+    <BaseDesc>NAME caught a ship to the next star system and began a life of travel and learning, quickly collecting a massive bank of knowledge from people of all shapes and sizes.
+
+HECAP learned to sell this knowledge for great profit, and became a powerful broker of information.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>FeralChild63</defName>
+    <Slot>Childhood</Slot>
+    <Title>Feral child</Title>
+    <TitleShort>Feral</TitleShort>
+    <BaseDesc>Abandoned on an animal planet as a small child with nought but a blanket with a name embroidered on it, Felix made himself one with the wilderness.
+
+When he was 13, he encountered a team of mineral surveyors, who "offered" him passage off of the planet.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>VersatileWorker37</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Versatile worker</Title>
+    <TitleShort>Worker</TitleShort>
+    <BaseDesc>Spending his later teenage years in a colony of settlers, he offered what little skills he had to anyone who would take him.
+
+Being a quick learner, he honed many of his skills and, apart from his crippling inability to understand fire, is now a fully functioning adult.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>SpoiledChild32</defName>
+    <Slot>Childhood</Slot>
+    <Title>Spoiled child</Title>
+    <TitleShort>Spoiled</TitleShort>
+    <BaseDesc>NAME grew up the child of an industrious colony manager. In this position, most manual and dangerous tasks were forbidden by HIS parents, but on the rim everyone has to dirty their hands.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>TestSubject1</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Test subject</Title>
+    <TitleShort>Experiment</TitleShort>
+    <BaseDesc>Kidnapped as a teenager, NAME was an unwilling test subject in experimental gene therapies for six years. Labs and scientists scare HIM.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>AmateurEngineer21</defName>
+    <Slot>Childhood</Slot>
+    <Title>Amateur engineer</Title>
+    <TitleShort>Engineer</TitleShort>
+    <BaseDesc>NAME grew up in a family with a military and engineering background. HECAP wanted to join the army but his father didn't like the idea, so HIS interest turned to great flying machines and works of engineering. HECAP secretly hoped that this would one day lead him to a life of galactic exploration.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>AerospaceEngineer58</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Aerospace engineer</Title>
+    <TitleShort>Engineer</TitleShort>
+    <BaseDesc>NAME was an engineer responsible for the production of aircraft and spaceships. HECAP focused on improving production lines, and was known for HIS mastery of technical and research issues.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>WildChild8</defName>
+    <Slot>Childhood</Slot>
+    <Title>Wild child</Title>
+    <TitleShort>Wild child</TitleShort>
+    <BaseDesc>NAME was abandoned on a toxic world overgrown with hostile plant life. HECAP became accustomed early to the cold burn of loneliness.
+
+HE learned to fight, but ate his food raw and uncooked.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>AlcoholicTrucker38</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Alcoholic trucker</Title>
+    <TitleShort>Alcoholic</TitleShort>
+    <BaseDesc>NAME was a space trucker working for Arcknight Industries when he killed his wife and daughter in a crash.
+
+His body was repaired with an experimental nano-genetic therapy. Now his muscles continually regenerate and harden, and every movement tears the tissue anew. He bears the pain in silence.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>HackerProdigy70</defName>
+    <Slot>Childhood</Slot>
+    <Title>Hacker prodigy</Title>
+    <TitleShort>Hacker</TitleShort>
+    <BaseDesc>Wedge was raised as the only child of wealthy surgeons. After being pressured into accepting a medical apprenticeship, he snapped. He seized his inheritance and went underground to learn how to exploit computer networks. He quickly became one of the most feared hackers on his home planet.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>IntelligenceAgent4</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Intelligence agent</Title>
+    <TitleShort>Agent</TitleShort>
+    <BaseDesc>Because of his hacking skills, Wedge was recruited by his home planet's governing body to serve as an intelligence agent. The government trained him in combat, but he prefers psychological warfare.
+
+Government rules proved too strict for him, so he went rogue. His current activities are unknown.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>MadScientist38</defName>
+    <Slot>Childhood</Slot>
+    <Title>Mad scientist</Title>
+    <TitleShort>Scientist</TitleShort>
+    <BaseDesc>NAME grew up miserable on the plains of a neolithic planet. He found the strength to fight under the teachings of an old, broken scientist.
+
+He quickly learned to play with people's fears, and was nicknamed 'mad scientist'.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>WarChief54</defName>
+    <Slot>Adulthood</Slot>
+    <Title>War chief</Title>
+    <TitleShort>Chief</TitleShort>
+    <BaseDesc>NAME was a tribal gang leader on a neolithic planet. For him, the battlefield is a game, and there is nothing more fun than the fires of war.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>YouthDelinquent81</defName>
+    <Slot>Childhood</Slot>
+    <Title>Youth delinquent</Title>
+    <TitleShort>Delinquent</TitleShort>
+    <BaseDesc>NAME was the only child of celebrity sommeliers. Her parents expected her to take up the family profession, but after her third admission to a youth detention center, this career path became unlikely.
+
+While in detention, NAME became skilled at making shanks and developed an interest in orinthology.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>InvoluntaryHermit72</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Involuntary hermit</Title>
+    <TitleShort>Hermit</TitleShort>
+    <BaseDesc>NAME’s escape pod was jettisoned onto an unexplored region of a frontier world. She eked out a lonely existence with only a herd of muffalo for company.
+ 
+Later, she was spotted clad in pygmy wombat furs, discussing the importance of hoof hygiene with a group of elderly muffalo.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>HillbillyProdigy33</defName>
+    <Slot>Childhood</Slot>
+    <Title>Hillbilly prodigy</Title>
+    <TitleShort>Hillbilly</TitleShort>
+    <BaseDesc>Born on a cold hillbilly planet inhabited mainly by furred xenohumans, Benjamin grew up to the sound of bar fights and shootouts. Though his childhood was spent playing the banjo and working as a mechanic, his abnormal intelligence made him want something more; he entered medical school at age twenty.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>MedicalScientist25</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Medical scientist</Title>
+    <TitleShort>Scientist</TitleShort>
+    <BaseDesc>Benjamin enlisted as a doctor on a passing science vessel. Roaming the stars with a large crew of xenohumans and transbirds, he did genetic research on encountered species. He developed a deep friendship with one transbird but was forced to leave the ship when the captain dismissed all non-avians.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>MidworldSketcher21</defName>
+    <Slot>Childhood</Slot>
+    <Title>Midworld sketcher</Title>
+    <TitleShort>Sketcher</TitleShort>
+    <BaseDesc>NAME was born into a loving but poor family.
+
+HECAP discovered he had an artistic talent which he inherited from his father. HISCAP mother taught him the benefits of hard work and determination. As he grew older, NAME developed a fascination with technology and military history.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>MidworldSailor20</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Midworld sailor</Title>
+    <TitleShort>Sailor</TitleShort>
+    <BaseDesc>NAME joined his country's Royal Navy. After years as a non-commissioned officer, he eventually cracked and used the skills he had acquired to start a mutiny on his ship.
+
+In the end, NAME was the leader of a large group of trained and dangerous pirates. He henceforth always had chefs to cook for him.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>CoreWorldStudent4</defName>
+    <Slot>Childhood</Slot>
+    <Title>Core world student</Title>
+    <TitleShort>Student</TitleShort>
+    <BaseDesc>Born a male named Alex, Alyssa didn't fit in well with the other boys. When very young, she preferred creative pursuits, such as crafting jewelry, over sports. She felt she had the wrong body. Luckily, her family and friends supported her sex reassignment; as a teen, she underwent surgery to become a female.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>CoreWorldJeweler59</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Core world jeweler</Title>
+    <TitleShort>Jeweler</TitleShort>
+    <BaseDesc>After Alyssa had completed all of her surgeries, she found that she had a lot of time and energy to dedicate to her passion: trinket crafting. She spent years perfecting her art as a jeweler, then left her home world to sell her wares across the galaxy.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>MedievalSquire61</defName>
+    <Slot>Childhood</Slot>
+    <Title>Medieval squire</Title>
+    <TitleShort>Squire</TitleShort>
+    <BaseDesc>William grew up on a medieval planet as a knight in training. He trained directly under the king's war adviser for most of his youth, and learned to fight with a sword and shield.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>MedievalKnight71</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Medieval knight </Title>
+    <TitleShort>Knight</TitleShort>
+    <BaseDesc>William fought for king and country on the battlefield, where he further honed his skill as a swordsman. His greatest glory was leading a charge into an enemy courtroom and capturing the king at sword point.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>StarSquire21</defName>
+    <Slot>Childhood</Slot>
+    <Title>Star squire</Title>
+    <TitleShort>Squire</TitleShort>
+    <BaseDesc>Born on a medieval word, NAME's first memory is of gazing up into the night's sky. 
+
+Ever since, HE dreamed of squiring for a knight amidst the star-filled heavens. HISCAP focus on that vision left HIM somewhat single-minded.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>StarKnight78</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Star knight</Title>
+    <TitleShort>Knight</TitleShort>
+    <BaseDesc>Abducted from his medieval homeworld, NAME later escaped his captors via an impressive display of swordsmanship.
+
+For a moment, as he drifted in the escape pod, his childhood dream of becoming a knight among the stars felt so real. Then he crash-landed.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>DrugMule2</defName>
+    <Slot>Childhood</Slot>
+    <Title>Drug mule</Title>
+    <TitleShort>Mule</TitleShort>
+    <BaseDesc>Raised in an orphanage, NAME turned towards the gang life at age ten.
+
+He was exploited by the local gang as a drug mule to traffic "substance F" across rival gang territory. He took a bullet or two.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>TestSubject82</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Test subject</Title>
+    <TitleShort>Subject</TitleShort>
+    <BaseDesc>NAME enrolled in a scientific study that promised it could make HIM smarter. Unfortunately, the side effects were very different than he expected.HE went insane and killed a number of people before escaping his homeworld.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>ArtisanFarmer56</defName>
+    <Slot>Childhood</Slot>
+    <Title>Artisan farmer</Title>
+    <TitleShort>Farmer</TitleShort>
+    <BaseDesc>NAME grew up on a HIS family's glitterworld farm. They were one of the last farms on the planet that preferred traditional farming methods to glitterworld technology.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>GeneticEngineer63</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Genetic engineer</Title>
+    <TitleShort>Geneticist</TitleShort>
+    <BaseDesc>NAME carried out HIS first genetic experiments on farm animals. HECAP soon grew to become quite skilled in all forms of genetic engineering.
+
+A horrifying lab accident left him with a mortal fear of rodents.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>Pampered62</defName>
+    <Slot>Childhood</Slot>
+    <Title>Pampered</Title>
+    <TitleShort>Pampered</TitleShort>
+    <BaseDesc>Born on a decadent glitterworld, NAME was given every expensive toy.
+
+This pampered lifestyle caused HIM to miss many basic life lessons. HECAP developed a special aversion to cooking, and always ordered the staff to do the kitchen work.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>NinjaAssassin4</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Ninja assassin</Title>
+    <TitleShort>Ninja</TitleShort>
+    <BaseDesc>NAME performed stiletto-precise assassinations for an interplanetary conglomerate. HECAP was assigned the most complex missions involving disguise, deception, subterfuge, and efficient violence.
+
+A nasty incident with a potted plant and an assassination gone wrong left HIM with an aversion to plant life.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>MilitaryChild84</defName>
+    <Slot>Childhood</Slot>
+    <Title>Military child</Title>
+    <TitleShort>Military</TitleShort>
+    <BaseDesc>NAME grew up in a family with a rich military background. HISCAP teenage years were spent traveling system to system wherever HIS parents were deployed.
+
+Following the tradition of HIS family, HE enlisted at the earliest possible age.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>LazyProgrammer84</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Lazy programmer</Title>
+    <TitleShort>Programmer</TitleShort>
+    <BaseDesc>NAME independently developed software that had a competitive edge against local urbworld corporations.
+
+HISCAP legally questionable methods lead to a growing number in unsolved claims of intellectual property theft.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>GangMember82</defName>
+    <Slot>Childhood</Slot>
+    <Title>Gang member</Title>
+    <TitleShort>Ganger</TitleShort>
+    <BaseDesc>NAME grew up homeless on an urbworld. HECAP was forced to fight and struggle for everything, making HIM hard and ruthless long before adulthood.
+
+NAME would have stayed in those streets, had HE not been injured in a shootout and had his body confiscated for use by one of the worldwide city's ruling corporations.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>MindwipedAssassin80</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Mindwiped assassin</Title>
+    <TitleShort>Mindwipe</TitleShort>
+    <BaseDesc>The corporation took and remade NAME. They trained HIM into an tool of destruction and subversion. HE took to HIS new life, finding satisfaction in the jobs they sent HIM on.
+
+When HE learned that they planned on disposing of HIM, NAME turned on his masters, killing several and fleeing the planet.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>TestSubject90</defName>
+    <Slot>Childhood</Slot>
+    <Title>Test subject</Title>
+    <TitleShort>Subject</TitleShort>
+    <BaseDesc>Test subject #11,529,914 of experiment #56,048 spent her childhood in white rooms performing mental and physical tests.
+
+Her only companion was a voice that called itself Mother. Mother rewarded success with praise - and failure with harsh punishment.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>TestSubject6</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Test subject</Title>
+    <TitleShort>Subject</TitleShort>
+    <BaseDesc>NAME's tests went from geometry to quantum physics, and she could run the grand gauntlet without a scratch.
+
+One day, Mother said that her final test lay beyond the red door, and that even if she couldn't hear her voice, Mother would always be there.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>FireScarredChild32</defName>
+    <Slot>Childhood</Slot>
+    <Title>Fire-scarred child</Title>
+    <TitleShort>Scarred</TitleShort>
+    <BaseDesc>Duster was an active child who lived an uneventful childhood until he fell into a fire and suffered horrific burns to his hands and arms. Although the scars have faded, he can't bear to be in close proximity to fire.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>SpaceshipSalesman6</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Spaceship salesman</Title>
+    <TitleShort>Salesman</TitleShort>
+    <BaseDesc>Duster tried his hand at various jobs, including building space rabbit cages and working at a mutant wheat research project. Finally, he found his true calling as a spacecraft salesman. Specializing in recreational spacecraft, his smooth talk and charming nature served him well.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>TechEnthusiast65</defName>
+    <Slot>Childhood</Slot>
+    <Title>Tech enthusiast</Title>
+    <TitleShort>Tech nerd</TitleShort>
+    <BaseDesc>Michael had all the latest gadgets as a child. He spent all his time playing games with AIs instead of with other children. He always felt awkward around new people.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>AIProgrammer5</defName>
+    <Slot>Adulthood</Slot>
+    <Title>AI programmer</Title>
+    <TitleShort>Programmer</TitleShort>
+    <BaseDesc>Michael enlisted in the military's robotics division, developing smarter combat AI.
+
+The whole time he was there, he never spoke with another human. He spent all his time conversing with the AI he was developing.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>DiplomatsChild66</defName>
+    <Slot>Childhood</Slot>
+    <Title>Diplomat's child</Title>
+    <TitleShort>Diplomat</TitleShort>
+    <BaseDesc>NAME was born in diplomatic family.
+
+Travelling often, HE was home-schooled and saw the world mostly through a computer.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>WhiteHatHacker49</defName>
+    <Slot>Adulthood</Slot>
+    <Title>White-hat hacker</Title>
+    <TitleShort>Hacker</TitleShort>
+    <BaseDesc>From HIS computer, NAME helped rid the online world of bad people.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>Winerunner96</defName>
+    <Slot>Childhood</Slot>
+    <Title>Winerunner</Title>
+    <TitleShort>Winerunner</TitleShort>
+    <BaseDesc>Abandoned by his parents, NAME was raised by the monks of the Novo Mosteiro dos Jerónimos monastery on Aracena VI.
+
+The monks taught him discipline and hard work. In return, HE would go into the city and 'acquire' exotic wines for the monks' nightly tastings.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>VinhoKing50</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Vinho king</Title>
+    <TitleShort>Booze king</TitleShort>
+    <BaseDesc>After prohibition came to Aracena VI, NAME expanded his underground liquor business until it dominated the market on two continents. They called him the Vinho King.
+
+Though HE mostly controlled his competition by masterful political maneuvering, HE was not above the occasional beat-down or stiletto assassination.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>StreetChild49</defName>
+    <Slot>Childhood</Slot>
+    <Title>Street child</Title>
+    <TitleShort>Street</TitleShort>
+    <BaseDesc>NAME's drug addict mother died, leaving HIM an orphan at a young age. To stay alive, HE resorted to theft, and when necessary, prostitution. When NAME was caught stealing from a church, the priestess saw a wounded but smart child, and took HIM in to give HIM a second chance at life.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>SlaveChemist35</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Slave chemist</Title>
+    <TitleShort>Chemist</TitleShort>
+    <BaseDesc>NAME became a gifted pharmaceutical scientist, but was captured by slavers. HECAP was sold to a warlord and forced to create drugs to test on other slaves. This left HIM with deep and troubling questions on the ethics of scientific research and medicine.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>SlaveFarmer49</defName>
+    <Slot>Childhood</Slot>
+    <Title>Slave farmer</Title>
+    <TitleShort>Slave</TitleShort>
+    <BaseDesc>Abandoned as a little girl, NAME was found by a farmer. Being infertile himself, the farmer kept her as a slave. The constant beatings left her scarred and unable to handle violence. After many years, she ran away.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>RocketEngineer75</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Rocket engineer</Title>
+    <TitleShort>Engineer</TitleShort>
+    <BaseDesc>NAME won a grant to a top school and earned a degree in rocket engineering. After several years working for a space mining company she left to travel and see the universe.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>MedievalSlave34</defName>
+    <Slot>Childhood</Slot>
+    <Title>Medieval slave</Title>
+    <TitleShort>Slave</TitleShort>
+    <BaseDesc>Born into slavery, Soren never knew his parents. He eventually escaped from his masters and boarded a military cargo ship, where he was pressed into military service.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>SpaceMarine27</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Space marine</Title>
+    <TitleShort>Marine</TitleShort>
+    <BaseDesc>Soren joined a squad of space marines known for their brutal efficiency at killing. His last name and his lack of emotion during combat inspired his nickname: Grim.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>FoundryApprentice81</defName>
+    <Slot>Childhood</Slot>
+    <Title>Foundry apprentice</Title>
+    <TitleShort>Foundryman</TitleShort>
+    <BaseDesc>NAME grew up as an apprentice in the foundries of an industrial world. This experience gave HIM metalworking skills and strong muscles, but stunted HIS artistic development.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>CombatEngineer42</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Combat engineer</Title>
+    <TitleShort>Engineer</TitleShort>
+    <BaseDesc>NAME became a combat engineer. HE built bases, fixed guns, and repaired vehicles for the army - when HE wasn't shooting at people, that is.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>PrivilegedProdigy5</defName>
+    <Slot>Childhood</Slot>
+    <Title>Privileged prodigy</Title>
+    <TitleShort>Prodigy</TitleShort>
+    <BaseDesc>NAME was recognized as gifted early in his glitterworld upbringing. Luckily, HIS family was in a position to cultivate that genius through advanced education. HIS training included science, leadership, and the arts.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>PlanetaryDiplomat42</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Planetary diplomat</Title>
+    <TitleShort>Diplomat</TitleShort>
+    <BaseDesc>NAME's passion and profession was interplanetary politics. HE was a master of social manipulation and negotiation and devoted HIMself to working towards peace, compromise and mutual benefit.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>ChildProdigy22</defName>
+    <Slot>Childhood</Slot>
+    <Title>Child prodigy</Title>
+    <TitleShort>Prodigy</TitleShort>
+    <BaseDesc>After graduating college at age twelve, Jered devoted his life to becoming immortal.  However his research crossed the line when he tried to modify his body using gene therapy and mechanical augmentation.  He was arrested and condemned to a prison planet.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>RenegadeEngineer33</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Renegade engineer</Title>
+    <TitleShort>Engineer</TitleShort>
+    <BaseDesc>After a daring escape from the prison planet with a small crew of fellow inmates, Jered set his gaze on his homeworld.
+
+He travelled there, recruited more followers, hijacked a space cruiser, and launched into the void.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>BoneCollector51</defName>
+    <Slot>Childhood</Slot>
+    <Title>Bone collector</Title>
+    <TitleShort>Pupil</TitleShort>
+    <BaseDesc>Born to a family of fortune hunters, NAME always had a passion for ancient history.
+
+Though never a tough or social boy, HE loved to dig through history books as well as dirt piles.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>Osteologist68</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Osteologist</Title>
+    <TitleShort>Scholar</TitleShort>
+    <BaseDesc>After graduating university at the top of his class, NAME quickly became a well-known and athletic college professor.
+
+With his new found fame and fitness came a sudden reluctance to preform menial labor - such tasks are better left to graduate students.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>GNomeSculptor81</defName>
+    <Slot>Childhood</Slot>
+    <Title>G-nome sculptor</Title>
+    <TitleShort>Sculptor</TitleShort>
+    <BaseDesc>NAME was engineered in a lab as part of the G-nome Project. He was implanted at birth with encyclopedic knowledge of all aspects of xenobiology.
+
+The G-nome scientists nicknamed him Gizmo and occupied him with sculpting. He developed a love of sculpting gnomes and gnome accessories.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>Gnomebiologist56</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Gnomebiologist</Title>
+    <TitleShort>Biologist</TitleShort>
+    <BaseDesc>Gizmo was a xenobiology professor in a glitterworld university. He went to conferences and managed an art gallery.
+
+However, he never stopped sculpting yard gnomes, and considers this to be his true profession.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>CircusPerformer69</defName>
+    <Slot>Childhood</Slot>
+    <Title>Circus performer</Title>
+    <TitleShort>Performer</TitleShort>
+    <BaseDesc>Growing up in the circus, NAME learned a lot of interesting things. More interesting then the balls he juggled were the pockets he picked between shows.
+
+A mistake with some firesticks made him develop a deathly fear of fire.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>CriminalKingpin63</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Criminal kingpin</Title>
+    <TitleShort>Kingpin</TitleShort>
+    <BaseDesc>NAME discovered his gift - people did what he said, when he said it. Taking advantage of this, he set off for the rimworlds planets to make a name for himself in the criminal underworld.
+
+Having people do things for him taught him to avoid manual labor at all costs.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>VatgrownSlavegirl4</defName>
+    <Slot>Childhood</Slot>
+    <Title>Vatgrown slavegirl</Title>
+    <TitleShort>Slave girl</TitleShort>
+    <BaseDesc>Emmie was vat-grown as a slave in an illegal urbworld laboratory. As a young child, she was taught only to cook, clean and serve her masters. For most of her childhood, she knew nothing else.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>UrbworldSexSlave3</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Urbworld sex slave</Title>
+    <TitleShort>Sex slave</TitleShort>
+    <BaseDesc>Emmie was sold into sexual slavery. Having been designed to be inhumanly attractive and too weak to rebel against her masters, she was passed between dozens of owners and knew nothing of freedom.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>GunKid57</defName>
+    <Slot>Childhood</Slot>
+    <Title>Gun kid</Title>
+    <TitleShort>Gun kid</TitleShort>
+    <BaseDesc>Growing up in a urbworld, NAME never had it easy. Every day was a struggle and pollution, hunger, and gangs of older kids.
+
+In the little space he had to himself, he studied his passion - guns, combat tactics, and war history.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>UrbworldSergeant87</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Urbworld sergeant</Title>
+    <TitleShort>Sergeant</TitleShort>
+    <BaseDesc>NAME's passion for all things militaristic kept with him all the way to adulthood.
+
+After enrolling as a local policeman, he was soon promoted to sergeant.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>FeudalLordling43</defName>
+    <Slot>Childhood</Slot>
+    <Title>Feudal lordling</Title>
+    <TitleShort>Lordling</TitleShort>
+    <BaseDesc>NAME grew up on a feudal world that was part of a multi-planet empire. As the son of a high lord, HE enjoyed many privileges.
+
+HECAP learned to maneuver in the both the political landscape and in close quarters combat.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>SystemLord49</defName>
+    <Slot>Adulthood</Slot>
+    <Title>System lord</Title>
+    <TitleShort>Lord</TitleShort>
+    <BaseDesc>For NAME, ruling a country, or even a planet, was not good enough. HECAP sought to expand his influence across the system - by legal or extralegal means.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>FeudalFarmBoy31</defName>
+    <Slot>Childhood</Slot>
+    <Title>Feudal farm boy</Title>
+    <TitleShort>Slave</TitleShort>
+    <BaseDesc>NAME was the son of a medieval farmer, and was expected to follow in his footsteps. He was brought up as a kind, well trained farm boy.
+
+He lived in an unusual feudal kingdom which co-existed with a midworld society which was itself well-known for genetic manipulation.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>HunterOfTheKing3</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Hunter of the king</Title>
+    <TitleShort>Pest guard</TitleShort>
+    <BaseDesc>NAME was forced to protect his colony in the name of the king after a mysterious outbreak of murderous genetically-modified wildlife.
+
+Despite his best efforts, his kingdom was destroyed. NAME developed PTSD, a hatred of animals and a bad case of technophobia. HECAP was named for the place they found him.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>SpaceFanboy24</defName>
+    <Slot>Childhood</Slot>
+    <Title>Space fanboy</Title>
+    <TitleShort>Fanboy</TitleShort>
+    <BaseDesc>NAME dreamed of space travel. He built his own pretend spaceship from an old police box and went to see the great unknown.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>Castaway19</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Castaway</Title>
+    <TitleShort>Castaway</TitleShort>
+    <BaseDesc>NAME was a passenger on a routine interstellar transit. When his ship was destroyed, he lived as a castaway on an uninhabited planet for several years.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>GlitterworldNerd52</defName>
+    <Slot>Childhood</Slot>
+    <Title>Glitterworld nerd</Title>
+    <TitleShort>Nerd</TitleShort>
+    <BaseDesc>NAME loved technology from the day HE was born. HECAP had a mechanoid companion which HE tried to modify when HE was 10.
+
+HISCAP obsession with technology meant that HE never appreciated arts or culture.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>EnergyResearcher46</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Energy researcher</Title>
+    <TitleShort>Researcher</TitleShort>
+    <BaseDesc>NAME was working on an idea for rapid communication over long distances. HECAP made an error which destroyed HIS lab and most of the city. HECAP fled the planet to escape the authorities.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>WarChild73</defName>
+    <Slot>Childhood</Slot>
+    <Title>War child</Title>
+    <TitleShort>War child</TitleShort>
+    <BaseDesc>Mushinto's parents were drafted into a civil war in his home country. Growing up surrounded by fighting and death, he became well-accustomed to tragedy and tough as nails. His expressive side, however, never developed.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>BountyHunter22</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Bounty hunter</Title>
+    <TitleShort>Hunter</TitleShort>
+    <BaseDesc>When the civil war ended, Mushinto had to find a new way to use his fighting skills. He decided to hunt down war criminals and soon realized that he enjoyed capturing  bad guys by any means necessary.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>UpperUrbworlder20</defName>
+    <Slot>Childhood</Slot>
+    <Title>Upper urbworlder</Title>
+    <TitleShort>High urber</TitleShort>
+    <BaseDesc>NAME had a privileged childhood on a major urbworld. Living in an apartment far above the dense poverty of the city, HE spent most of HIS time reading or drawing the cityscape he saw through HIS window.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>Missionary23</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Missionary</Title>
+    <TitleShort>Missionary</TitleShort>
+    <BaseDesc>NAME decided to devote HIS life to religious service. HE made a vow of peace and spent several years preaching and serving food in soup kitchens for the homeless.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>IdealisticCadet35</defName>
+    <Slot>Childhood</Slot>
+    <Title>Idealistic cadet</Title>
+    <TitleShort>Cadet</TitleShort>
+    <BaseDesc>Raised in the military traditions of his forefathers, NAME was taught from a young age that he would be a great leader and the hero of the Dichter family.
+
+He excelled at his studies and graduated from the academy with honors.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>MercenaryPilot69</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Mercenary pilot</Title>
+    <TitleShort>Mercenary</TitleShort>
+    <BaseDesc>NAME convinced his squadron to abscond with their ships and make a course for the rim worlds. There they could fight for the causes they believed in.
+
+His men were loyal and fought hard, but their ideals soon faded away and their cause became that of the highest bidder.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>ChildOfGlass96</defName>
+    <Slot>Childhood</Slot>
+    <Title>Child of glass</Title>
+    <TitleShort>Survivor</TitleShort>
+    <BaseDesc>NAME was raised underground on a "marble" planet - a wasteland of radioactive asphalt and toxic fallout.
+
+To survive on a planet devoid of life, HE had to learn how to farm underground and how to fight without wasting bullets.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>LoneTraveler73</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Lone traveler</Title>
+    <TitleShort>Traveler</TitleShort>
+    <BaseDesc>After escaping HIS homeworld on a jury-rigged ship, NAME traveled to new worlds to experience their beauty.
+
+HECAP joined resistance groups and applied the skills HE cultivated on HIS homeworld. HECAP often warned of the nuclear horror HE saw as a child.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>AmateurBotanist14</defName>
+    <Slot>Childhood</Slot>
+    <Title>Amateur botanist</Title>
+    <TitleShort>Botanist</TitleShort>
+    <BaseDesc>Spending many summers crawling through dirt, Christian found he had quite the green thumb. Instead of learning to cook the food he grew, he just grew more and more.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>Undertaker50</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Undertaker</Title>
+    <TitleShort>Undertaker</TitleShort>
+    <BaseDesc>NAME roamed the galaxy offering grief assistance to those who've had a recent loss. While he never shied away from physical confrontation, he prefers to confront tough situations with a calm word.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>ChildSlave6</defName>
+    <Slot>Childhood</Slot>
+    <Title>Child slave</Title>
+    <TitleShort>Slave</TitleShort>
+    <BaseDesc>Graham was born to a poor family on a rimworld. His father sold him into slavery at a young age and he was traded many times. A tycoon bought him as part of a child labor force and sent down into mines to look after machines and to work alongside them.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>Mercenary75</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Mercenary</Title>
+    <TitleShort>Mercenary</TitleShort>
+    <BaseDesc>After escaping a crew of rimworld slavers, Graham developed a lack of respect for life. He proceeded to sign on to a mercenary group where he developed skills using guns and survival techniques. Graham did dirty work where he found it, and traveled to many worlds.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>AdventuringChild56</defName>
+    <Slot>Childhood</Slot>
+    <Title>Adventuring child</Title>
+    <TitleShort>Adventurer</TitleShort>
+    <BaseDesc>Axle was raised to become an engineer. For years, he planned to stow away on a cargo ship and start a new, more adventuresome life.
+
+One night, after his parents fell asleep, he managed to sneak on board a cargo ship just before it left port.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>HiredAssassin2</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Hired assassin</Title>
+    <TitleShort>Assassin</TitleShort>
+    <BaseDesc>Axle was a master thief, working mostly for organized crime. Over time, he made a name for himself and shifted his business into the paid "removal" of human threats.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>VideoGamer91</defName>
+    <Slot>Childhood</Slot>
+    <Title>Video gamer</Title>
+    <TitleShort>Gamer</TitleShort>
+    <BaseDesc>Ryan was raised in a glitterworld. Everything he wanted came to him. In school he was a social butterfly. At home, he spent his time looking up the newest gadgets and playing his favourite video games.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>SpaceshipChef34</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Spaceship chef</Title>
+    <TitleShort>Chef</TitleShort>
+    <BaseDesc>Ryan got a spot on a ship by becoming the ship's cook. He enjoyed cooking and helping the doctor clean wounds, but he never got used to cleaning the dishes.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>DreadedBaby55</defName>
+    <Slot>Childhood</Slot>
+    <Title>Dreaded baby</Title>
+    <TitleShort>Baby dude</TitleShort>
+    <BaseDesc>NAME was found as a baby in a crashed spacecraft. According to the ship's data records, HE invented the nuclear device that powered his ship. Apparently, he also invented the sky and the hamburger, and is said to have fathered a race of tasty golden kittens.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>DreadedDude3</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Dreaded dude</Title>
+    <TitleShort>Dude</TitleShort>
+    <BaseDesc>Some followers say that NAME and HIS crew of misfits found the Fountain of Youth, many, many centuries ago, and that they caused the extinction of the dinosaurs on many planets.
+
+There's even a religion about them, somewhere, involving noodles and meatballs.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>TechHead78</defName>
+    <Slot>Childhood</Slot>
+    <Title>Tech-head</Title>
+    <TitleShort>Tech-head</TitleShort>
+    <BaseDesc>Standing on the ship hull with his father in an child-size EVA suit, NAME loved space from a young age.
+
+HECAP was put in a Civil Academics Program. While pretending to be like HIS father, HE spent HIS time taking care of plants in HIS messy room. HISCAP nickname was given for HIS love of circles.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>SystemsEngineer27</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Systems engineer </Title>
+    <TitleShort>Engineer</TitleShort>
+    <BaseDesc>Like HIS father, NAME was a systems engineer. HECAP was qualified in both colony and ship systems.
+
+When not working, HE would make mechanical figurines, read old books, or occasionally travel to uncharted worlds. Being introverted, HE did these things mostly alone.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>Tinkerer87</defName>
+    <Slot>Childhood</Slot>
+    <Title>Tinkerer</Title>
+    <TitleShort>Tinkerer</TitleShort>
+    <BaseDesc>NAME grew up on a scrap-heap of a planet - the garbage dump of other planets in the system. He learned to make new machines from the dead parts of old ones. With some friends, he eventually escaped on a salvaged and repaired ship.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>Engineer9</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Engineer</Title>
+    <TitleShort>Engineer</TitleShort>
+    <BaseDesc>NAME found a job as a tinkering engineer on the trading hub planet Irithir. Tough local traders forced him to learn negotiation skills, and he made good profits selling refurbished weapons and tools.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>DisplacedNoble82</defName>
+    <Slot>Childhood</Slot>
+    <Title>Displaced noble</Title>
+    <TitleShort>Noble</TitleShort>
+    <BaseDesc>Born on an urbworld to the ruler of three megacities, NAME’s prospects looked good - until a violent insurrection overthrew HIS family. Exile introduced NAME to hard work and combat, but some high-born squeamishness remains.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>Minister38</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Minister</Title>
+    <TitleShort>Minister</TitleShort>
+    <BaseDesc>NAME managed to secure an important position in the government of a minor glitterworld. HECAP got used to the opulence, while attempting to keep HIS citizens content. HECAP had ample time for pleasure and indulgence – though HE never forgot how to do hard work.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>ChessMaster23</defName>
+    <Slot>Childhood</Slot>
+    <Title>Chess master</Title>
+    <TitleShort>Chesshead</TitleShort>
+    <BaseDesc>NAME loved to play chess. HECAP even earned the nickname Bishop for some of HIS craftier moves. 
+
+HECAP never got into trouble - mostly because he was good at not getting caught.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>Pirate65</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Pirate</Title>
+    <TitleShort>Pirate</TitleShort>
+    <BaseDesc>As a pirate leader, Bishop was well-known for his cunning plans and chess-like traps. HECAP was never afraid to sacrifice a few pawns to capture an important target.
+
+HISCAP name has been linked more then once to strategies that overcame overwhelming odds.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>Orphan62</defName>
+    <Slot>Childhood</Slot>
+    <Title>Orphan</Title>
+    <TitleShort>Orphan</TitleShort>
+    <BaseDesc>Born on a deep space station, NAME was orphaned at a young age. In the orphanage, he stood up for the weaker kids and fought off the bullies.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>BountyHunter14</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Bounty hunter</Title>
+    <TitleShort>Hunter</TitleShort>
+    <BaseDesc>NAME is a self-employed bounty hunter. HECAP spent HIS days hunting space pirates and collecting cash bounties.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>Straggler99</defName>
+    <Slot>Childhood</Slot>
+    <Title>Straggler</Title>
+    <TitleShort>Straggler</TitleShort>
+    <BaseDesc>Despite being blessed with parental love, NAME hardly knew his parents.
+
+HECAP was frequently left to his own devices which meant more time devoted to exploring his interests…and getting into trouble.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>Spiceminer98</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Spiceminer</Title>
+    <TitleShort>Spiceminer</TitleShort>
+    <BaseDesc>NAME made his mark on the universe as a spice miner assigned to the lucrative mining colony of Rural Pen’The.
+
+Little did he know, Benn was about to embark on a career path that would change his life.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>BrutalThief33</defName>
+    <Slot>Childhood</Slot>
+    <Title>Brutal thief</Title>
+    <TitleShort>Thief</TitleShort>
+    <BaseDesc>Growing up in a gang, NAME learned the brutality of the streets.
+
+Knowing that showing weakness could be fatal, he closed himself of to others.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>CrimeLord40</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Crime lord</Title>
+    <TitleShort>Crime lord</TitleShort>
+    <BaseDesc>Through brutality and cruelty, NAME rose to the rank of crime lord.
+
+He relied less on his fists and more on his guns. His reputation spread faster due to his cold-bloodedness and ruthless methods.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>BoySoldier18</defName>
+    <Slot>Childhood</Slot>
+    <Title>Boy soldier</Title>
+    <TitleShort>Soldier</TitleShort>
+    <BaseDesc>War may never change - but the cast of characters does.
+
+Born on a violent urbworld, NAME was trained from a young age to fight the wars of others, and became rather good at it.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>MarbleDoctor3</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Marble doctor</Title>
+    <TitleShort>Doctor</TitleShort>
+    <BaseDesc>On a bomb-blasted world, first aid is often the only aid.
+
+NAME used his medical skills to help the injured and the sick. HECAP believed that while guns and machines may be powerful, a doctor is even more so.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>ApocalypseChild97</defName>
+    <Slot>Childhood</Slot>
+    <Title>Apocalypse child </Title>
+    <TitleShort>Apocalypse</TitleShort>
+    <BaseDesc>NAME spent his childhood on a post-apocalyptic world. He fought for survival from a young age, on a planet where trust did not exist.
+
+He told everyone that he had no luck.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>MobHenchman44</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Mob henchman</Title>
+    <TitleShort>Henchman</TitleShort>
+    <BaseDesc>After being "saved" from his home world by a slaver ship, NAME was sold to an urbworld crime lord, where he was used as a henchman. He specialized in low-tech beat-downs and intimidation.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>OrphanOfWar96</defName>
+    <Slot>Childhood</Slot>
+    <Title>Orphan of war</Title>
+    <TitleShort>Orphan</TitleShort>
+    <BaseDesc>NAME lost his family and home early in life. His life became emotionally hollow, but his painful memories drove him to survive.
+
+HECAP took several jobs, but never achieved more than a basic education.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>MechWarVeteran90</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Mech war veteran</Title>
+    <TitleShort>Veteran</TitleShort>
+    <BaseDesc>NAME fought against swarms of rogue mechanoids since he was old enough to enlist. HECAP has bled on half a dozen worlds and has lost more than he cares to recall. These experiences left him hardened, both mentally and physically.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>ImperialStudent92</defName>
+    <Slot>Childhood</Slot>
+    <Title>Imperial student</Title>
+    <TitleShort>Student</TitleShort>
+    <BaseDesc>NAME studied on an imperial midworld where guns were banned and self-defense study was encouraged. The relative safety allowed HIM to focus on HIS botanical research.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>PoisonGardener85</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Poison gardener</Title>
+    <TitleShort>Botanist</TitleShort>
+    <BaseDesc>NAME spent almost all HIS time tending to a poison garden and became withdrawn from society.
+
+In that time HE learnt a few safe culinary and medicinal uses for the otherwise deadly plants.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>PowerMadScholar58</defName>
+    <Slot>Childhood</Slot>
+    <Title>Power-mad scholar</Title>
+    <TitleShort>Scholar</TitleShort>
+    <BaseDesc>"Knowledge is power." These words sparked something within NAME, and came to form his core drive. When not entombed within libraries, HE would take things apart to see first-hand how they worked, with little regard for the border between mechanical and organic.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>ArtificerRampant50</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Artificer rampant</Title>
+    <TitleShort>Artificer</TitleShort>
+    <BaseDesc>Fuelled by the thrill of discovery and his own megalomania, NAME set out to invent new devices and improve existing ones, breaking laws and customs as necessary.
+
+HECAP formed a crew to gather materials for HIS work - and to deal with outsiders who might interfere.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>Orphan91</defName>
+    <Slot>Childhood</Slot>
+    <Title>Orphan</Title>
+    <TitleShort>Orphan</TitleShort>
+    <BaseDesc>Left alone in the world without parents, Kevin did the best he could to adapt.
+
+Having to take care both of himself and younger kids at the orphanage, he learned a lot about humans and how to interact with them.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>NeuroScientist84</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Neuro scientist</Title>
+    <TitleShort>Scientist</TitleShort>
+    <BaseDesc>Kevin worked for a long time to improve the world's understanding of the human brain.
+
+After succeeding in mapping the whole brain, Kevin joined a team of scientist on a quest to map the brains of xeno species.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>Abductee39</defName>
+    <Slot>Childhood</Slot>
+    <Title>Abductee</Title>
+    <TitleShort>Abductee</TitleShort>
+    <BaseDesc>NAME was abducted at a young age and forced to do menial labor on a pirate ship.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>PirateCaptain0</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Pirate captain</Title>
+    <TitleShort>Captain</TitleShort>
+    <BaseDesc>NAME worked his way up through the ranks of a pirate ship, eventually becoming captain. He leads his crew between worlds, making a name to remember.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>BlackjackPlayer50</defName>
+    <Slot>Childhood</Slot>
+    <Title>Blackjack player</Title>
+    <TitleShort>Gambler</TitleShort>
+    <BaseDesc>The only useful skill NAME learned from his tough military school was card counting. He amassed many enemies by cheating at casinos, becoming ever more edgy and violent as the threat of retaliation grew.
+
+When he was finally caught, they burned half his skin off. He'll never be able to face fire or violence again.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>HedgeFundManager27</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Hedge fund manager</Title>
+    <TitleShort>Banker</TitleShort>
+    <BaseDesc>A top hedge fund manager on a teeming urbworld, NAME's portfolio grew rapidly as he charmed clients with a sweet voice and devious intent. When the deal turned out too good to be true, he was forced to flee the planet with a bounty on his head.
+
+As he travelled the stars he found a passion in the arts, making masterpieces fit for high society customers.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>AcademyStudent52</defName>
+    <Slot>Childhood</Slot>
+    <Title>Academy student </Title>
+    <TitleShort>Student </TitleShort>
+    <BaseDesc>NAME went to school like a good space cadet would. He was very tall and was known for his good looks.
+
+Though he worried more about his hairstyle than his grades, he still somehow passed the final exams.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>ComputerEngineer28</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Computer engineer </Title>
+    <TitleShort>Tech head</TitleShort>
+    <BaseDesc>Bored of his code-monkey office job and missing the glory days of the Academy, NAME saw a commercial about the frontier where "only the strong survive".
+
+With his wife Morgan, NAME undertook a journey into the unknown.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>AspiringEngineer42</defName>
+    <Slot>Childhood</Slot>
+    <Title>Aspiring engineer</Title>
+    <TitleShort>Tinkerer</TitleShort>
+    <BaseDesc>NAME had a fascination with gadgets and gizmos. HECAP took apart and put together almost anything HE could find.
+
+HECAP got used to repairing toys brought to HIM by other children, and even fixed a few devices from HIS elders.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>ExpertHandyman95</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Expert handyman</Title>
+    <TitleShort>Handyman</TitleShort>
+    <BaseDesc>NAME worked as a traveling engineer. HECAP fixed things ranging from a simple communications array to the intricate software harness in his ship's AI meta-core. Nothing is beyond repair for HIM.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>MedicalStudent18</defName>
+    <Slot>Childhood</Slot>
+    <Title>Medical student</Title>
+    <TitleShort>Student</TitleShort>
+    <BaseDesc>NAME grew up on a glitterworld in a family of doctors and chose to maintain the tradition.
+
+HECAP had few friends, but got along with HIS siblings very well.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>MedicSoldier37</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Medic soldier </Title>
+    <TitleShort>Medic</TitleShort>
+    <BaseDesc>NAME enrolled in his planetary army as a frontline medic. He soon knew the horrors of war and was deeply marked by them.
+
+HECAP left the military and his homeworld and began researching medicine and helping those he came across.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>HighBaroness49</defName>
+    <Slot>Childhood</Slot>
+    <Title>High baroness</Title>
+    <TitleShort>Noble</TitleShort>
+    <BaseDesc>NAME was born as low-ranking royalty in a large imperial family.
+
+She was placed In charge of running her home planet from an early age, and learned important political and cultural skills in that role.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>ExiledResearcher36</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Exiled researcher</Title>
+    <TitleShort>Exile</TitleShort>
+    <BaseDesc>NAME's love of robotics was not appreciated in her technophobic empire. The High Cardinal of the system excommunicated her, and she was never allowed to return.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>WorldSlider50</defName>
+    <Slot>Childhood</Slot>
+    <Title>World slider</Title>
+    <TitleShort>Slider</TitleShort>
+    <BaseDesc>NAME was raised by a world-hopping band of criminals. HECAP learned not to leave evidence of his presence in case the group had to leave in a hurry. HECAP also learned about medicine and hand-to-hand combat from his fellow criminals.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>Villain66</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Villain</Title>
+    <TitleShort>Villain</TitleShort>
+    <BaseDesc>After rising to the top of his criminal band, NAME was taught the arts of villainy, from handling firearms to developing new weapons technologies. He excelled at bending others to his will.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>MedicalStudent71</defName>
+    <Slot>Childhood</Slot>
+    <Title>Medical student</Title>
+    <TitleShort>Student</TitleShort>
+    <BaseDesc>Born into a long line of doctors, NAME was tutored in all fields of medicine, from herbal ointments to the modern synthetic drugs. HECAP also picked up a healthy disdain for lower class work.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>SpaceNavyDoctor40</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Space navy doctor</Title>
+    <TitleShort>Doctor</TitleShort>
+    <BaseDesc>NAME served several tours as a doctor on one of the few warships defending HIS homeworld. HECAP learned combat skills while fighting occasional pirate boarding parties, and became an expert at treating gruesome combat wounds.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>AspergersRebel96</defName>
+    <Slot>Childhood</Slot>
+    <Title>Aspergers rebel</Title>
+    <TitleShort>Rebel</TitleShort>
+    <BaseDesc>NAME grew up as a rebel on an formerly-advanced rimworld devastated by war.
+
+HISCAP Aspergers syndrome meant he struggled with social situations and was incapable of caring, but HE learned hard skills like research and shooting very quickly.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>GovernmentAgent80</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Government agent  </Title>
+    <TitleShort>Agent</TitleShort>
+    <BaseDesc>NAME worked for the government against rebel groups and excelled in this capacity. During HIS training HE was taught firearms, melee combat and medical skills.
+
+Having grown up in a war-ravaged city, dirt, blood and dead bodies don’t bother HIM and HE sees no reason to clean them up.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>ShootingComa31</defName>
+    <Slot>Childhood</Slot>
+    <Title>Shooting coma</Title>
+    <TitleShort>Coma child</TitleShort>
+    <BaseDesc>Nebulys fell into a coma at a young age and spent years dreaming about shooting. When he awoke, he was useless at most tasks - but he could aim pretty well.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>SelflessHunter57</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Selfless hunter</Title>
+    <TitleShort>Hunter</TitleShort>
+    <BaseDesc>Nebulys was a hunter of mysterious creatures that many didn't even believe existed. Sometimes the people were right - and sometimes they were wrong.
+
+Along the way, he helped people in need.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>PsychologyStudent88</defName>
+    <Slot>Childhood</Slot>
+    <Title>Psychology student</Title>
+    <TitleShort>Student</TitleShort>
+    <BaseDesc>NAME researched new religions and traditions and often dreamt of distant stars. 
+
+His dreams prompted him to ask what lay beyond the lights in the sky.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>AcolyteOfStars66</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Acolyte of stars</Title>
+    <TitleShort>Priest</TitleShort>
+    <BaseDesc>Ever the dreamer, NAME traveled across the universe to find the thing he felt was calling to him.
+
+HECAP became poorer and poorer, but used every means possible to carry on.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>SpaceSmuggler10</defName>
+    <Slot>Childhood</Slot>
+    <Title>Space smuggler</Title>
+    <TitleShort>Smuggler</TitleShort>
+    <BaseDesc>Tater's parents used him to help smuggle contraband between a cluster of rim worlds.
+
+Aided by his small size, Tater became very adept at carrying out his parents' missions, learning weaponry, negotiations, and most of all smuggling.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>SpaceRaider65</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Space raider</Title>
+    <TitleShort>Raider</TitleShort>
+    <BaseDesc>Tater was the leader of a spaceborne pirate crew. Skipping between the rim worlds, he became the feared enemy of many settlements.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>Abductee2</defName>
+    <Slot>Childhood</Slot>
+    <Title>Abductee</Title>
+    <TitleShort>Abductee</TitleShort>
+    <BaseDesc>NAME was abducted by xenohumans when HE was still a baby. They experimented on HIM to understand his genetic structure.
+
+As HE grew up, NAME grew a little bit too big and strong for his captors and eventually escaped.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>Spy40</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Spy</Title>
+    <TitleShort>Spy</TitleShort>
+    <BaseDesc>NAME was trained by HIS government in infiltration and espionage. HECAP learned to keep a cool head and to talk HIS way out of tight situations. When talking didn't work, HE was capable of more violent direct action.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>BlessedChild86</defName>
+    <Slot>Childhood</Slot>
+    <Title>Blessed child</Title>
+    <TitleShort>Blessed</TitleShort>
+    <BaseDesc>NAME was born under auspicious circumstances to a midworld spiritual group and held in reverence throughout HIS childhood.
+
+HECAP learned to take care of the poor and give succor to the faithful from an early age.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>WanderingHealer6</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Wandering healer</Title>
+    <TitleShort>Healer</TitleShort>
+    <BaseDesc>NAME studied to be a doctor, but was dissatisfied with HIS practice on an otherwise peaceful midworld.
+
+Instead, HE chose to pull up roots and travel to the rimworlds in order to care for people who needed HIM most.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>YouthSoldier99</defName>
+    <Slot>Childhood</Slot>
+    <Title>Youth soldier</Title>
+    <TitleShort>Soldier</TitleShort>
+    <BaseDesc>NAME was born into a long line of soldiers. He followed that heritage, joining a military training program.
+
+He excelled in all physical training programs in his Marine course, and even passed most of the intellectual exams. While he was never particularly bright or nimble, NAME learned the value of hard work and suffering.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>VeteranSoldier2</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Veteran soldier</Title>
+    <TitleShort>Soldier</TitleShort>
+    <BaseDesc>NAME fought many tours against pirates, rebels, and xenos. He endured the glory and horrors of war.
+
+Worn down by drills, wars, and battle scars, NAME 'retired' to the easy soldier life of colonial civility enforcement. He spent his days polishing his war medals, knowing he had done his bloodline proud.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>GlitterworldKid84</defName>
+    <Slot>Childhood</Slot>
+    <Title>Glitterworld kid</Title>
+    <TitleShort>Glit kid</TitleShort>
+    <BaseDesc>The son of a genetically-engineered "perfect mate" on a glitterworld, Chaz was much more shy, withdrawn and nervous than his parents. HECAP kept mostly to himself, studying science and medicine and taking on gardening as a hobby. 
+
+In HIS teens, HE ran away from home, seeking a quieter life.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>CosmeticReject89</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Cosmetic reject</Title>
+    <TitleShort>Reject</TitleShort>
+    <BaseDesc>Living on the streets, Chaz submitted himself to an unethical cosmetics lab in exchange for food and shelter.
+
+After some painful cosmetic modification, Chaz barely resembles his former self. Having been forced to work for the lab until he was rescued, Chaz is now too afraid to lash out at anyone.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>FeralChild73</defName>
+    <Slot>Childhood</Slot>
+    <Title>Feral child</Title>
+    <TitleShort>Survivor</TitleShort>
+    <BaseDesc>NAME and his family lived a hard but prosperous lives along with their fellow colonists on a distant rimworld.
+
+One day a group of mechanoids attacked, killing everyone aside from Robert. He then lived alone in the desert until a group of raiders found him.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>RaiderKing70</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Raider king</Title>
+    <TitleShort>Raider</TitleShort>
+    <BaseDesc>Starting as nothing more than a slave, NAME rose quickly among the raider ranks until all knew his name and his ruthlessness.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>Scout86</defName>
+    <Slot>Childhood</Slot>
+    <Title>Scout</Title>
+    <TitleShort>Scout</TitleShort>
+    <BaseDesc>Nate loved being outdoors. His parents enrolled him in a program that taught military scouting skills. He thrived when he was left alone in the wilderness.
+
+Due to this upbringing, however, NAME did not learn the basic technological skills that are taken for granted by many others.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>FrontierMarshal75</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Frontier marshal</Title>
+    <TitleShort>Marshal</TitleShort>
+    <BaseDesc>Nate was the marshal of his colony. He tried to honorably uphold the law, but the corrupt local mayor killed his family and left him for dead.
+
+After regaining his health, Nate arrested the mayor. HECAP left his homeworld and started a new life working to make a difference in the universe.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>TraineeAlchemist98</defName>
+    <Slot>Childhood</Slot>
+    <Title>Trainee alchemist</Title>
+    <TitleShort>Alchemist</TitleShort>
+    <BaseDesc>NAME grew up on a medieval world. He learned the basics of alchemy and medicine in one the few monastic schools on his planet.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>ReligiousHierarch42</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Religious hierarch</Title>
+    <TitleShort>Hierarch</TitleShort>
+    <BaseDesc>Ordained as a priest in his local community, NAME used intrigue and diplomacy to rise to the higher echelon of the clergy. He held numerous titles and lands.
+
+One day, a merchant landed his spaceship near NAME's home. HECAP decided to accompany the merchant in search for new worlds and challenges.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>Pickpocket96</defName>
+    <Slot>Childhood</Slot>
+    <Title>Pickpocket</Title>
+    <TitleShort>Thief</TitleShort>
+    <BaseDesc>NAME witnessed HIS parents' murder at a young age. With no guidance, HE had to fend for HIMself any way possible. Joining a small group of misfits HE did whatever was necessary to survive.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>CriminalSurgeon8</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Criminal surgeon</Title>
+    <TitleShort>Surgeon</TitleShort>
+    <BaseDesc>Being near many injured fellow criminals, NAME took it upon HIMself to work on them.
+
+Although many people died, HE did get better at using knives.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>SpaceCadet12</defName>
+    <Slot>Childhood</Slot>
+    <Title>Space cadet</Title>
+    <TitleShort>cadet</TitleShort>
+    <BaseDesc>Growing up on a rural farm-world leaves little opportunity for excitement and adventure, so when the Royal Fleet began a recruiting program on his home planet, Jake threw down his hoe and cattle prod to took up arms for the crown.
+
+He served on the interplanetary super-destroyer HMS Thunder-Child.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>SanitationCaptain28</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Sanitation captain</Title>
+    <TitleShort>Janitor </TitleShort>
+    <BaseDesc>After graduating officer training school, Jake was assigned to main battle deck on the Thunder-Child. He served there for a year before his "gallant" actions saw him reassigned to the maintenance corps.
+
+It was with the maintenance corps he was dubbed Table on account of his legs.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>Naturalist25</defName>
+    <Slot>Childhood</Slot>
+    <Title>Naturalist</Title>
+    <TitleShort>Naturalist</TitleShort>
+    <BaseDesc>Mitch grew up on a backwater planet with minimal education. He had to hunt and grow food to survive.
+
+HISCAP family's home was frequently raided for food by scavengers. This made Mitch very suspicious and slow to trust anyone he doesn't know.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>OverwatchSniper73</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Overwatch sniper</Title>
+    <TitleShort>Sniper</TitleShort>
+    <BaseDesc>NAME didn't know why he joined the military, but he stayed to protect his fellow soldiers.
+
+Army life broke him down and built him back up. It taught him marksmanship, hand to hand combat and how to patch a bullet wound in a hurry.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>Drudge47</defName>
+    <Slot>Childhood</Slot>
+    <Title>Drudge</Title>
+    <TitleShort>Drudge</TitleShort>
+    <BaseDesc>NAME was never sure what HE wanted to do with HIS life. HECAP spent most of HIS time doing low-wage jobs and wondering what HIS future would be like.
+
+HECAP entertained himself with space sims and survival games, dreaming of one day being somewhere more interesting.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>GalacticSightseer55</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Galactic sightseer</Title>
+    <TitleShort>Sightseer</TitleShort>
+    <BaseDesc>NAME traveled the stars. HECAP could barely scrape together travel costs doing odd-jobs on stations, but it was all worth it. Seeing the wonders of the galaxy was where HE found HIS calling.
+
+HECAP loved camping on exotic worlds and learning the patterns of strange wildlife. The wonders of the universe inspired HIM like nothing else could.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>ChildOfDrifters15</defName>
+    <Slot>Childhood</Slot>
+    <Title>Child of drifters</Title>
+    <TitleShort>Drifter</TitleShort>
+    <BaseDesc>Ever since HE was very small, NAME had never known a home beyond HIS parent's ship. They were a family of nomads whose meandering provided a constant change of scenery. HISCAP life was often perilous but never dull, and HE inherited HIS parents' wanderlust at a young age.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>WanderingCrafter28</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Wandering crafter</Title>
+    <TitleShort>Crafter</TitleShort>
+    <BaseDesc>NAME continued to follow HIS parents' nomadic ways, supporting himself with his crafting skills. But wandering is a hard life, and HE often thought of finding somewhere to settle down and put HIS skills to good use.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>TribalThunderer25</defName>
+    <Slot>Childhood</Slot>
+    <Title>Tribal thunderer</Title>
+    <TitleShort>Thunderer</TitleShort>
+    <BaseDesc>Years ago, NAME's tribe stumbled upon an abandoned gun vault. Believing the weapons to be sacred gifts, the shaman would select a child born under superstitious circumstances and assign them the honour of bearing one to defend the village. NAME is such a child.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>MutinousCaptain49</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Mutinous captain</Title>
+    <TitleShort>Captain</TitleShort>
+    <BaseDesc>NAME was taken to the stars by slavers after HIS tribe was decimated in a raid. Over the years HE learned the language of HIS captors, eventually working for them as an interpreter and diplomat.
+
+The captain only learned of NAME's true cunning when revenge was taken by form of mutiny.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>CorpBredStudent62</defName>
+    <Slot>Childhood</Slot>
+    <Title>Corp-bred student</Title>
+    <TitleShort>Student</TitleShort>
+    <BaseDesc>NAME was bred to become an executive for the space exploration corporation that owned his home planet. HISCAP family had been working for that corporation for four generations.
+
+At age five, HE enrolled at the corporate academy where he learned loyalty and ruthlessness. NAME excelled in finding diplomatic solutions where others would need violence.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>CorpResearcher37</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Corp researcher</Title>
+    <TitleShort>Researcher</TitleShort>
+    <BaseDesc>NAME was a leading researcher for a massive space exploration corporation.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>EarthColonist29</defName>
+    <Slot>Childhood</Slot>
+    <Title>Earth colonist</Title>
+    <TitleShort>Colonist</TitleShort>
+    <BaseDesc>NAME was born on Earth. As a child, HECAP was launched into space as part of an interstellar colonization program.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>SoleSurvivor46</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Sole survivor</Title>
+    <TitleShort>Survivor</TitleShort>
+    <BaseDesc>NAME lived in a remote colony. When mechanoid centipedes attacked his home and killed his people, he was the last survivor.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>MilitaryTrainee74</defName>
+    <Slot>Childhood</Slot>
+    <Title>Military trainee</Title>
+    <TitleShort>Soldierboy</TitleShort>
+    <BaseDesc>NAME was raised on a military base in the Xennoa system. HECAP was exposed to many different strenuous activities and grew strong at an early age. HECAP also learned negotiation, medical, and military tactics.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>AWOLSoldier46</defName>
+    <Slot>Adulthood</Slot>
+    <Title>AWOL soldier</Title>
+    <TitleShort>Soldier</TitleShort>
+    <BaseDesc>NAME was an infantryman.
+
+When HECAP was informed of his assignment to the Xennoa-Zartza War, HECAP decided he did not want to be a soldier. He was able to escape via military spacejet.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>Bookworm75</defName>
+    <Slot>Childhood</Slot>
+    <Title>Bookworm</Title>
+    <TitleShort>Bookworm</TitleShort>
+    <BaseDesc>NAME spent his youth in the library, reading every book he could about the technical marvels of space travel, the engineering ingenuity of the space-faring pioneers, and the horrible yet fascinating tales of the mechanoid races. He vowed that one day, he would see these things for himself.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>Explorer36</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Explorer</Title>
+    <TitleShort>Explorer</TitleShort>
+    <BaseDesc>NAME traveled from planet to planet, gathering samples, stories, and research. He hoped one day to compile a record of every animal, plant, mineral, and machine and device in known space: The Complete Traveler's Guide to the RimWorlds.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>ColonyKid89</defName>
+    <Slot>Childhood</Slot>
+    <Title>Colony kid</Title>
+    <TitleShort>Colony kid</TitleShort>
+    <BaseDesc>NAME was born the child of two doctors in a small colony. Because of HIS parents, HE was always interested in science and medicine.
+
+NAME never really got along with other children, and as a result became withdrawn and unsociable.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>StarshipDoctor78</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Starship doctor</Title>
+    <TitleShort>Doctor</TitleShort>
+    <BaseDesc>NAME was a doctor on a starship. He was a brilliant surgeon and dabbled in research of his own. However, he was quite reclusive and never had the best bedside manner.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>CaravanChild53</defName>
+    <Slot>Childhood</Slot>
+    <Title>Caravan child</Title>
+    <TitleShort>Child</TitleShort>
+    <BaseDesc>NAME was born on a urbworld merchant ship to an entrepreneurial mother and an absent father. Born male, she disliked boy stuff, and got into her mother’s things all the time.
+
+Eventually, she traveled with her mother to a glitterworld and spent her savings on a body she was happy with.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>BountyHunter28</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Bounty hunter</Title>
+    <TitleShort>Hunter</TitleShort>
+    <BaseDesc>NAME was a bounty hunter on a massive glitterworld. HECAP worked sensitive assignments for extremely wealthy clients, and was known for quiet execution and total discretion.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>ReEducatedYouth32</defName>
+    <Slot>Childhood</Slot>
+    <Title>Re-educated youth</Title>
+    <TitleShort>Reeducated</TitleShort>
+    <BaseDesc>NAME lived on a midworld where the government cared about the youth. 
+
+HECAP was one of the many children who were taken from their parents and forced into the new education programs.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>FallenOfficial88</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Fallen official</Title>
+    <TitleShort>Official</TitleShort>
+    <BaseDesc>NAME was an official for an autocratic government.
+
+When HIS superiors demanded HE participate in atrocities, NAME resigned and escape from his homeworld with nothing but the clothes on HIS back.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>AccursedChild43</defName>
+    <Slot>Childhood</Slot>
+    <Title>Accursed child</Title>
+    <TitleShort>Cursed</TitleShort>
+    <BaseDesc>NAME was born at the peak of a lunar eclipse. The elders declared HIM a child of darkness brought HIM under their care.
+
+HISCAP entire childhood was spent studying the lore and rituals of HIS people - until the day of calling.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>ShamanOfShadows30</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Shaman of shadows</Title>
+    <TitleShort>Shaman</TitleShort>
+    <BaseDesc>When the monsters of fire came from the sky, NAME was called upon by HIS tribe to guide them into battle.
+
+NAME made use of medicines and rituals to inspire and lead the warriors of many tribes against the invaders. The pirates were forced to retreat without capturing a single slave.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>AmateurAstronomer76</defName>
+    <Slot>Childhood</Slot>
+    <Title>Amateur astronomer</Title>
+    <TitleShort>Astronomer</TitleShort>
+    <BaseDesc>NAME was fascinated with astronomy. HECAP would spend hours gazing at planets and nebulae through his telescope.
+
+HECAP is credited with discovering a small comet that would, years later, strike a nearby moon and disrupt the mining operations there.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>StationSecurity1</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Station security</Title>
+    <TitleShort>Security</TitleShort>
+    <BaseDesc>NAME was commissioned as a special constable on a network of space stations. There he prevented illegal human trafficking.
+
+Once, fire broke out on the station, and HE saved many from the flames. Since then, HE has avoided fires.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>FarmHand94</defName>
+    <Slot>Childhood</Slot>
+    <Title>Farm hand</Title>
+    <TitleShort>Farm hand</TitleShort>
+    <BaseDesc>NAME was born on a farm on a smaller colony world.
+
+Everything was taken care of by the few members of the farm, including NAME. This helped HIM build independence, spirit, and a well-rounded character.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>SpaceTrafficker87</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Space trafficker</Title>
+    <TitleShort>Trafficker</TitleShort>
+    <BaseDesc>NAME discovered HE was heir of HIS distant uncle's weapons-trading business.
+
+To protect the future of the company HE went through extensive military training, in case of any "unforeseen circumstances".</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>EnergeticPopIdol4</defName>
+    <Slot>Childhood</Slot>
+    <Title>Energetic pop idol</Title>
+    <TitleShort>Pop idol</TitleShort>
+    <BaseDesc>Priscilla grew up on a glitterworld, training in rapier arts and singing. She spent several years as an energetic teen pop idol.
+
+However, she decided that the music and modeling industries were not paying her enough attention, so she left.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>PopIdolPirate25</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Pop idol pirate</Title>
+    <TitleShort>Pirate</TitleShort>
+    <BaseDesc>NAME and her fans set out as a space pirate crew. She raided corporations for money and staged performances to spread her name.
+
+NAME became afraid of fire when a rival burned her stage down. She relied on her fans to do the work she found unappealing.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>IcePlanetChild56</defName>
+    <Slot>Childhood</Slot>
+    <Title>Ice planet child</Title>
+    <TitleShort>Ice child</TitleShort>
+    <BaseDesc>Growing up on the frozen wastes of an ocean moon, NAME only had animals and a few hard-bitten sailors as companions.
+
+The lack of social interaction made him develop a interest in engineering - but he never developed any great fondness for humans.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>Roboticist87</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Roboticist</Title>
+    <TitleShort>Roboticist</TitleShort>
+    <BaseDesc>Sailors often died on the dangerous waters of NAME's ocean planet. HECAP created robots to replace them.
+
+Over time, he collected a small crew of robots to do his bidding. HECAP became proficient at mechanics and engineering, but lost the taste for manual labor.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>ToxicChild59</defName>
+    <Slot>Childhood</Slot>
+    <Title>Toxic child</Title>
+    <TitleShort>Toxic</TitleShort>
+    <BaseDesc>Growing up on a an Industrial planet, NAME started working in a chemical plant at age of six. Years of exposure to industrial toxins left him mentally scarred.
+
+He eventually blew up the facility and escaped the planet in a stolen cargo ship.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>StalwartFarmer91</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Stalwart farmer</Title>
+    <TitleShort>Farmer</TitleShort>
+    <BaseDesc>With the farm under constant threat from brigands, NAME learned to defend himself with his father's rifle. HECAP also mastered how to construct walls to keep livestock in and predators out.
+
+He once tried to paint a picture of his home, but discovered that he could only draw scribbles and ducks.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>BoyScout19</defName>
+    <Slot>Childhood</Slot>
+    <Title>Boy scout</Title>
+    <TitleShort>Scout</TitleShort>
+    <BaseDesc>NAME was in a boy scout troop on a midworld.
+
+He learned many survival skills including how to thrive in the outdoors and how to tend to basic wounds.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>UrbworldPimp46</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Urbworld pimp</Title>
+    <TitleShort>Pimp</TitleShort>
+    <BaseDesc>At first, NAME made a small profit from selling drugs. Then, he switched to selling women and made a fortune.
+
+HECAP developed great skills with his fists. He also learned to fix up the injuries HE inflicted on the girls.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>ScienceProdigy96</defName>
+    <Slot>Childhood</Slot>
+    <Title>Science prodigy</Title>
+    <TitleShort>Prodigy</TitleShort>
+    <BaseDesc>NAME was top of her class in chemistry, physics, exobiology, astronomy and opera.
+
+An unfortunate lab accident left her with a deathly fear of fire.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>ParticlePhysicist6</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Particle physicist</Title>
+    <TitleShort>Physicist</TitleShort>
+    <BaseDesc>NAME performed cutting-edge physics research. She wanted to help build a better and more peaceful future.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>SpeederRacer68</defName>
+    <Slot>Childhood</Slot>
+    <Title>Speeder racer</Title>
+    <TitleShort>Racer</TitleShort>
+    <BaseDesc>Rusty was the son of a fern farmer in the towering forests of Khalderia.
+
+He found his first love in speeder racing, zipping in and out of the massive canopies and gorgeous vistas of his homeworld. The seedy underworld of racing also forced him to learn to defend himself with a quick word or a quicker shot.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>DefenseLawyer2</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Defense lawyer</Title>
+    <TitleShort>Lawyer</TitleShort>
+    <BaseDesc>NAME found that HE could make more money with a quick word than a blaster. Seeking a job where HIS silver tongue could be useful, HE turned to the law.
+
+HECAP often defended the illegal speeder racers HE grew up with.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>MercenaryRecruit61</defName>
+    <Slot>Childhood</Slot>
+    <Title>Mercenary recruit</Title>
+    <TitleShort>Recruit</TitleShort>
+    <BaseDesc>Born to a long line of off-world mercenaries, NAME grew up in a busy trading hub. At a young age, HE was recruited into one of the mercenary crews.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>Ranger8</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Ranger</Title>
+    <TitleShort>Ranger</TitleShort>
+    <BaseDesc>NAME lived alone, deep in a forest. HECAP protected the wildlife against poachers, and learned to satisfy HIS own material needs without outside help.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>YoungPsychologist60</defName>
+    <Slot>Childhood</Slot>
+    <Title>Young psychologist</Title>
+    <TitleShort>Psych</TitleShort>
+    <BaseDesc>NAME was born and raised on a poor midworld, in the front passenger seat of HIS mother's cab.
+
+Watching pedestrians and listening to the taxi passengers all day long, HE soon became very good at figuring out someone's real purpose.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>FactionLeader69</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Faction leader</Title>
+    <TitleShort>Leader</TitleShort>
+    <BaseDesc>Early in HIS adulthood, NAME found HIMself surrounded by a gaggle of low-lifes. 
+
+For fun, HE gathered them and lead them to a certain death. HECAP knew then that HE had the talent to realize HIS ambitions of leadership.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>LabGrownChild20</defName>
+    <Slot>Childhood</Slot>
+    <Title>Lab-grown child</Title>
+    <TitleShort>Lab-grown</TitleShort>
+    <BaseDesc>NAME was born in a laboratory as part of a altruistic but failed attempt to create a new class of human.
+
+HISCAP childhood was filled with books and one-on-one tutoring. He was awkward, shy, and naive to the true nature of humanity.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>CorpResearcher9</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Corp researcher</Title>
+    <TitleShort>Researcher</TitleShort>
+    <BaseDesc>NAME was sold to a corporation and put to work as a corporate slave doing scientific research.
+
+Unable to adapt to the social politics of his workplace, he buried himself in his work and failed to progress up the corporate ladder. Every day, he yearned to be left alone.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>TechScholar7</defName>
+    <Slot>Childhood</Slot>
+    <Title>Tech scholar</Title>
+    <TitleShort>Scholar</TitleShort>
+    <BaseDesc>NAME was a youth scholar of the world of science and technology.
+
+HECAP strived every day to expand his intellectual abilities.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>TechnologyDoctor90</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Technology doctor</Title>
+    <TitleShort>Tech doc</TitleShort>
+    <BaseDesc>NAME performed research into propulsive fuels and energy generation.
+
+HECAP loved technology research, and hoped to improve human life by doing it.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>PitGladiator18</defName>
+    <Slot>Childhood</Slot>
+    <Title>Pit gladiator</Title>
+    <TitleShort>Gladiator</TitleShort>
+    <BaseDesc>NAME was enslaved as a child and forced to fight creatures and other people in an underground fighting arena.
+
+HECAP showed an affinity for the sport, and eventually bought his own freedom. However, his time in the pits never brought him much intellectual stimulation.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>PirateTrooper88</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Pirate trooper</Title>
+    <TitleShort>Trooper</TitleShort>
+    <BaseDesc>NAME joined a renowned interstellar criminal organization, and was often part of shock-assault boarding parties during starship raids.
+
+Though his combat experience made him a good fighter, the ruthlessness of the job left HIM cold-hearted and unenthusiastic about social interaction.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>FactoryWorker58</defName>
+    <Slot>Childhood</Slot>
+    <Title>Factory worker</Title>
+    <TitleShort>Worker</TitleShort>
+    <BaseDesc>Felix grew up in a large factory city on an industrial world.
+
+Since poverty was rampant and food scarce, he worked for whatever wages he could get. This wasn't an easy life, but Felix never shied away from a hard day's work.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>CombatMedic16</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Combat medic</Title>
+    <TitleShort>Medic</TitleShort>
+    <BaseDesc>After his home country entered a large-scale war, Felix was drafted into the army as a combat medic.
+
+His few years in the trenches trying to keep his fellow soldiers alive gave him an acute sense for first aid. Losing many friend has made him stoic and reserved.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>RichBoy51</defName>
+    <Slot>Childhood</Slot>
+    <Title>Rich boy</Title>
+    <TitleShort>Rich boy</TitleShort>
+    <BaseDesc>NAME grew up on a midworld with loving parents, a cute pet and a lot of money - but no friends.
+
+HECAP was always told by his father that 'those peasants just want your money'. So, HE spent most of his time alone, or fighting other kids.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>HiredGun99</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Hired gun</Title>
+    <TitleShort>Hired gun</TitleShort>
+    <BaseDesc>NAME always wanted to prove HE could make a living without HIS parents' help. HECAP did shady jobs that often involved pointing guns at innocent people.
+
+He eventually made enough money to board a cheap freighter. He discovered why it was so cheap when it crashed.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>Athlete75</defName>
+    <Slot>Childhood</Slot>
+    <Title>Athlete</Title>
+    <TitleShort>Athlete</TitleShort>
+    <BaseDesc>NAME was professional athlete at early age. Thanks to her skills, she was able to leave her homeworld and enroll in a glitterworld university of science and technology.
+
+Because of her demanding schedule and introverted nature, she became socially inept.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>StilettoAssassin10</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Stiletto assassin</Title>
+    <TitleShort>Assassin</TitleShort>
+    <BaseDesc>Because of her skills, NAME developed a sense of superiority. In time, she lost her sense of empathy. She often got into fights, and discovered how easy it is to kill a person.
+
+After realizing her talents, she became one of the most efficient assassins in the system.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>SoleSurvivor99</defName>
+    <Slot>Childhood</Slot>
+    <Title>Sole survivor</Title>
+    <TitleShort>Survivor</TitleShort>
+    <BaseDesc>Hawke's entire tribe was wiped out by a mysterious disease.
+
+Found alone and adopted by another band, he never became close with the other tribe members. He preferred to stay away from his new home, wandering the woods and tending the animals.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>Hunter7</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Hunter</Title>
+    <TitleShort>Hunter</TitleShort>
+    <BaseDesc>Hawke was a master hunter.
+
+He learned to track and trap any animal in the most dangerous of places, and had deep knowledge of many ingenious methods for taking down specific large animals.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>MechanoidHacker35</defName>
+    <Slot>Childhood</Slot>
+    <Title>Mechanoid hacker</Title>
+    <TitleShort>Mechacker</TitleShort>
+    <BaseDesc>The only son of a well respected mechanoid inventor, NAME had access to the materials to subvert and modify HISCAP father's creations.
+
+HECAP used drugs to increase HIS productivity. Unfortunately, the side-effects included persistent delusions of being mechanized, which limited HIS social life.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>BattlefieldTech63</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Battlefield tech</Title>
+    <TitleShort>Technician</TitleShort>
+    <BaseDesc>NAME had received firearms training, but HIS work was focused on technical adaption and manipulation of combat mechanoids on the battlefield.
+
+HECAP developed PTSD after narrowly escaping a primitive firebomb attack in a wheat field. The army medically discharged him from service.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>ProjectSubject48</defName>
+    <Slot>Childhood</Slot>
+    <Title>Project subject</Title>
+    <TitleShort>Subject</TitleShort>
+    <BaseDesc>NAME was picked by government agents for the mysterious "Frame Project".
+
+Due to memory blockages, however, he remembers very little about this project or its true agenda - only that there were few survivors.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>MasterTrader3</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Master trader</Title>
+    <TitleShort>Trader</TitleShort>
+    <BaseDesc>NAME was a master at trading. HECAP earned his nickname by helping a village through a trying time.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>HexCellArtist19</defName>
+    <Slot>Childhood</Slot>
+    <Title>Hex-cell artist</Title>
+    <TitleShort>Artist</TitleShort>
+    <BaseDesc>NAME crafted sculptures from spent hex-cells and traded them to a local museum for food.
+
+After HIS popularity grew, HE was approached by a pirate and abducted. The pirate kept HIM prisoner and forced HIM to create sculptures for sale.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>ExoticChef84</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Exotic chef</Title>
+    <TitleShort>Chef</TitleShort>
+    <BaseDesc>NAME has always gone overboard when it comes to food. HECAP is always seeking new and exotic ingredients.
+
+HISCAP quest for ingredients has brought HIM into some close calls with local flora and fauna.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>PlagueProdigy12</defName>
+    <Slot>Childhood</Slot>
+    <Title>Plague prodigy</Title>
+    <TitleShort>Prodigy</TitleShort>
+    <BaseDesc>NAME's childhood was cut short when a mysterious plague hit his homeworld.
+
+HECAP watched his friends die, and his compassion for humanity died with them. In its place a new thirst for knowledge emerged.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>MadScientist79</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Mad scientist</Title>
+    <TitleShort>Scientist</TitleShort>
+    <BaseDesc>NAME's lust for knowledge was only matched by his disdain for anyone who would stand in the way of his research.
+
+Traveling from world to world, he sought answers to questions few dared to ask.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>Dreamer11</defName>
+    <Slot>Childhood</Slot>
+    <Title>Dreamer</Title>
+    <TitleShort>Dreamer</TitleShort>
+    <BaseDesc>NAME was an expressive child. HECAP sang often, and made friends very easily, be they young or old, male or female.
+
+HECAP hated fighting, but when made angry, HE could be dangerous. HISCAP temper was quick.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>SpaceExplorer81</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Space explorer</Title>
+    <TitleShort>Explorer</TitleShort>
+    <BaseDesc>NAME once spent ten years trapped, alone on an alien planet. HECAP quickly adapted to the local environment, and learned to communicate with HIS local enemies.
+
+This long period alone left him without close friends. HISCAP heart is sensitive, but he learned to hide HIS emotions very well.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>UrbworldUrchin13</defName>
+    <Slot>Childhood</Slot>
+    <Title>Urbworld urchin</Title>
+    <TitleShort>Urchin</TitleShort>
+    <BaseDesc>Meredith was born in the darkest slums of her urban homeworld. Neglected by her mother, she learned to survive on her own, battling for every scrap of food she saw.
+
+Eventually, as her talents exceeded her peers, she ascended from the depths to the surface streets and left her mother behind.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>Smuggler62</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Smuggler</Title>
+    <TitleShort>Smuggler</TitleShort>
+    <BaseDesc>As a contract pilot, Meredith had a knack for stealing goods and trafficking contraband without getting caught.
+
+She eventually saved up enough to buy her own ship, and used it to travel from world to world dealing her goods in person.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>MilitaryRecruit62</defName>
+    <Slot>Childhood</Slot>
+    <Title>Military recruit</Title>
+    <TitleShort>Recruit</TitleShort>
+    <BaseDesc>NAME was born on a midworld run by an intensely militaristic dictatorship.
+
+From a young age, HE was trained to be a good soldier. They taught him how to use a gun and how to fight with melee weapons.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>DestroyerGeneral40</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Destroyer-general</Title>
+    <TitleShort>General</TitleShort>
+    <BaseDesc>NAME held the rank of Destroyer-General in a powerful midworld military.
+
+HECAP was known for his mastery of weapons, and was also a good ship pilot.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>StreetUrchin51</defName>
+    <Slot>Childhood</Slot>
+    <Title>Street urchin</Title>
+    <TitleShort>Urchin</TitleShort>
+    <BaseDesc>Born to a poor family on an urbworld, NAME was abandoned on the streets at a young age.
+
+He learned to steal and kill to survive the ruthless streets, gaining skills in melee and ranged combat. There was little time for talk in his life.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>SerialMurderer52</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Serial murderer</Title>
+    <TitleShort>Murderer</TitleShort>
+    <BaseDesc>NAME started to enjoy killing people, so he did more often and perfected his methods. He lurked in the darkest streets, stalking prey for hours.
+
+He enjoyed making artworks of his victims, and was known for leaving his signature on the bodies of those he killed.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>MedievalThief74</defName>
+    <Slot>Childhood</Slot>
+    <Title>Medieval thief</Title>
+    <TitleShort>Thief</TitleShort>
+    <BaseDesc>NAME grew up poor and hungry on a medieval planet, learning to fend for himself.
+
+At first, he only took what he needed. Then he learned to take what he wanted.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>HumanTrafficker69</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Human trafficker</Title>
+    <TitleShort>Trafficker</TitleShort>
+    <BaseDesc>NAME stole children from their homes to sell them to interested buyers.
+
+Over time, he lost what little moral sense he had left.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>TraumatizedYouth62</defName>
+    <Slot>Childhood</Slot>
+    <Title>Traumatized youth</Title>
+    <TitleShort>Trauma</TitleShort>
+    <BaseDesc>NAME lived on a pleasant midworld.
+
+HISCAP prosthophobe mother fell sick with heart disease. In desperation, NAME's father abducted innocent people and harvested their hearts. NAME's father was arrested, but the child remained scarred from the experience.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>MentalPatient64</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Mental patient</Title>
+    <TitleShort>Patient</TitleShort>
+    <BaseDesc>NAME was placed in a psychiatric hospital. There, HE spent HIS time engaged in the calming activities of the asylum.
+
+HECAP was eventually released, but HE retained HIS emotional distance, HIS curiosity about human anatomy, and HIS namesake manic giggling.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>GalacticPage15</defName>
+    <Slot>Childhood</Slot>
+    <Title>Galactic page</Title>
+    <TitleShort>Page</TitleShort>
+    <BaseDesc>NAME served the high admiral of a space fleet. HECAP learned the ways of court, including etiquette and speechcraft.
+
+In his feudal society, it was considered a great honor to serve a man of such prestige.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>EnvoyOfTheStars91</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Envoy of the stars</Title>
+    <TitleShort>Envoy</TitleShort>
+    <BaseDesc>NAME entered the diplomatic corps. Honor and tradition were the values he took with him on every mission.
+
+HISCAP prestigious position distanced him from backbreaking manual labor, allowing HIM to focus on his wordsmithing abilities. He left the blacksmithing to others.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>ApprenticeSmith9</defName>
+    <Slot>Childhood</Slot>
+    <Title>Apprentice smith</Title>
+    <TitleShort>Apprentice</TitleShort>
+    <BaseDesc>NAME grew up helping in his father's smithy.
+
+They were some of the last smiths on the planet that to use traditional smithing methods. They even collect some materials themselves.
+
+Sometimes, after work, NAME would practice using the swords HE forged.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>Blacksmith32</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Blacksmith</Title>
+    <TitleShort>Blacksmith</TitleShort>
+    <BaseDesc>As a blacksmith on a medieval world, NAME gained a reputation for the high quality of HIS work. HECAP wasn't bad at using the swords HE forged either.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>CloneFarmed43</defName>
+    <Slot>Childhood</Slot>
+    <Title>Clone-farmed</Title>
+    <TitleShort>Disposable</TitleShort>
+    <BaseDesc>Clone children are seeded into organic-rich wombvats and rapidly grown in a simmed universe. They're harvested later, sometimes for food, sometimes for organs, sometimes for workers - but they're always called 'Disposable'.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>CloneFarmer72</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Clone farmer</Title>
+    <TitleShort>Cloner</TitleShort>
+    <BaseDesc>Harvesting the products of clone farms is mostly done by the clones themselves -particularly to those whose sims tended towards the social. This clone was one such, who escaped from the farms and headed out to the stars.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>GangMember12</defName>
+    <Slot>Childhood</Slot>
+    <Title>Gang member</Title>
+    <TitleShort>Gang kid</TitleShort>
+    <BaseDesc>NAME grew up without parents. HISCAP whole life was spent alone, fighting for survival on the streets.
+
+No matter how hard it became to survive, he never gave up.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>GangBoss0</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Gang boss</Title>
+    <TitleShort>Boss</TitleShort>
+    <BaseDesc>To survive, NAME's gang often had to rob interstellar traders for food and supplies. Sometimes he had to kill the guards. Sometimes he had to kill the police who arrived to stop him.
+
+After years of this, he became one of the most-wanted criminals in the local stellar empire.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>MilitantChild30</defName>
+    <Slot>Childhood</Slot>
+    <Title>Militant child</Title>
+    <TitleShort>Soldier</TitleShort>
+    <BaseDesc>NAME's military family forced him to train in hand-to-hand combat and fighting tactics.
+
+In his own time, he built small inventions. This sharpened his mind.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>LostMarine68</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Lost marine</Title>
+    <TitleShort>Traitor</TitleShort>
+    <BaseDesc>Shortly after being promoted to a respected position in his planet's military, NAME disappeared without a trace.
+
+Later, he reappeared at the head of his own military force. No one knows why he became who he was.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>Killer70</defName>
+    <Slot>Childhood</Slot>
+    <Title>Killer</Title>
+    <TitleShort>Killer</TitleShort>
+    <BaseDesc>NAME was a bloodlusting child. Villagers thought her the product of a snake demon and human coupling.
+
+After watching how her human father betrayed and murdered her mother, she longed to see how many more humans she could get to fall into her hands.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>Healer46</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Healer</Title>
+    <TitleShort>Healer</TitleShort>
+    <BaseDesc>NAME took the time to admire the beauty of the world.
+
+Her passive aggressiveness surfaced once in a while, but she tried to adapt to her changing life.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>ProfessionalGamer86</defName>
+    <Slot>Childhood</Slot>
+    <Title>Professional gamer</Title>
+    <TitleShort>Pro gamer</TitleShort>
+    <BaseDesc>NAME was obsessed with video games since his hands were big enough to grip a joystick.
+
+HECAP achieved middling finishes in several local tournaments during the 16-bit era. Nobody noticed when he retired early in his teenage years.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>ToasterRepairman81</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Toaster repairman</Title>
+    <TitleShort>Repairman</TitleShort>
+    <BaseDesc>Good with his hands and passionate about technology, NAME aspired to invent gadgets and machines that would change his home world forever.
+
+A few failed and occasionally disastrous creations later, he gave up on his dream and took a job more befitting his skill set.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>WolfPackMember79</defName>
+    <Slot>Childhood</Slot>
+    <Title>Wolf pack member</Title>
+    <TitleShort>Feral</TitleShort>
+    <BaseDesc>NAME was discarded by HIS family. Raised by wolves, HE ran, hunted, and defended HIS pack.
+
+HECAP learned to fight efficiently by tooth and claw. HECAP also learned brutally effective primal hunting strategies.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>BehaviourResearch99</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Behaviour research</Title>
+    <TitleShort>Scientist</TitleShort>
+    <BaseDesc>Captured as a feral child, NAME was forced into the ways of modern society. HECAP quickly adapted and became a behavioural researcher, eventually owning a private facility.
+
+HECAP specialized in canines, but learned a great deal about all animals. HECAP never had interest in plants, however.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>RebelStudent39</defName>
+    <Slot>Childhood</Slot>
+    <Title>Rebel student</Title>
+    <TitleShort>Student</TitleShort>
+    <BaseDesc>NAME grew up in a modest but privileged family who encouraged him to play chess and shoot skeet at a young age.
+
+As a bored student, HE found joy in challenging his teachers about the contradictions between his planet's official values and their government's policies.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>PoliticalActivist61</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Political activist</Title>
+    <TitleShort>Activist</TitleShort>
+    <BaseDesc>Matt was involved with a radical political faction which worked against his homeworld's government.
+
+The guerilla tactics training that Matt received from his associates gave him the skills to fight, but also drove him to compromise his own beliefs.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>Cadet99</defName>
+    <Slot>Childhood</Slot>
+    <Title>Cadet</Title>
+    <TitleShort>Cadet</TitleShort>
+    <BaseDesc>Born on the planet New China, NAME's father was a police chief and kept extremely strict watch over his son.
+
+NAME had to do military-style drill exercises every day and keep his room spotlessly clean, always ready for inspection. HECAP came to abhor violence.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>Flaneur73</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Flaneur</Title>
+    <TitleShort>Flaneur</TitleShort>
+    <BaseDesc>NAME strolled and sipped his way through the streets and cafes of HIS world, pursuing freedom at every turn, never becoming attached.
+
+Through all this time, HE remained distrustful of others. And never took an order from anyone.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>ShipTechnician62</defName>
+    <Slot>Childhood</Slot>
+    <Title>Ship technician</Title>
+    <TitleShort>Technician</TitleShort>
+    <BaseDesc>NAME was an apprentice technician on trade ships plying their routes between the stations and planets of her home system. In this job, she learned to fix and improve many machines.
+
+Sometimes, her ship was assigned to short exploratory jaunts into dangerous regions of space.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>ChiefEngineer74</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Chief engineer</Title>
+    <TitleShort>Engineer</TitleShort>
+    <BaseDesc>As chief engineer on board a large spaceship, NAME was an expert in all things fiddly and complex.
+
+She relied on other members of the crew for some of the basic necessities of life. She and her ship eventually disappeared into a longsleep voyage of exploration.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>BlacksmithsSon72</defName>
+    <Slot>Childhood</Slot>
+    <Title>Blacksmith's son</Title>
+    <TitleShort>Blacksmith</TitleShort>
+    <BaseDesc>NAME's father owned the blacksmith shop in an run-down old city district. NAME would help his father whenever he could.
+
+Later, HIS father took him as a blacksmith's apprentice and raised him as a man. NAME also to on shooting as a hobby.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>BlacksmithShooter88</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Blacksmith shooter</Title>
+    <TitleShort>Gunsmith</TitleShort>
+    <BaseDesc>As a young blacksmith, NAME's family shop was raided by the police. HECAP shot two officers before they knocked him out and arrested him.
+
+Sentenced to life in prison, NAME learned about traveling and raiding from other criminals.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>JoywireAddict71</defName>
+    <Slot>Childhood</Slot>
+    <Title>Joywire addict</Title>
+    <TitleShort>Addict</TitleShort>
+    <BaseDesc>NAME's wealthy parents provided everything HE ever wanted. After discovering joywires, HE became obsessed. Once HIS parents realized what happened, they cut HIM off.
+
+Uncaring and often violent, HE sought his next joywire fix by any means possible.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>AddictionCounsel61</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Addiction counsel</Title>
+    <TitleShort>Counselor</TitleShort>
+    <BaseDesc>After recovering from a joywire addiction, NAME adopted a non-violent way of life and vowed to help others.
+
+Travelling between communities, HE used medicine, arts, and crafts to aid others who struggled with their own addictions.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>ChildKnave65</defName>
+    <Slot>Childhood</Slot>
+    <Title>Child-knave</Title>
+    <TitleShort>Knave</TitleShort>
+    <BaseDesc>NAME was a child-knave of King Loteric. HECAP enjoyed the training with wooden sticks and engaging others in close combat. HECAP adapted quickly to the heat of battle and was good at spreading fire.
+
+HECAP served his lord well, until the king died in an unfortunate accident.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>BloodgameSurvivor96</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Bloodgame survivor</Title>
+    <TitleShort>Bloodgamer</TitleShort>
+    <BaseDesc>NAME was sold to the Corestars Entertainment Company and used as meat in one of the company's system-wide broadcast shows.
+ 
+HISCAP manipulative nature made HIM quite a nightmare, even to the audience. He was kicked out and exiled to a planet full of deadly animals, criminals and armed camera-drones.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>WastelandWanderer2</defName>
+    <Slot>Childhood</Slot>
+    <Title>Wasteland wanderer</Title>
+    <TitleShort>Wanderer</TitleShort>
+    <BaseDesc>Born into a wealthy family on a desert world, NAME was cast out after a hired attack squad destroyed his ancestral home.
+
+The boy managed to hide in a cooling duct beneath his family's villa. Vowing revenge against the killers and whomever had hired them, Lucas struck out into the wasteland, alone.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>VoidspaceRaider8</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Voidspace raider</Title>
+    <TitleShort>Raider</TitleShort>
+    <BaseDesc>After years of seeking the assassin that broke up his family, NAME was offered a place with a group of space-faring raiders. He accepted, hoping to find the killer he sought.
+
+Due to HIS seemingly-unending ability to narrowly escape danger, he earned the nickname 'Blackjack' in recognition of his luck.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>PyroAssistant17</defName>
+    <Slot>Childhood</Slot>
+    <Title>Pyro assistant</Title>
+    <TitleShort>Assistant</TitleShort>
+    <BaseDesc>On an industrial world, NAME learned early that if HE wanted to eat, HE had to work. So work HE did. Kids fit in places adults can't, and where HE was from, the safety laws were quite flexible.
+
+HECAP was always a bit of a pyromaniac, and was banned from the kitchen after an unfortunate incident.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>MachineFixer97</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Machine fixer</Title>
+    <TitleShort>Fixer</TitleShort>
+    <BaseDesc>NAME was adept at dealing with mechanical problems, as long as the problem didn't involve the kitchen.
+
+After a life spent around dangerous machinery and flammable chemicals, HE learned how to patch HIMself up pretty well. Despite the pain, HE never learned to dislike fire.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>StreetUrchin39</defName>
+    <Slot>Childhood</Slot>
+    <Title>Street urchin</Title>
+    <TitleShort>Grifter</TitleShort>
+    <BaseDesc>After running away from home, NAME had to live on the streets.
+
+She grew up fast, and learned early that she had to figure out how to fool people into connecting with her.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>SpaceMerchant61</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Space merchant</Title>
+    <TitleShort>Merchant</TitleShort>
+    <BaseDesc>As part of a freelance interplanetary lifestyle, NAME sought to dominate her romantic interests as much as her business adversaries. When she didn't have her own ship to fly, she worked charter ships for hire.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>ChildChemist73</defName>
+    <Slot>Childhood</Slot>
+    <Title>Child chemist</Title>
+    <TitleShort>Chemist</TitleShort>
+    <BaseDesc>A midworld child, NAME was fixated on finding out exactly how everything worked.
+
+HECAP collected rare objects and performed dangerous experiments on them. Delving deeper into these experiments, HE became isolated from the rest of the world. HECAP only left HIS research area to collect more materials.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>BeastSlayer8</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Beast slayer</Title>
+    <TitleShort>Slayer</TitleShort>
+    <BaseDesc>NAME traveled between planets, following news of animal attacks. HECAP would camp on the planet for weeks, learning about HIS prey before striking. HECAP most enjoyed hunting thrumbos.
+
+Preferring to work alone, NAME enjoyed the thrill of the hunt, and the meat from the kill.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>BrothelGofer60</defName>
+    <Slot>Childhood</Slot>
+    <Title>Brothel gofer</Title>
+    <TitleShort>Gofer</TitleShort>
+    <BaseDesc>Born on a steam-powered midworld wracked by a century of economic crises, NAME went to work at a young age. Scrounging, shoe-polishing, sewing - he did it all. But HE was most known as a brothel gofer, delivering all manner of aphrodisiacs and chemicals to the girls' rooms.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>DrugLieutenant88</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Drug lieutenant</Title>
+    <TitleShort>Drugman</TitleShort>
+    <BaseDesc>NAME worked the drug trade under kingpin Grady Loughman. He had his men sell drugs when it was profitable, and fight the other cartels when the government came around.
+
+His social skills kept him on top of the political game, and he always had servants to cook and clean.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>LaborCampOrphan93</defName>
+    <Slot>Childhood</Slot>
+    <Title>Labor camp orphan</Title>
+    <TitleShort>Orphan</TitleShort>
+    <BaseDesc>NAME lost her parents in an industrial accident and grew up in an orphans' labor camp. The camp overseers worked their charges mercilessly - but at least she was clothed and fed.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>UrbworldEnforcer55</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Urbworld enforcer</Title>
+    <TitleShort>Enforcer</TitleShort>
+    <BaseDesc>NAME was an enforcer of law on an ancient urbworld.
+
+She dealt with the worst of humanity, from protecting greedy urbworld nobility in their spire palaces to rooting out cannibal cults in the deepest reaches of the underground hive.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>GameFanatic49</defName>
+    <Slot>Childhood</Slot>
+    <Title>Game fanatic</Title>
+    <TitleShort>Gamer</TitleShort>
+    <BaseDesc>NAME was a fanatical gamer who learned to survive in virtual reality games.
+
+Once, while attempting to prove HIS skills in the real world, HE was abducted by a criminal scientist and experimented on. HECAP escaped, but the experience stayed with him.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>ToolMechanic40</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Tool mechanic</Title>
+    <TitleShort>Mechanic</TitleShort>
+    <BaseDesc>NAME was a famous tool mechanic on a dusty rim world.
+
+After his firm closed due to scandal, HE joined a tribe to survive, crafting fine knives and hammers, traveling, and dealing HIS wares between settlements.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>ClassClown20</defName>
+    <Slot>Childhood</Slot>
+    <Title>Class clown</Title>
+    <TitleShort>Clowny kid</TitleShort>
+    <BaseDesc>In the ultra-competitive environs of his glitterworld school, NAME always offered to play the class clown to diffuse tension.
+
+HECAP developed a sense of social desperation from this, as well as an appreciation for the artistic side of comedy.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>CraftShaper11</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Craft shaper</Title>
+    <TitleShort>Shaper</TitleShort>
+    <BaseDesc>NAME locked HIMself in his studio for years, ordering delivery food to save time on cooking.
+
+Eventually, HIS creations brought HIM the highest honor on Semantic World: Permission to materialize any design in minutes using the most advanced technologies.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>CrimeBossChild12</defName>
+    <Slot>Childhood</Slot>
+    <Title>Crime boss' child</Title>
+    <TitleShort>Crime kid</TitleShort>
+    <BaseDesc>NAME was adopted child of a notorious crime boss. HECAP was taught all facets of the family business, from smuggling to inventive ways of killing.
+
+When the family was attacked, HIS father ordered HIM to hide in a secret longsleep crypt.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>MercenaryLeader48</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Mercenary leader</Title>
+    <TitleShort>Mercenary</TitleShort>
+    <BaseDesc>Alone, NAME set out to rebuild HIS father's life's work. HECAP challenged the leader of a small band of mercenaries and took control, then led the band as they hijacked trade ships and stole valuable cargo.
+
+HISCAP men mutinied. HECAP was abandoned, arrested, and sentenced to death.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>SentimentalChild27</defName>
+    <Slot>Childhood</Slot>
+    <Title>Sentimental child</Title>
+    <TitleShort>Nice kid</TitleShort>
+    <BaseDesc>NAME was a nice child. When anybody had a problem, HE tried to fix it. But, being a child, HE did not always succeed. This hurt his sensitive soul.
+
+HECAP dreamed of being a soldier who fights raiders and aliens.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>SpecialForces72</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Special forces</Title>
+    <TitleShort>Specialist</TitleShort>
+    <BaseDesc>Give me a reason to kill - a good reason!
+
+Markus was a soldier and a skilled one - so skilled that HE entered the special forces to battle militants and xenohuman raiders. HECAP never imagined himself a lone hero, but HE played HIS part in the group well.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>HackerKid65</defName>
+    <Slot>Childhood</Slot>
+    <Title>Hacker kid</Title>
+    <TitleShort>Hacker</TitleShort>
+    <BaseDesc>Born on a high-tech world, NAME learned hack computers at a young age. 
+
+Spending many hours tinkering alone made HIM very good with machines, but very bad with humans.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>BattleMechanic79</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Battle mechanic</Title>
+    <TitleShort>Mechanic</TitleShort>
+    <BaseDesc>NAME was a tech-obsessed mercenary in an early fusion-era system.
+
+HECAP was unusually obsessed with gathering the right gear, and often customized HIS own equipment with original modifications.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>VideoGamer94</defName>
+    <Slot>Childhood</Slot>
+    <Title>Video gamer</Title>
+    <TitleShort>Gamer</TitleShort>
+    <BaseDesc>NAME grew up on a midworld, mostly locked in HIS room, playing video games. HECAP was warm-hearted, with a deep fondness for animals.
+
+As HE grew up, HE turned to drugs to enhance his reality. During these trying times HE found passion and refuge in the gym.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>DischargedSoldier36</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Discharged soldier</Title>
+    <TitleShort>Soldier</TitleShort>
+    <BaseDesc>Jeremy prostituted himself to fund his drug habits. As an escape, HE joined the military and learned to fight.
+
+Too smart for the army, HE questioned and often disagreed with HIS superiors' decisions. This eventually led to HIS dishonorable discharge and left HIM with a  chip on HIS shoulder.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>Student1</defName>
+    <Slot>Childhood</Slot>
+    <Title>Student</Title>
+    <TitleShort>Student</TitleShort>
+    <BaseDesc>NAME studied chemistry and quantum mechanics for entertainment.
+
+HECAP was very good at convincing others to do his physical work, and made it a goal in life to avoid manual labor.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>Chemist38</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Chemist</Title>
+    <TitleShort>Chemist</TitleShort>
+    <BaseDesc>NAME was a research chemist. HECAP worked with chemicals, from pharmaceuticals to explosives, to develop new substances and treatments.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>SuperSoldier19</defName>
+    <Slot>Childhood</Slot>
+    <Title>Super soldier</Title>
+    <TitleShort>Soldier</TitleShort>
+    <BaseDesc>NAME's government ran an experimental super-soldier development program. They kidnapped thousands of infants, conditioned their minds with drugs and machines, and trained them to fight.
+
+Most infants died, but NAME did not. He killed his first man at age six, and was fighting in field operations not long after.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>SuperSoldier81</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Super soldier</Title>
+    <TitleShort>Soldier</TitleShort>
+    <BaseDesc>Product of a super-soldier program run by a now-deposed government, NAME was lost. HECAP survived the final suicide attack on the enemy mothership. What now?
+
+For the first time in his life, HE had no orders, no objectives. HECAP rose from wreckage and strove towards uncertainty, towards freedom.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>HeadjackAddict49</defName>
+    <Slot>Childhood</Slot>
+    <Title>Headjack addict</Title>
+    <TitleShort>Headjacker</TitleShort>
+    <BaseDesc>Plugged in to the computer via head-jack for days at a time, NAME found HE preferred the company of computers to that of people or pets.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>CorporateBuilder80</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Corporate builder</Title>
+    <TitleShort>Builder</TitleShort>
+    <BaseDesc>Even as HE stewed in HIS own wasted potential, NAME found HE had a knack for moving objects quickly. It was just what the planetary mega-corps wanted in their construction divisions.
+
+Unfortunately, the monotonous work erased HIS remaining creative impulses.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>UrbworldArmyBrat71</defName>
+    <Slot>Childhood</Slot>
+    <Title>Urbworld army brat</Title>
+    <TitleShort>Army brat</TitleShort>
+    <BaseDesc>NAME grew up on an urbworld military base. HECAP was too young to fight, but HE learned to make HIMself useful in other ways.
+
+HECAP became familiar with guns and military equipment, but never really got in touch with the natural world.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>MechanicsEngineer7</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Mechanics engineer</Title>
+    <TitleShort>Engineer</TitleShort>
+    <BaseDesc>NAME loved solving problems and, with HIS steady hands and a reputation for quality work, earned a job as a mechanical engineer. HECAP built and redesigned devices of all shapes and sizes.
+
+Eventually, HE was able to pick and choose HIS corporate clients. HECAP made several wealthy friends, as well as a few powerful enemies.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>CaravanTraveler5</defName>
+    <Slot>Childhood</Slot>
+    <Title>Caravan traveler</Title>
+    <TitleShort>Traveler</TitleShort>
+    <BaseDesc>Born to a family of traveling merchants, NAME was mentored by HIS father in the ways of being a trader. HECAP was often tasked with caring for the pack animals. Due to HIS nomadic lifestyle, HE hunted and bartered for HIS food.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>Caravaneer77</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Caravaneer</Title>
+    <TitleShort>Caravaneer</TitleShort>
+    <BaseDesc>NAME was the leader of a caravan. HECAP was responsible for the safety of HIS caravan and was the head negotiator in countless trade deals.
+
+HECAP and HIS people prospered, but their wealth made them a target for brigands. They often had to take up arms to fend off bandits and highwaymen.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+</BackstoryInjections>

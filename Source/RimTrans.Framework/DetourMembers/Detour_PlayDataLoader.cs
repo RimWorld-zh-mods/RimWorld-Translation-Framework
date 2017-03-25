@@ -25,25 +25,15 @@ namespace RimTrans.Framework.DetourMembers
                 GenGeneric.InvokeStaticMethodOnGenericType(typeof(DefDatabase<>), current, "Clear");
             }
             ThingCategoryNodeDatabase.Clear();
-            BackstoryDatabase.Clear();
-            SolidBioDatabase.Clear();
 
-            // Append: Clear PawnNameDatabaseSolid
-            PawnNameDatabaseSolid.GetListForGender(GenderPossibility.Either).Clear();
-            PawnNameDatabaseSolid.GetListForGender(GenderPossibility.Male).Clear();
-            PawnNameDatabaseSolid.GetListForGender(GenderPossibility.Female).Clear();
+            // Clear BackstoryDatabase
+            BackstoryDatabase.Clear();
+
+            // Append: Clear SolidBioDatabase and PawnNameDatabaseSolid
+            PawnBioLoaderUtility.Clear();
 
             // Append: Clear PawnNameDatabaseShuffled
-            NameBank nameBank = PawnNameDatabaseShuffled.BankOf(PawnNameCategory.HumanStandard);
-            Type t_NameBank = typeof(NameBank);
-            FieldInfo f_names = t_NameBank.GetField("names", BindingFlags.NonPublic | BindingFlags.Instance);
-            List<string>[,] names = (List<string>[,])f_names.GetValue(nameBank);
-            nameBank.NamesFor(PawnNameSlot.First, Gender.Male).Clear();
-            nameBank.NamesFor(PawnNameSlot.First, Gender.Female).Clear();
-            nameBank.NamesFor(PawnNameSlot.Nick, Gender.Male).Clear();
-            nameBank.NamesFor(PawnNameSlot.Nick, Gender.Female).Clear();
-            nameBank.NamesFor(PawnNameSlot.Nick, Gender.None).Clear();
-            nameBank.NamesFor(PawnNameSlot.Last, Gender.None).Clear();
+            ShuffledNameLoaderUtility.Clear();
 
             Current.Game = null;
 

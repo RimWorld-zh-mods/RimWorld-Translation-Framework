@@ -36,13 +36,13 @@ namespace RimTrans.Framework
             {
             }
 
-            Log.Message("RimWorld Translation Framework " + version);
+            Log.Message("RimWorld Translation Framework "/* + version*/);
 
             DetourProxy.ProcessAllDetours(); // Detour
 #if DEBUG
             DetourProxy.CompletedAndLog();
 #endif
-
+            UtilityHelper.Initialize();
             UtilityHelper.ProceseAllTranslationUtilities();
         }
     }

@@ -19,17 +19,17 @@ namespace RimTrans.Framework.Utility
 
         public static void SetValueByInjection(this NameTriple instance, PawnBioInjection pawnBioInjection)
         {
-            string first = pawnBioInjection.name.First;
+            string first = pawnBioInjection.name.first;
             if (!string.IsNullOrEmpty(first))
                 f_firstInt.SetValue(instance, first);
 
-            string nick = pawnBioInjection.name.Nick;
-            if (!string.IsNullOrEmpty(nick))
-                f_nickInt.SetValue(instance, nick);
-
-            string last = pawnBioInjection.name.Last;
+            string last = pawnBioInjection.name.last;
             if (!string.IsNullOrEmpty(last))
                 f_lastInt.SetValue(instance, last);
+
+            string nick = pawnBioInjection.name.nick;
+            if (!string.IsNullOrEmpty(nick))
+                f_nickInt.SetValue(instance, nick);
         }
     }
 }

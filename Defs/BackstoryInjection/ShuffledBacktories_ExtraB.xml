@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BackstoryInjections>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>HiveworldDrone29</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Hiveworld drone</Title>
+    <TitleShort>Drone</TitleShort>
+    <BaseDesc>NAME worked as a mindless construction drone in a massive hiveworld civilization. Though HE is now freed from the brutal social experiments to which HE was subjected, HE remains incapable of creative thought and leadership.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>Evangelist66</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Evangelist</Title>
+    <TitleShort>Evangelist</TitleShort>
+    <BaseDesc>On HIS 21st birthday, NAME experienced a religious awakening. HECAP decided to spend the rest of HIS life spreading the word of HIS deity, the beauty of its culture, and its unusual medical tradition.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>TunnelworldIlluminator50</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Tunnelworld illuminator</Title>
+    <TitleShort>Illuminator</TitleShort>
+    <BaseDesc>Among tunnel-dwellers, those with vision as strong as NAME’s are revered as sages. HECAP would lead the way, marking spots to dig with bioluminescent fungus and warning others of impending danger.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>Herbalist89</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Herbalist</Title>
+    <TitleShort>Herbalist</TitleShort>
+    <BaseDesc>NAME lived in the forest near a village. Though many of the villagers feared HIM, sick villagers would come to HIM to purchase salves and poultices made from the herbs HE grew in HIS garden. HECAP was happy to help them — for a price.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>ComaChild18</defName>
+    <Slot>Childhood</Slot>
+    <Title>Coma child</Title>
+    <TitleShort>Coma</TitleShort>
+    <BaseDesc>A childhood accident put NAME into a coma. HECAP didn’t wake up until HE was in HIS late teens. HISCAP body never recovered from the years of inactivity, but people tend to take pity on HIM when they hear HIS story.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>CivilServant75</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Civil servant</Title>
+    <TitleShort>Clerk</TitleShort>
+    <BaseDesc>NAME worked as a low-ranking administrator for a moribund government bureaucracy. HECAP is most at home filling out complicated paperwork and playing office politics.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>OrganFarm9</defName>
+    <Slot>Childhood</Slot>
+    <Title>Organ farm</Title>
+    <TitleShort>Organ farm</TitleShort>
+    <BaseDesc>NAME was raised in an illegal underground organ farm. HISCAP body was used to grow organic implants for wounded mercenaries. Though HIS upbringing has left HIM haunted, it has also given HIM a unique understanding of human biology.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>AsceticPriest87</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Ascetic priest</Title>
+    <TitleShort>Priest</TitleShort>
+    <BaseDesc>After taking a vow of silence, NAME joined a monastery on a peaceful backwater planet to spend HIS days in quiet contemplation.\n\nHECAP found happiness growing vegetables in the garden and making cheese in the monastery cellars.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>EscapedConvict68</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Escaped convict</Title>
+    <TitleShort>Escapee</TitleShort>
+    <BaseDesc>NAME denies involvement in the crimes that brought about HIS incarceration in a brutal penal colony. HECAP escaped by tunnelling beneath the perimeter using modified cutlery.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>StarshipJanitor15</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Starship janitor</Title>
+    <TitleShort>Janitor</TitleShort>
+    <BaseDesc>While other passengers pass the years between star systems in cryptosleep sarcophagi, NAME had to wake up at periodic intervals to perform inspections, check the navigation systems, and to oil the mechanoids.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+</BackstoryInjections>

@@ -15,10 +15,6 @@ namespace RimTrans.Framework.Injection
 
     public class ShuffledNameInjection : Def
     {
-        PawnNameSlot slot;
-
-        Gender gender;
-
         public List<NamePair> namePairs;
     }
 }

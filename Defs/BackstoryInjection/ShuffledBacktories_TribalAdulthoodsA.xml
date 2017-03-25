@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BackstoryInjections>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>Gatherer34</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Gatherer</Title>
+    <TitleShort>Gatherer</TitleShort>
+    <BaseDesc>NAME is a master gatherer. HECAP can find food in the most barren of places using HIS deep knowledge of plants, roots, and berries.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+  <RimTrans.Framework.Injection.BackstoryInjection>
+    <defName>Loner43</defName>
+    <Slot>Adulthood</Slot>
+    <Title>Loner</Title>
+    <TitleShort>Loner</TitleShort>
+    <BaseDesc>Loner never much liked the tribal council or the yearly festivals. HECAP prefers the open plain and the lonely whistle of wind through the rocks.\n\nHECAP visits HIS tribe from time to time, but for the most part HE takes care of HIMself using HIS own survival skills.</BaseDesc>
+  </RimTrans.Framework.Injection.BackstoryInjection>
+
+</BackstoryInjections>

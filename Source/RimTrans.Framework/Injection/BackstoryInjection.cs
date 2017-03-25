@@ -16,24 +16,5 @@ namespace RimTrans.Framework.Injection
         public string titleShort;
 
         public string baseDesc;
-
-        public Dictionary<string, int> skillGains = new Dictionary<string, int>();
-
-        public Dictionary<SkillDef, int> skillGainsResolved = new Dictionary<SkillDef, int>();
-
-        public WorkTags workDisables;
-
-        public WorkTags requiredWorkTags;
-
-        public List<string> spawnCategories = new List<string>();
-
-        [LoadAlias("bodyNameGlobal")]
-        public BodyType bodyTypeGlobal;
-
-        [LoadAlias("bodyNameFemale")]
-        public BodyType bodyTypeFemale;
-
-        [LoadAlias("bodyNameMale")]
-        public BodyType bodyTypeMale;
     }
 }
