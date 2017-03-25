@@ -15,9 +15,6 @@ namespace RimTrans.Framework.DetourMembers
         [DetourMethod(typeof(BackstoryDatabase), "ReloadAllBackstories")]
         public static void ReloadAllBackstories()
         {
-#if DEBUG
-            Log.Message("Detour_BackstoryDatabase.ReloadAllBackstories()");
-#endif
             foreach (Backstory current in DirectXmlLoader.LoadXmlDataInResourcesFolder<Backstory>("Backstories/Shuffled"))
             {
                 current.PostLoad();

@@ -13,9 +13,6 @@ namespace RimTrans.Framework.Utility
     {
         public static void LoadAllNames()
         {
-#if DEBUG
-            Log.Message("ShuffledNameLoaderUtility.LoadAllNames()");
-#endif
             NameBank nameBank = PawnNameDatabaseShuffled.BankOf(PawnNameCategory.HumanStandard);
             nameBank.AddNamesFromFile(PawnNameSlot.First, Gender.Male, "First_Male");
             nameBank.AddNamesFromFile(PawnNameSlot.First, Gender.Female, "First_Female");

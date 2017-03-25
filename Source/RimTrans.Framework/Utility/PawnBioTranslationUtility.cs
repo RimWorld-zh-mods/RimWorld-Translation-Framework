@@ -17,28 +17,6 @@ namespace RimTrans.Framework.Utility
 
         public static void InjectIntoAllBios()
         {
-#if DEBUG
-            Log.Message("PawnBioTranslationUtility.InjectIntoAllBios()");
-            int temp = 0;
-            var debugPawnBioInjection = new PawnBioInjection();
-            foreach (var pawnBio in SolidBioDatabase.allBios)
-            {
-                debugPawnBioInjection.first = $"起灵Debug{temp}";
-                debugPawnBioInjection.nick = $"大魔王Debug{temp}";
-                debugPawnBioInjection.last = $"风Debug{temp}";
-                pawnBio.name.SetValueByInjection(debugPawnBioInjection);
-                temp++;
-            }
-            foreach (var name in PawnNameDatabaseSolid.AllNames())
-            {
-                debugPawnBioInjection.first = $"起灵Debug{temp}";
-                debugPawnBioInjection.nick = $"大魔王Debug{temp}";
-                debugPawnBioInjection.last = $"风Debug{temp}";
-                name.SetValueByInjection(debugPawnBioInjection);
-                temp++;
-            }
-            //return;
-#endif
             countMissings = 0;
             missings.Remove(0, missings.Length);
             IEnumerable<PawnBio> allPawnBios = SolidBioDatabase.allBios;
@@ -96,6 +74,15 @@ namespace RimTrans.Framework.Utility
                     }
                 }
             }
+#if DEBUG
+            StringBuilder sb = new StringBuilder($"PawnBioTranslationUtility {pawnBios.First().gender.ToString()}\n\n");
+            foreach (NameTriple name in pawnBios.Select(p => p.name))
+            {
+                sb.Append(name.ToString());
+                sb.Append(" | ");
+            }
+            Log.Message(sb.ToString());
+#endif
         }
 
         private static void InjectIntoSolidNamesByInjections(IEnumerable<NameTriple> solidNames, IEnumerable<PawnBioInjection> pawnBioInjections)
@@ -131,6 +118,15 @@ namespace RimTrans.Framework.Utility
                     }
                 }
             }
+#if DEBUG
+            StringBuilder sb = new StringBuilder($"PawnBioTranslationUtility SolidNames\n\n");
+            foreach (NameTriple name in solidNames)
+            {
+                sb.Append(name.ToString());
+                sb.Append(" | ");
+            }
+            Log.Message(sb.ToString());
+#endif
         }
     }
 }

@@ -15,9 +15,6 @@ namespace RimTrans.Framework.DetourMembers
         [DetourMethod(typeof(LoadedLanguage), "InjectIntoData")]
         public static void InjectIntoData(this LoadedLanguage instance)
         {
-#if DEBUG
-            Log.Message("Detour_LoadedLanguage.InjectIntoData()");
-#endif
             //if (!instance.dataIsLoaded)
             //{
             //    instance.LoadData();
@@ -32,8 +29,8 @@ namespace RimTrans.Framework.DetourMembers
             {
                 current.InjectIntoDefs();
             }
-            BackstoryTranslationUtility.LoadAndInjectBackstoryData(instance);
-            
+            //BackstoryTranslationUtility.LoadAndInjectBackstoryData(this);
+
             // Append: Custom TranslationUtility
             UtilityHelper.ProceseAllTranslationUtilities();
         }

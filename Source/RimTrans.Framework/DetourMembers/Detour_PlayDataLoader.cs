@@ -15,9 +15,6 @@ namespace RimTrans.Framework.DetourMembers
         [DetourMethod(typeof(PlayDataLoader), "ClearAllPlayData")]
         public static void ClearAllPlayData()
         {
-#if DEBUG
-            Log.Message("Detour_PlayDataLoader.ClearAllPlayData()");
-#endif
             LanguageDatabase.Clear();
             LoadedModManager.ClearDestroy();
             foreach (Type current in typeof(Def).AllSubclasses())

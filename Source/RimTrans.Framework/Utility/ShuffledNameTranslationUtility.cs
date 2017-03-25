@@ -43,32 +43,6 @@ namespace RimTrans.Framework.Utility
 
         private static void InjectIntoShuffledNamesByDefs(PawnNameSlot slot, Gender gender, string defName)
         {
-#if DEBUG
-            var debugNames = PawnNameDatabaseShuffled.BankOf(PawnNameCategory.HumanStandard).NamesFor(slot, gender);
-            int count = debugNames.Count;
-            debugNames.Clear();
-            string temp = string.Empty;
-            switch (slot)
-            {
-                case PawnNameSlot.First:
-                    temp = $"起灵{gender}";
-                    break;
-                case PawnNameSlot.Last:
-                    temp = $"风{gender}";
-                    break;
-                case PawnNameSlot.Nick:
-                    temp = $"大魔王{gender}";
-                    break;
-                case PawnNameSlot.Only:
-                    break;
-                default:
-                    break;
-            }
-            for (int i = 0; i < count; i++)
-            {
-                debugNames.Add(temp + i);
-            }
-#endif
             ShuffledNameInjection shuffledNameInjection = DefDatabase<ShuffledNameInjection>.GetNamed(defName);
             if (shuffledNameInjection == null)
                 return;
@@ -97,6 +71,15 @@ namespace RimTrans.Framework.Utility
             }
             names.Clear();
             names.AddRange(preNames.Values);
+#if DEBUG
+            StringBuilder sb = new StringBuilder($"ShuffledNameTranslationUtility {defName}\n\n");
+            foreach (string name in names)
+            {
+                sb.Append(name);
+                sb.Append(" | ");
+            }
+            Log.Message(sb.ToString());
+#endif
         }
 
         private static void AddToMissings(string defName, string name)

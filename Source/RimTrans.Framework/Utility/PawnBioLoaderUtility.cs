@@ -11,9 +11,6 @@ namespace RimTrans.Framework.Utility
     {
         public static void LoadAllBios()
         {
-#if DEBUG
-            Log.Message("PawnBioLoaderUtility.LoadAllBios()");
-#endif
             foreach (PawnBio current in DirectXmlLoader.LoadXmlDataInResourcesFolder<PawnBio>("Backstories/Solid"))
             {
                 //current.name.ResolveMissingPieces(null); // Move this to after tranlation
