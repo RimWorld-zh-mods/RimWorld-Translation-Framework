@@ -22,6 +22,8 @@ namespace RimTrans.Framework.Utility
             ShuffledNameLoaderUtility.Clear();
 
             Detour_BackstoryDatabase.ReloadAllBackstories();
+            BackstoryTranslationUtility.LoadAndInjectBackstoryData(LanguageDatabase.activeLanguage);
+            ProceseAllTranslationUtilities();
         }
 
         public static void ProceseAllTranslationUtilities()

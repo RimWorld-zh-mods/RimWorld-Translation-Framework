@@ -43,7 +43,6 @@ namespace RimTrans.Framework
             DetourProxy.CompletedAndLog();
 #endif
             UtilityHelper.Initialize();
-            UtilityHelper.ProceseAllTranslationUtilities();
         }
     }
 }
