@@ -115,7 +115,7 @@ namespace RimTrans.Framework.Detour
             if (detours.Count == 0)
                 return;
 
-            StringBuilder message = new StringBuilder("Following methods have been detoured:\n\n");
+            StringBuilder message = new StringBuilder("[RimTrans.Framework] Info - Following methods have been detoured:\n");
             foreach (var kvp in detours)
             {
                 message.Append(" - ");
