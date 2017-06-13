@@ -130,7 +130,7 @@
 
 	<Backstory>
 		<Title>Coma child</Title>
-		<TitleShort>Coma</TitleShort>
+		<TitleShort>Coma child</TitleShort>
 		<BaseDesc>A childhood accident put NAME into a coma. HECAP didn’t wake up until HE was in HIS late teens. HISCAP body never recovered from the years of inactivity, but people tend to take pity on HIM when they hear HIS story.</BaseDesc>
 		<Slot>Childhood</Slot>
 		<SkillGains>
