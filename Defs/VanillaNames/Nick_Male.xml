@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ShuffledNameDef>
+    <defName>Nick_Male_0</defName>
+    <slot>Nick</slot>
+    <gender>Male</gender>
+    <shuffledNames>
+      <li>Upgrade</li>
+      <li>Shog</li>
+      <li>Nog</li>
+      <li>Croc</li>
+      <li>Grump</li>
+      <li>Smelly</li>
+      <li>Stench</li>
+      <li>Seikilos</li>
+      <li>Hairy</li>
+      <li>Slick</li>
+      <li>Sir</li>
+      <li>Lord</li>
+      <li>Pansy</li>
+      <li>Chili</li>
+      <li>Longshank</li>
+      <li>Maddog</li>
+      <li>Steroid</li>
+      <li>Wolf</li>
+      <li>Chimp</li>
+      <li>Gorilla</li>
+      <li>Guts</li>
+      <li>Grunt</li>
+      <li>Hammer</li>
+      <li>Sacriel</li>
+    </shuffledNames>
+  </ShuffledNameDef>
+</Defs>

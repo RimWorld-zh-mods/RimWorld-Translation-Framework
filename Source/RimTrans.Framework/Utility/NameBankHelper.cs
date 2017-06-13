@@ -17,5 +17,9 @@ namespace RimTrans.Framework.Utility {
                 if (namesList != null) namesList.Clear();
             }
         }
+
+        public static List<string> NamesFor(this NameBank instance, PawnNameSlot slot, Gender gender) {
+            return ((List<string>[,])f_names.GetValue(instance))[(int)gender, (int)slot];
+        }
     }
 }

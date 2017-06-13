@@ -12,16 +12,16 @@ namespace RimTrans.Framework.Utility {
         public static void Inject() {
             if (LanguageDatabase.activeLanguage.FriendlyNameEnglish != "English") {
                 BackstoryDatabase.Clear();
-                BackstoryDatabaseInjector.Inject();
+                BackstoryDatabaseInjector.LoadAllBackstories();
 
                 PawnNameDatabaseSolid.GetListForGender(GenderPossibility.Either).Clear();
                 PawnNameDatabaseSolid.GetListForGender(GenderPossibility.Female).Clear();
                 PawnNameDatabaseSolid.GetListForGender(GenderPossibility.Male).Clear();
                 SolidBioDatabase.Clear();
-                SolidBioDatabaseInjector.Inject();
+                SolidBioDatabaseInjector.LoadAllBios();
 
                 PawnNameDatabaseShuffled.BankOf(PawnNameCategory.HumanStandard).Clear();
-                PawnNameDatabaseShuffledInjector.Inject();
+                PawnNameDatabaseShuffledInjector.LoadAllShuffledNames();
 
                 BackstoryTranslationUtility.LoadAndInjectBackstoryData(LanguageDatabase.activeLanguage);
             }

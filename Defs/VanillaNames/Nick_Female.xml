@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ShuffledNameDef>
+    <defName>Nick_Female_0</defName>
+    <slot>Nick</slot>
+    <gender>Female</gender>
+    <shuffledNames>
+      <li>Zebra</li>
+      <li>Fernijen</li>
+      <li>Belle</li>
+      <li>Madam</li>
+      <li>Sass</li>
+      <li>Cella</li>
+      <li>Loly</li>
+      <li>Cleo</li>
+      <li>Lolita</li>
+      <li>Bucky</li>
+      <li>Starry</li>
+      <li>Princess</li>
+      <li>Prissy</li>
+      <li>Tiffy</li>
+      <li>Tomboy</li>
+      <li>Nag</li>
+      <li>Fox</li>
+      <li>Sugar</li>
+      <li>Venus</li>
+      <li>Muse</li>
+      <li>Euterpe</li>
+      <li>Lady</li>
+      <li>Ma'am</li>
+      <li>Missy</li>
+      <li>Meretrix</li>
+      <li>Nails</li>
+      <li>Gazelle</li>
+      <li>Cat</li>
+      <li>Kat</li>
+      <li>Spider</li>
+      <li>Raven</li>
+      <li>Cougar</li>
+    </shuffledNames>
+  </ShuffledNameDef>
+</Defs>

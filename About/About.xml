@@ -2,7 +2,7 @@
 <ModMetaData>
   <name>Translation Framwork</name>
   <author>duduluu</author>
-  <url>http://rimworld-zh.com</url>
+  <url>https://github.com/duduluu/RimWorld-Translation-Framework</url>
 	<targetVersion>0.17.1557</targetVersion>
   <description>
 
@@ -11,9 +11,6 @@ RimTrans.Framwork is a modding library for translator.
 Supports:
   - Pawn names translating
   - Custom pawn names and backstories.
-
-TODO:
-  - Vallina translation updater
 
 </description>
 </ModMetaData>

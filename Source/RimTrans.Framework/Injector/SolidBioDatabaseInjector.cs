@@ -15,9 +15,11 @@ namespace RimTrans.Framework.Injector {
         private readonly static FieldInfo f_nickInt = t_NameTriple.GetField("nickInt", BindingFlags.NonPublic | BindingFlags.Instance);
         private readonly static FieldInfo f_lastInt = t_NameTriple.GetField("lastInt", BindingFlags.NonPublic | BindingFlags.Instance);
 
-        public static List<string> missingNames = new List<string>();
+        private static Dictionary<string, int> duplicate = new Dictionary<string, int>();
+        private static List<string> missingNames = new List<string>();
 
-        public static void Inject() {
+        public static void LoadAllBios() {
+            duplicate.Clear();
             foreach (PawnBio curPawnBio in DirectXmlLoader.LoadXmlDataInResourcesFolder<PawnBio>("Backstories/Solid")) {
                 TransPawnBioName(curPawnBio);
                 curPawnBio.name.ResolveMissingPieces(null);
@@ -44,8 +46,14 @@ namespace RimTrans.Framework.Injector {
             }
         }
 
-        public static void TransPawnBioName(PawnBio bio) {
+        private static void TransPawnBioName(PawnBio bio) {
             string identifier = bio.gender.ToString() + NameToIdentifier(bio.name);
+            if (!duplicate.ContainsKey(identifier)) {
+                duplicate.Add(identifier, 0);
+            } else {
+                duplicate[identifier]++;
+                identifier += "_" + duplicate[identifier];
+            }
             SolidNameDef pawnNameDef = DefDatabase<SolidNameDef>.GetNamed(identifier, false);
             if (pawnNameDef != null) {
                 TransName(bio.name, pawnNameDef);
@@ -54,23 +62,23 @@ namespace RimTrans.Framework.Injector {
             }
         }
 
-        public static string NameToIdentifier(NameTriple name) {
+        private static string NameToIdentifier(NameTriple name) {
             StringBuilder sb = new StringBuilder();
             sb.Append("_");
-            if (!string.IsNullOrEmpty(name.First)) {
-                sb.Append(name.First.Trim());
+            if (!string.IsNullOrEmpty(name.First.Trim())) {
+                sb.Append(name.First.Replace("'", "").Replace(" ", ""));
             } else {
                 sb.Append("EMPTY");
             }
             sb.Append("_");
             if (!string.IsNullOrEmpty(name.Last.Trim())) {
-                sb.Append(name.Last);
+                sb.Append(name.Last.Replace("'", "").Replace(" ", ""));
             } else {
                 sb.Append("EMPTY");
             }
             sb.Append("_");
             if (!string.IsNullOrEmpty(name.Nick.Trim())) {
-                sb.Append(name.Nick);
+                sb.Append(name.Nick.Replace("'", "").Replace(" ", ""));
             } else {
                 sb.Append("EMPTY");
             }

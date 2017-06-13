@@ -7,7 +7,7 @@ using Verse;
 
 namespace RimTrans.Framework.Injector {
     public static class BackstoryDatabaseInjector {
-        public static void Inject() {
+        public static void LoadAllBackstories() {
             foreach (Backstory curBackstory in DirectXmlLoader.LoadXmlDataInResourcesFolder<Backstory>("Backstories/Shuffled")) {
                 curBackstory.PostLoad();
                 curBackstory.ResolveReferences();
