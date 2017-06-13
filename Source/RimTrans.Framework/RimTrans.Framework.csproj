@@ -32,10 +32,16 @@
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="0Harmony">
+      <HintPath>..\..\..\..\RW_Mod\UnlimitedHugs\RimworldHugsLib\Mods\HugsLib\Assemblies\0Harmony.dll</HintPath>
+    </Reference>
     <Reference Include="Assembly-CSharp, Version=0.16.6198.16102, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\Game\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\Assembly-CSharp.dll</HintPath>
+      <HintPath>D:\Game\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\Assembly-CSharp.dll</HintPath>
       <Private>False</Private>
+    </Reference>
+    <Reference Include="HugsLib">
+      <HintPath>..\..\..\..\RW_Mod\UnlimitedHugs\RimworldHugsLib\Mods\HugsLib\Assemblies\HugsLib.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -45,34 +51,22 @@
     <Reference Include="System.Xml" />
     <Reference Include="UnityEngine, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\Game\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\UnityEngine.dll</HintPath>
+      <HintPath>D:\Game\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\UnityEngine.dll</HintPath>
       <Private>False</Private>
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Injection\BackstoryInjection.cs" />
-    <Compile Include="Injection\PawnBioInjection.cs" />
-    <Compile Include="Injection\ShuffledNameInjection.cs" />
-    <Compile Include="DetourMembers\Detour_BackstoryDatabase.cs" />
-    <Compile Include="DetourMembers\Detour_LoadedLanguage.cs" />
+    <Compile Include="Core\RimTransMod.cs" />
+    <Compile Include="Defs\SolidNameDef.cs" />
+    <Compile Include="Defs\ShuffledNameDef.cs" />
+    <Compile Include="Injector\BackstoryDatabaseInjector.cs" />
+    <Compile Include="Utility\GlobalInjector.cs" />
+    <Compile Include="Injector\PawnNameDatabaseShuffledInjector.cs" />
+    <Compile Include="Injector\SolidBioDatabaseInjector.cs" />
     <Compile Include="Utility\NameBankHelper.cs" />
-    <Compile Include="Utility\PawnBioLoaderUtility.cs" />
-    <Compile Include="Utility\ShuffledNameLoaderUtility.cs" />
-    <Compile Include="DetourMembers\Detour_PlayDataLoader.cs" />
-    <Compile Include="Detour\DetourHelper.cs" />
-    <Compile Include="Detour\DetourMethodAttribute.cs" />
-    <Compile Include="Detour\DetourPropertyAttribute.cs" />
-    <Compile Include="Detour\DetourProxy.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Startup.cs" />
-    <Compile Include="Utility\NameTripleHelper.cs" />
-    <Compile Include="Utility\PawnBioTranslationUtility.cs" />
-    <Compile Include="Utility\ShuffledNameTranslationUtility.cs" />
-    <Compile Include="Utility\UtilityHelper.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Defs\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
