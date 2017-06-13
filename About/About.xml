@@ -3,16 +3,17 @@
   <name>Translation Framwork</name>
   <author>duduluu</author>
   <url>http://rimworld-zh.com</url>
-	<targetVersion>0.17.1474</targetVersion>
-  <description>&lt;color=#8c9eff&gt;&lt;b&gt;Activate this mod after the Core and before other translation mods. &lt;/b&gt;&lt;/color&gt;
+	<targetVersion>0.17.1557</targetVersion>
+  <description>
 
-&lt;color=#8c9eff&gt;&lt;b&gt;Important: This mod replaced following vallina methods by detouring:
+RimTrans.Framwork is a modding library for translator.
 
-  - 
-  - 
-  &lt;/b&gt;&lt;/color&gt;
+Supports:
+  - Pawn names translating
+  - Custom pawn names and backstories.
 
-RimTrans.Framwork (RimWorld Translation Framework) is a modding library for translating non-vallina-supported parts of RimWorld.
+TODO:
+  - Vallina translation updater
 
 </description>
 </ModMetaData>
