@@ -4,13 +4,17 @@
   <author>duduluu</author>
   <url>https://github.com/duduluu/RimWorld-Translation-Framework</url>
 	<targetVersion>0.17.1557</targetVersion>
-  <description>
+  <description>&lt;color=#8c9eff&gt;&lt;b&gt;NOTE: Requires HugsLib mod.&lt;/b&gt;&lt;/color&gt;
 
 RimTrans.Framwork is a modding library for translator.
 
 Supports:
-  - Pawn names translating
-  - Custom pawn names and backstories.
+  - Translating pawn names, included shuffled names and creative rewards names.
+  - Adding custom pawn names and backstories.
+
+GitHub: https://github.com/duduluu/RimWorld-Translation-Framework
+
+Example: https://github.com/duduluu/RimWorld-PawnName-Chinese
 
 </description>
 </ModMetaData>

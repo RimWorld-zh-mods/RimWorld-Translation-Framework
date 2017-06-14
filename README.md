@@ -1,10 +1,13 @@
 # RimWorld-Translation-Framework
 
+**NOTE: Requires HugsLib mod.**
+
 RimTrans.Framwork is a modding library for translator.
 
-### Supports
-  - Pawn names translating
-  - Custom pawn names and backstories.
+Supports:
+  - Translating pawn names, included shuffled names and creative rewards names.
+  - Adding custom pawn names and backstories.
 
-### Example
-  -
+GitHub: https://github.com/duduluu/RimWorld-Translation-Framework
+
+Example: https://github.com/duduluu/RimWorld-PawnName-Chinese
