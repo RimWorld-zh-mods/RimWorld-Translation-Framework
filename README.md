@@ -11,3 +11,6 @@ Supports:
 GitHub: https://github.com/duduluu/RimWorld-Translation-Framework
 
 Example: https://github.com/duduluu/RimWorld-PawnName-Chinese
+
+### LICENSE
+The source code of this mod is under the MIT license.
