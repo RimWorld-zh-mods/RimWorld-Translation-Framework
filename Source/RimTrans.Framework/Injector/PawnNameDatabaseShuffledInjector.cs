@@ -12,6 +12,7 @@ namespace RimTrans.Framework.Injector {
             foreach (ShuffledNameDef curDef in DefDatabase<ShuffledNameDef>.AllDefs) {
                 nameBank.AddNames(curDef.slot, curDef.gender, curDef.shuffledNames);
             }
+            nameBank.ErrorCheck();
         }
     }
 }
