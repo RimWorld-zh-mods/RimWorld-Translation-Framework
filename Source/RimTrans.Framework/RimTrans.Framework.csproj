@@ -33,7 +33,8 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="0Harmony">
-      <HintPath>..\..\..\..\RW_Mod\UnlimitedHugs\RimworldHugsLib\Mods\HugsLib\Assemblies\0Harmony.dll</HintPath>
+      <HintPath>D:\Game\Steam\steamapps\workshop\content\294100\818773962\Assemblies\0Harmony.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="Assembly-CSharp, Version=0.16.6198.16102, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
@@ -41,7 +42,8 @@
       <Private>False</Private>
     </Reference>
     <Reference Include="HugsLib">
-      <HintPath>..\..\..\..\RW_Mod\UnlimitedHugs\RimworldHugsLib\Mods\HugsLib\Assemblies\HugsLib.dll</HintPath>
+      <HintPath>D:\Game\Steam\steamapps\workshop\content\294100\818773962\Assemblies\HugsLib.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />

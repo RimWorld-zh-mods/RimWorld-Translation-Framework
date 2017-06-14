@@ -7,3 +7,4 @@ xcopy Assemblies "D:\Game\Steam\steamapps\common\RimWorld\Mods\Translation Frame
 xcopy Defs "D:\Game\Steam\steamapps\common\RimWorld\Mods\Translation Framework\Defs" /e /d /i /y
 xcopy Languages "D:\Game\Steam\steamapps\common\RimWorld\Mods\Translation Framework\Languages" /e /d /i /y
 copy LICENSE "D:\Game\Steam\steamapps\common\RimWorld\Mods\Translation Framework\LICENSE" /y
+copy LICENSE "D:\Game\Steam\steamapps\common\RimWorld\Mods\Translation Framework\README.md" /y

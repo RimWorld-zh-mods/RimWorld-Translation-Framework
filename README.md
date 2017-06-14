@@ -1,2 +1,10 @@
 # RimWorld-Translation-Framework
-A modding library for translating non-vallina-supported parts of RimWorld.
+
+RimTrans.Framwork is a modding library for translator.
+
+### Supports
+  - Pawn names translating
+  - Custom pawn names and backstories.
+
+### Example
+  -
