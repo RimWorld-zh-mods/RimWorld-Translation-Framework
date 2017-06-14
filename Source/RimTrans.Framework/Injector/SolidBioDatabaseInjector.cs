@@ -57,7 +57,7 @@ namespace RimTrans.Framework.Injector {
             SolidNameDef pawnNameDef = DefDatabase<SolidNameDef>.GetNamed(identifier, false);
             if (pawnNameDef != null) {
                 TransName(bio.name, pawnNameDef);
-            } else {
+            } else if (identifier != "Male_Tynan_Sylvester_Tynan") {
                 missingNames.Add(bio.name.ToString());
             }
         }
@@ -87,7 +87,7 @@ namespace RimTrans.Framework.Injector {
 
         public static void TransName(NameTriple name, SolidNameDef def) {
             f_firstInt.SetValue(name, def.first);
-            f_lastInt.SetValue(name, def.first);
+            f_lastInt.SetValue(name, def.last);
             f_nickInt.SetValue(name, def.nick);
         }
     }
