@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.IO;
 using System.Text;
 using System.Threading.Tasks;
 using System.Xml;
@@ -8,7 +9,7 @@ using System.Xml.Linq;
 
 namespace RimTrans.Framework.Converter.Helper {
     public static class Temporay {
-        public static void foo() {
+        public static void foo1() {
             XDocument doc_Def = XDocument.Load(@"D:\Translating\人名翻译项目\Def.xml");
             XDocument doc_DefInjected = XDocument.Load(@"D:\Translating\人名翻译项目\DefInjected.xml");
             XElement LanguageData = doc_DefInjected.Root;
@@ -86,6 +87,46 @@ namespace RimTrans.Framework.Converter.Helper {
             }
             newLanguageData.Add("\n");
             doc_new.Save(@"D:\Translating\人名翻译项目\New.xml");
+        }
+
+        public static void foo2() {
+            string forderOld = @"D:\Translating\人名翻译项目\RimTrans.Framework.Injection.ShuffledNameInjection";
+            string forderNew = @"C:\Git\RW\RimWorld-Translation-Framework\Languages\English\DefInjected\ShuffledNameDef";
+            string[] files = { "First_Female.xml", "First_Male.xml", "Last.xml", "Nick_Female.xml", "Nick_Male.xml", "Nick_Unisex.xml" };
+            foreach (string curFile in files) {
+                XDocument docOld = XDocument.Load(Path.Combine(forderOld, curFile));
+                XDocument docNew = XDocument.Load(Path.Combine(forderNew, curFile));
+                var elesOld = docOld.Root.Elements().ToArray();
+                var elesNew = docNew.Root.Elements().ToArray();
+                for (int i = 0; i < elesOld.Count(); i++) {
+                    elesOld[i].Name = elesNew[i].Name;
+                }
+                docOld.Save(Path.Combine(forderOld, "New_" + curFile));
+            }
+        }
+
+        public static void foo3() {
+            XDocument docNew = XDocument.Load(@"D:\Translating\人名翻译项目\New.xml", LoadOptions.PreserveWhitespace);
+            XDocument docCN = XDocument.Load(@"C:\Git\RW\RimWorld-PawnName-Chinese\Languages\ChineseSimplified\DefInjected\SolidNameDef\SolidNames.xml", LoadOptions.PreserveWhitespace);
+            bool flag = false;
+            foreach (XElement itemNew in docNew.Root.Elements()) {
+                if (!flag) {
+                    if (itemNew.Name.ToString() == "Male_Vernon_Gaudi_EMPTY.last") {
+                        flag = true;
+                    }
+                } else {
+                    if (itemNew.Name.ToString() == "PawnBio_03389.Name.First") {
+                        break;
+                    }
+                    XElement itemCN = docCN.Root.Element(itemNew.Name);
+                    if (itemCN != null) {
+                        itemCN.Value = itemNew.Value;
+                    } else {
+                        Console.WriteLine($"itemCN no found. itemNew = {itemNew.Name.ToString()}");
+                    }
+                }
+            }
+            docCN.Save(@"C:\Git\RW\RimWorld-PawnName-Chinese\Languages\ChineseSimplified\DefInjected\SolidNameDef\SolidNames.xml");
         }
     }
 }
