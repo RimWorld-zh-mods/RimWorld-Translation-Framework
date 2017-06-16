@@ -1,6 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <!-- NOTE: The names disallow duplicates in the same file. -->
+
   <Nick_Unisex_0.shuffledNames.0>Jumper</Nick_Unisex_0.shuffledNames.0>
   <Nick_Unisex_0.shuffledNames.1>Lucky</Nick_Unisex_0.shuffledNames.1>
   <Nick_Unisex_0.shuffledNames.2>Loser</Nick_Unisex_0.shuffledNames.2>

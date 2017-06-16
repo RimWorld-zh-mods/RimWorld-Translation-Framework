@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
+  <!--NOTE: The names disallow duplicates in the same file.-->
   <ShuffledNameDef>
     <defName>Nick_Male_0</defName>
     <slot>Nick</slot>

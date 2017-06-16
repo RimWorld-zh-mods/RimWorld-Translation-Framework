@@ -12,7 +12,7 @@ using Verse;
 namespace RimTrans.Framework.Converter.Helper {
     public static class ShuffledNameHelper {
 
-        public static XDocument TxtToXRoot(PawnNameSlot slot, Gender gender, string defName, string path) {
+        public static XDocument TxtToXml(PawnNameSlot slot, Gender gender, string defName, string path) {
             int count = 0;
             List<string> names = new List<string>();
             using (StreamReader sr = new StreamReader(path)) {
@@ -20,7 +20,7 @@ namespace RimTrans.Framework.Converter.Helper {
                     names.Add(sr.ReadLine());
                 }
             }
-            XElement root = new XElement("Defs");
+            XElement root = new XElement("Defs", new XComment("NOTE: The names disallow duplicates in the same file."));
             XElement def = new XElement("ShuffledNameDef", new XElement("shuffledNames"));
             foreach (string item in names) {
                 if (!string.IsNullOrEmpty(item)) {
@@ -57,12 +57,12 @@ namespace RimTrans.Framework.Converter.Helper {
         public static void Convert(string pathTextAsset, string pathDefs) {
             string dirPath = Path.Combine(pathDefs, "VanillaNames");
             if (!Directory.Exists(dirPath)) Directory.CreateDirectory(dirPath);
-            TxtToXRoot(PawnNameSlot.First, Gender.Male, "First_Male", Path.Combine(pathTextAsset, "First_Male.txt")).Save(Path.Combine(dirPath, "First_Male.xml"));
-            TxtToXRoot(PawnNameSlot.First, Gender.Female, "First_Female", Path.Combine(pathTextAsset, "First_Female.txt")).Save(Path.Combine(dirPath, "First_Female.xml"));
-            TxtToXRoot(PawnNameSlot.Nick, Gender.Male, "Nick_Male", Path.Combine(pathTextAsset, "Nick_Male.txt")).Save(Path.Combine(dirPath, "Nick_Male.xml"));
-            TxtToXRoot(PawnNameSlot.Nick, Gender.Female, "Nick_Female", Path.Combine(pathTextAsset, "Nick_Female.txt")).Save(Path.Combine(dirPath, "Nick_Female.xml"));
-            TxtToXRoot(PawnNameSlot.Nick, Gender.None, "Nick_Unisex", Path.Combine(pathTextAsset, "Nick_Unisex.txt")).Save(Path.Combine(dirPath, "Nick_Unisex.xml"));
-            TxtToXRoot(PawnNameSlot.Last, Gender.None, "Last", Path.Combine(pathTextAsset, "Last.txt")).Save(Path.Combine(dirPath, "Last.xml"));
+            TxtToXml(PawnNameSlot.First, Gender.Male, "First_Male", Path.Combine(pathTextAsset, "First_Male.txt")).Save(Path.Combine(dirPath, "First_Male.xml"));
+            TxtToXml(PawnNameSlot.First, Gender.Female, "First_Female", Path.Combine(pathTextAsset, "First_Female.txt")).Save(Path.Combine(dirPath, "First_Female.xml"));
+            TxtToXml(PawnNameSlot.Nick, Gender.Male, "Nick_Male", Path.Combine(pathTextAsset, "Nick_Male.txt")).Save(Path.Combine(dirPath, "Nick_Male.xml"));
+            TxtToXml(PawnNameSlot.Nick, Gender.Female, "Nick_Female", Path.Combine(pathTextAsset, "Nick_Female.txt")).Save(Path.Combine(dirPath, "Nick_Female.xml"));
+            TxtToXml(PawnNameSlot.Nick, Gender.None, "Nick_Unisex", Path.Combine(pathTextAsset, "Nick_Unisex.txt")).Save(Path.Combine(dirPath, "Nick_Unisex.xml"));
+            TxtToXml(PawnNameSlot.Last, Gender.None, "Last", Path.Combine(pathTextAsset, "Last.txt")).Save(Path.Combine(dirPath, "Last.xml"));
         }
     }
 }

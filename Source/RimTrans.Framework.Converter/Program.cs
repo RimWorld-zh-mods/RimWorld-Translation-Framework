@@ -16,8 +16,8 @@ namespace RimTrans.Framework.Converter
             string pathTextAsset = @"..\..\..\Resources\TextAsset";
             string pathDefs = @"..\..\..\..\Defs";
 
-            //ShuffledNameHelper.Convert(pathTextAsset, pathDefs);
-            //SolidNameHelper.Convert(pathTextAsset, pathDefs);
+            ShuffledNameHelper.Convert(pathTextAsset, pathDefs);
+            SolidNameHelper.Convert(pathTextAsset, pathDefs);
             //Temporay.foo1();
             //Temporay.foo2();
             //Temporay.foo3();

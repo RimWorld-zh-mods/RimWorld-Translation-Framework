@@ -26,7 +26,7 @@ namespace RimTrans.Framework.Converter.Helper
         public static void Convert(string pathTextAsset, string pathDefs) {
             int count = 0;
             XDocument source = XDocument.Load(Path.Combine(pathTextAsset, "rimworld_creations.xml"));
-            XElement root = new XElement("Defs", new XComment("These names are RimWorld Creative Rewards."));
+            XElement root = new XElement("Defs", new XComment("These names are from RimWorld Creative Rewards."));
             foreach (XElement bio in source.Root.Elements()) {
                 XElement Name = bio.GetField("Name");
                 if (Name != null) {
