@@ -42,21 +42,21 @@ namespace RimTrans.Framework.Converter.Helper
                     sb.Append("_");
                     if (!string.IsNullOrWhiteSpace(First.Value)) {
                         sb.Append(First.Value.Replace("'", "").Replace(" ", ""));
-                        def.Add(new XElement("first", First.Value));
+                        def.Add(new XElement("first", First.Value.Trim()));
                     } else {
                         sb.Append("EMPTY");
                     }
                     sb.Append("_");
                     if (!string.IsNullOrWhiteSpace(Last.Value)) {
                         sb.Append(Last.Value.Replace("'", "").Replace(" ", ""));
-                        def.Add(new XElement("last", Last.Value));
+                        def.Add(new XElement("last", Last.Value.Trim()));
                     } else {
                         sb.Append("EMPTY");
                     }
                     sb.Append("_");
                     if (!string.IsNullOrWhiteSpace(Nick.Value)) {
                         sb.Append(Nick.Value.Replace("'", "").Replace(" ", ""));
-                        def.Add(new XElement("nick", Nick.Value));
+                        def.Add(new XElement("nick", Nick.Value.Trim()));
                     } else {
                         sb.Append("EMPTY");
                     }

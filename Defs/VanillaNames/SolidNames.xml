@@ -202,7 +202,7 @@
     <gender>Male</gender>
     <first>Maxime</first>
     <last>Chouinard</last>
-    <nick>Kezel </nick>
+    <nick>Kezel</nick>
   </SolidNameDef>
   <SolidNameDef>
     <defName>Male_Andrew_Carroll_Furious</defName>
@@ -1520,7 +1520,7 @@
   <SolidNameDef>
     <defName>Male_Garrett_Arthuring_King</defName>
     <gender>Male</gender>
-    <first>Garrett </first>
+    <first>Garrett</first>
     <last>Arthuring</last>
     <nick>King</nick>
   </SolidNameDef>
@@ -2104,7 +2104,7 @@
   <SolidNameDef>
     <defName>Male_Steven_Wilcox_Steven</defName>
     <gender>Male</gender>
-    <first>Steven </first>
+    <first>Steven</first>
     <last>Wilcox</last>
     <nick>Steven</nick>
     <childhood>DisasterSurvivor58</childhood>
@@ -2426,7 +2426,7 @@
   <SolidNameDef>
     <defName>Male_Johan_Milde_EMPTY</defName>
     <gender>Male</gender>
-    <first>Johan </first>
+    <first>Johan</first>
     <last>Milde</last>
   </SolidNameDef>
   <SolidNameDef>
@@ -3170,7 +3170,7 @@
     <defName>Male_Rex_Lancaster_EMPTY</defName>
     <gender>Male</gender>
     <first>Rex</first>
-    <last>Lancaster </last>
+    <last>Lancaster</last>
   </SolidNameDef>
   <SolidNameDef>
     <defName>Male_Joe_OHare_Hotsauce</defName>
@@ -3389,7 +3389,7 @@
   <SolidNameDef>
     <defName>Male_Glorijan_Budimski_Gogi</defName>
     <gender>Male</gender>
-    <first>Glorijan </first>
+    <first>Glorijan</first>
     <last>Budimski</last>
     <nick>Gogi</nick>
   </SolidNameDef>
@@ -3716,7 +3716,7 @@
   <SolidNameDef>
     <defName>Male_Callum_Ball_CJ</defName>
     <gender>Male</gender>
-    <first>Callum </first>
+    <first>Callum</first>
     <last>Ball</last>
     <nick>CJ</nick>
   </SolidNameDef>
@@ -4314,7 +4314,7 @@
     <defName>Male_Klaus_Austerlitz_Rulant</defName>
     <gender>Male</gender>
     <first>Klaus</first>
-    <last>Austerlitz </last>
+    <last>Austerlitz</last>
     <nick>Rulant</nick>
   </SolidNameDef>
   <SolidNameDef>
@@ -5474,7 +5474,7 @@
   <SolidNameDef>
     <defName>Male_Beato_Zaephyr_Beato</defName>
     <gender>Male</gender>
-    <first>Beato </first>
+    <first>Beato</first>
     <last>Zaephyr</last>
     <nick>Beato</nick>
   </SolidNameDef>
@@ -5865,7 +5865,7 @@
   <SolidNameDef>
     <defName>Male_Chris_Seabrook_Guide</defName>
     <gender>Male</gender>
-    <first>Chris </first>
+    <first>Chris</first>
     <last>Seabrook</last>
     <nick>Guide</nick>
   </SolidNameDef>
@@ -6129,7 +6129,7 @@
   <SolidNameDef>
     <defName>Male_Brendan_Lintott_EMPTY</defName>
     <gender>Male</gender>
-    <first>Brendan </first>
+    <first>Brendan</first>
     <last>Lintott</last>
   </SolidNameDef>
   <SolidNameDef>
@@ -7068,7 +7068,7 @@
   <SolidNameDef>
     <defName>Male_Jeronimo_Beaumont_Ayanz</defName>
     <gender>Male</gender>
-    <first>Jeronimo </first>
+    <first>Jeronimo</first>
     <last>Beaumont</last>
     <nick>Ayanz</nick>
   </SolidNameDef>
@@ -7887,7 +7887,7 @@
   <SolidNameDef>
     <defName>Male_Tobias_Rönnqvist_Hejtord</defName>
     <gender>Male</gender>
-    <first>Tobias </first>
+    <first>Tobias</first>
     <last>Rönnqvist</last>
     <nick>Hejtord</nick>
   </SolidNameDef>
@@ -8979,7 +8979,7 @@
     <gender>Male</gender>
     <first>Dylan</first>
     <last>Wrasse</last>
-    <nick>Aquarist </nick>
+    <nick>Aquarist</nick>
   </SolidNameDef>
   <SolidNameDef>
     <defName>Male_Jeremy_Titus_JT</defName>
@@ -9672,7 +9672,7 @@
   <SolidNameDef>
     <defName>Either_Vincent_Strife_Tyspin</defName>
     <gender>Either</gender>
-    <first>Vincent </first>
+    <first>Vincent</first>
     <last>Strife</last>
     <nick>Tyspin</nick>
   </SolidNameDef>
@@ -10177,7 +10177,7 @@
     <defName>Male_Nicholaus_Nycz_Pal</defName>
     <gender>Male</gender>
     <first>Nicholaus</first>
-    <last>Nycz </last>
+    <last>Nycz</last>
     <nick>Pal</nick>
   </SolidNameDef>
   <SolidNameDef>
@@ -11137,7 +11137,7 @@
   <SolidNameDef>
     <defName>Male_Raymond_Black_Blackhand</defName>
     <gender>Male</gender>
-    <first>Raymond </first>
+    <first>Raymond</first>
     <last>Black</last>
     <nick>Blackhand</nick>
   </SolidNameDef>
@@ -11572,7 +11572,7 @@
     <gender>Male</gender>
     <first>Gary</first>
     <last>Bogle</last>
-    <nick> Tatty</nick>
+    <nick>Tatty</nick>
   </SolidNameDef>
   <SolidNameDef>
     <defName>Male_Tommy_Delby_Delby</defName>
@@ -11698,7 +11698,7 @@
     <defName>Either_James_Cole_Coley</defName>
     <gender>Either</gender>
     <first>James</first>
-    <last>Cole </last>
+    <last>Cole</last>
     <nick>Coley</nick>
   </SolidNameDef>
   <SolidNameDef>
@@ -11906,7 +11906,7 @@
   <SolidNameDef>
     <defName>Male_Gabriel_Hoon_Gabe</defName>
     <gender>Male</gender>
-    <first>Gabriel </first>
+    <first>Gabriel</first>
     <last>Hoon</last>
     <nick>Gabe</nick>
   </SolidNameDef>
@@ -12609,7 +12609,7 @@
   <SolidNameDef>
     <defName>Male_Josef_Jones_Trig</defName>
     <gender>Male</gender>
-    <first>Josef </first>
+    <first>Josef</first>
     <last>Jones</last>
     <nick>Trig</nick>
   </SolidNameDef>
@@ -13585,7 +13585,7 @@
     <gender>Male</gender>
     <first>Maik</first>
     <last>Neubert</last>
-    <nick> Eumel </nick>
+    <nick>Eumel</nick>
   </SolidNameDef>
   <SolidNameDef>
     <defName>Male_Marius_Meyer_Masi</defName>
@@ -13617,7 +13617,7 @@
   <SolidNameDef>
     <defName>Male_Charlie_Darwin_Beagle</defName>
     <gender>Male</gender>
-    <first>Charlie </first>
+    <first>Charlie</first>
     <last>Darwin</last>
     <nick>Beagle</nick>
   </SolidNameDef>
@@ -14262,7 +14262,7 @@
   <SolidNameDef>
     <defName>Male_Sigurd_Klastrup_SigSig</defName>
     <gender>Male</gender>
-    <first>Sigurd </first>
+    <first>Sigurd</first>
     <last>Klastrup</last>
     <nick>Sig Sig</nick>
   </SolidNameDef>
@@ -14429,7 +14429,7 @@
   <SolidNameDef>
     <defName>Male_Ole_Andre_Oli</defName>
     <gender>Male</gender>
-    <first>Ole </first>
+    <first>Ole</first>
     <last>Andre</last>
     <nick>Oli</nick>
   </SolidNameDef>
@@ -14740,7 +14740,7 @@
   <SolidNameDef>
     <defName>Male_Marco_Blendow_Max</defName>
     <gender>Male</gender>
-    <first>Marco </first>
+    <first>Marco</first>
     <last>Blendow</last>
     <nick>Max</nick>
   </SolidNameDef>
@@ -15204,7 +15204,7 @@
   <SolidNameDef>
     <defName>Male_Fox_Pidoux_Pidoux</defName>
     <gender>Male</gender>
-    <first>Fox </first>
+    <first>Fox</first>
     <last>Pidoux</last>
     <nick>Pidoux</nick>
   </SolidNameDef>
@@ -15336,7 +15336,7 @@
     <defName>Male_Ryan_Ferguson_Murdoc</defName>
     <gender>Male</gender>
     <first>Ryan</first>
-    <last>Ferguson </last>
+    <last>Ferguson</last>
     <nick>Murdoc</nick>
   </SolidNameDef>
   <SolidNameDef>
@@ -15470,7 +15470,7 @@
   <SolidNameDef>
     <defName>Male_Ezequiel_DeArriba_Zeze</defName>
     <gender>Male</gender>
-    <first>Ezequiel </first>
+    <first>Ezequiel</first>
     <last>De Arriba</last>
     <nick>Zeze</nick>
   </SolidNameDef>
@@ -15579,7 +15579,7 @@
   <SolidNameDef>
     <defName>Male_Husamettin_Yerebakan_Husam</defName>
     <gender>Male</gender>
-    <first>Husamettin </first>
+    <first>Husamettin</first>
     <last>Yerebakan</last>
     <nick>Husam</nick>
   </SolidNameDef>
@@ -16143,7 +16143,7 @@
   <SolidNameDef>
     <defName>Male_Bryce_Tiefenthaler_EMPTY</defName>
     <gender>Male</gender>
-    <first>Bryce </first>
+    <first>Bryce</first>
     <last>Tiefenthaler</last>
   </SolidNameDef>
   <SolidNameDef>
@@ -18867,7 +18867,7 @@
   <SolidNameDef>
     <defName>Male_Alejandro_Ura_Alex</defName>
     <gender>Male</gender>
-    <first>Alejandro </first>
+    <first>Alejandro</first>
     <last>Ura</last>
     <nick>Alex</nick>
   </SolidNameDef>
@@ -19037,7 +19037,7 @@
   <SolidNameDef>
     <defName>Male_Graham_Sherwood_Gaz</defName>
     <gender>Male</gender>
-    <first>Graham </first>
+    <first>Graham</first>
     <last>Sherwood</last>
     <nick>Gaz</nick>
   </SolidNameDef>
@@ -19270,7 +19270,7 @@
     <gender>Male</gender>
     <first>Chase</first>
     <last>Johnston</last>
-    <nick>Slak </nick>
+    <nick>Slak</nick>
   </SolidNameDef>
   <SolidNameDef>
     <defName>Male_Chris_Quale_Koala</defName>
@@ -19597,7 +19597,7 @@
   <SolidNameDef>
     <defName>Male_Zachary_Momchilovich_Zach</defName>
     <gender>Male</gender>
-    <first>Zachary </first>
+    <first>Zachary</first>
     <last>Momchilovich</last>
     <nick>Zach</nick>
   </SolidNameDef>
@@ -20381,7 +20381,7 @@
     <defName>Male_Maximilian_Muellner_Max</defName>
     <gender>Male</gender>
     <first>Maximilian</first>
-    <last> Muellner</last>
+    <last>Muellner</last>
     <nick>Max</nick>
   </SolidNameDef>
   <SolidNameDef>
@@ -21211,7 +21211,7 @@
     <defName>Male_Brandon_Halpin_Halpin</defName>
     <gender>Male</gender>
     <first>Brandon</first>
-    <last>Halpin </last>
+    <last>Halpin</last>
     <nick>Halpin</nick>
   </SolidNameDef>
   <SolidNameDef>
@@ -22048,7 +22048,7 @@
   <SolidNameDef>
     <defName>Male_Theo_Wilson_Theo</defName>
     <gender>Male</gender>
-    <first>Theo </first>
+    <first>Theo</first>
     <last>Wilson</last>
     <nick>Theo</nick>
   </SolidNameDef>
@@ -22321,7 +22321,7 @@
   <SolidNameDef>
     <defName>Male_Isak_Haugen_EMPTY</defName>
     <gender>Male</gender>
-    <first>Isak </first>
+    <first>Isak</first>
     <last>Haugen</last>
     <childhood>PoorKid76</childhood>
     <adulthood>Warrior43</adulthood>
@@ -22476,7 +22476,7 @@
   <SolidNameDef>
     <defName>Female_Meredith_Abernathy_Latch</defName>
     <gender>Female</gender>
-    <first>Meredith </first>
+    <first>Meredith</first>
     <last>Abernathy</last>
     <nick>Latch</nick>
     <childhood>UrbworldUrchin13</childhood>
@@ -22658,7 +22658,7 @@
   <SolidNameDef>
     <defName>Male_Euan_Westerman_Westy</defName>
     <gender>Male</gender>
-    <first>Euan </first>
+    <first>Euan</first>
     <last>Westerman</last>
     <nick>Westy</nick>
   </SolidNameDef>
@@ -22896,7 +22896,7 @@
     <defName>Male_Ben_Hoath_EMPTY</defName>
     <gender>Male</gender>
     <first>Ben</first>
-    <last>Hoath </last>
+    <last>Hoath</last>
   </SolidNameDef>
   <SolidNameDef>
     <defName>Male_Jamie_Akerman_EMPTY</defName>
@@ -23274,7 +23274,7 @@
     <defName>Male_Barrick_Lyons_Boss</defName>
     <gender>Male</gender>
     <first>Barrick</first>
-    <last>Lyons </last>
+    <last>Lyons</last>
     <nick>Boss</nick>
     <childhood>MilitantChild30</childhood>
     <adulthood>LostMarine68</adulthood>
@@ -24034,7 +24034,7 @@
   <SolidNameDef>
     <defName>Male_Jackson_Styers_Jack</defName>
     <gender>Male</gender>
-    <first>Jackson </first>
+    <first>Jackson</first>
     <last>Styers</last>
     <nick>Jack</nick>
   </SolidNameDef>
@@ -26154,7 +26154,7 @@
   <SolidNameDef>
     <defName>Male_Fajaffa_Raskolnikov_Fajaffa</defName>
     <gender>Male</gender>
-    <first>Fajaffa </first>
+    <first>Fajaffa</first>
     <last>Raskolnikov</last>
     <nick>Fajaffa</nick>
   </SolidNameDef>
@@ -27197,7 +27197,7 @@
   <SolidNameDef>
     <defName>Male_Murray_Hassall_Mur</defName>
     <gender>Male</gender>
-    <first>Murray </first>
+    <first>Murray</first>
     <last>Hassall</last>
     <nick>Mur</nick>
   </SolidNameDef>
@@ -27346,7 +27346,7 @@
     <defName>Female_Felicity_Estellise_EMPTY</defName>
     <gender>Female</gender>
     <first>Felicity</first>
-    <last>Estellise </last>
+    <last>Estellise</last>
   </SolidNameDef>
   <SolidNameDef>
     <defName>Male_Symon_Aked_EMPTY</defName>
@@ -27357,7 +27357,7 @@
   <SolidNameDef>
     <defName>Male_Chris_Green_Mango</defName>
     <gender>Male</gender>
-    <first>Chris </first>
+    <first>Chris</first>
     <last>Green</last>
     <nick>Mango</nick>
   </SolidNameDef>
@@ -27566,7 +27566,7 @@
     <defName>Male_Detyan_Horen_Tortoise</defName>
     <gender>Male</gender>
     <first>Detyan</first>
-    <last>Horen </last>
+    <last>Horen</last>
     <nick>Tortoise</nick>
   </SolidNameDef>
   <SolidNameDef>
@@ -28256,7 +28256,7 @@
   <SolidNameDef>
     <defName>Male_Ismael_MunozArvizu_Izzy</defName>
     <gender>Male</gender>
-    <first>Ismael </first>
+    <first>Ismael</first>
     <last>Munoz Arvizu</last>
     <nick>Izzy</nick>
   </SolidNameDef>
@@ -28604,7 +28604,7 @@
   <SolidNameDef>
     <defName>Female_Adelina_Dumitru_Ade</defName>
     <gender>Female</gender>
-    <first>Adelina </first>
+    <first>Adelina</first>
     <last>Dumitru</last>
     <nick>Ade</nick>
   </SolidNameDef>
@@ -28714,7 +28714,7 @@
     <defName>Male_Maximilian_Thelin_Max</defName>
     <gender>Male</gender>
     <first>Maximilian</first>
-    <last>Thelin </last>
+    <last>Thelin</last>
     <nick>Max</nick>
   </SolidNameDef>
   <SolidNameDef>
@@ -29492,7 +29492,7 @@
   <SolidNameDef>
     <defName>Male_Lukas_Phosolos_Lander</defName>
     <gender>Male</gender>
-    <first>Lukas </first>
+    <first>Lukas</first>
     <last>Phosolos</last>
     <nick>Lander</nick>
   </SolidNameDef>
@@ -29581,7 +29581,7 @@
   <SolidNameDef>
     <defName>Either_Ferco_Ectec_Ferco</defName>
     <gender>Either</gender>
-    <first>Ferco </first>
+    <first>Ferco</first>
     <last>Ectec</last>
     <nick>Ferco</nick>
   </SolidNameDef>
@@ -29646,7 +29646,7 @@
     <gender>Female</gender>
     <first>Migiri</first>
     <last>Hidari</last>
-    <nick> Lancer</nick>
+    <nick>Lancer</nick>
   </SolidNameDef>
   <SolidNameDef>
     <defName>Male_Daniel_Wendel_Oposum</defName>
@@ -29691,7 +29691,7 @@
   <SolidNameDef>
     <defName>Male_Connor_Howard_Connor</defName>
     <gender>Male</gender>
-    <first>Connor </first>
+    <first>Connor</first>
     <last>Howard</last>
     <nick>Connor</nick>
   </SolidNameDef>
@@ -30432,7 +30432,7 @@
     <defName>Male_Ryan_Macbride_Ryan</defName>
     <gender>Male</gender>
     <first>Ryan</first>
-    <last>Macbride </last>
+    <last>Macbride</last>
     <nick>Ryan</nick>
   </SolidNameDef>
   <SolidNameDef>
@@ -31079,7 +31079,7 @@
   <SolidNameDef>
     <defName>Male_CJ_Lorenz_EMPTY</defName>
     <gender>Male</gender>
-    <first>CJ </first>
+    <first>CJ</first>
     <last>Lorenz</last>
   </SolidNameDef>
   <SolidNameDef>
@@ -31154,7 +31154,7 @@
     <defName>Male_Jarad_Hesseling_Jake</defName>
     <gender>Male</gender>
     <first>Jarad</first>
-    <last>Hesseling </last>
+    <last>Hesseling</last>
     <nick>Jake</nick>
     <childhood>DisasterSurvivor28</childhood>
     <adulthood>ExplorerWriter37</adulthood>
@@ -31499,7 +31499,7 @@
   <SolidNameDef>
     <defName>Male_Spencer_Hemming_Jordan</defName>
     <gender>Male</gender>
-    <first>Spencer </first>
+    <first>Spencer</first>
     <last>Hemming</last>
     <nick>Jordan</nick>
   </SolidNameDef>
@@ -31771,7 +31771,7 @@
     <gender>Male</gender>
     <first>Dani</first>
     <last>Calleja</last>
-    <nick>Dani </nick>
+    <nick>Dani</nick>
   </SolidNameDef>
   <SolidNameDef>
     <defName>Male_Ralph_Neidthardt_Ralle</defName>
