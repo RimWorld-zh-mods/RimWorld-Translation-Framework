@@ -17,7 +17,7 @@ namespace RimTrans.Framework.Converter.Helper {
             List<string> names = new List<string>();
             using (StreamReader sr = new StreamReader(path)) {
                 while (sr.Peek() >= 0) {
-                    names.Add(sr.ReadLine());
+                    names.Add(sr.ReadLine().Trim());
                 }
             }
             XElement root = new XElement("Defs", new XComment("NOTE: The names disallow duplicates in the same file."));
