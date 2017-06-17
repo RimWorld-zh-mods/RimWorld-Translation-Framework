@@ -3,4 +3,10 @@
   <FrameworkPath>C:\Git\RW\RimWorld-Translation-Framework</FrameworkPath>
   <ModPath>C:\Git\RW\RimWorld-PawnName-Chinese</ModPath>
   <Language>ChineseSimplified</Language>
+  <Step2>
+    <OverrideMode>true</OverrideMode>
+    <AutoTranslateNicks>true</AutoTranslateNicks>
+    <AutoCommentInvalidFields>true</AutoCommentInvalidFields>
+    <TrimFields>true</TrimFields>
+  </Step2>
 </Config>
