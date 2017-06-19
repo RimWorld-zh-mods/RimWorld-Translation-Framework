@@ -20,7 +20,7 @@ namespace RimTrans.Framework.Converter.Helper {
                     names.Add(sr.ReadLine().Trim());
                 }
             }
-            XElement root = new XElement("Defs", new XComment("NOTE: The names disallow duplicates in the same file."));
+            XElement root = new XElement("Defs");
             XElement def = new XElement("ShuffledNameDef", new XElement("shuffledNames"));
             foreach (string item in names) {
                 if (!string.IsNullOrEmpty(item)) {
@@ -41,6 +41,7 @@ namespace RimTrans.Framework.Converter.Helper {
             if (root.LastNode != def) {
                 root.Add(def);
             }
+            root.AddFirst(new XComment($"NOTE: The names disallow duplicates in the same file. Total: {count}."));
             Console.WriteLine(defName + ": " + count);
             count = 0;
             foreach (XElement curDef in root.Elements()) {
