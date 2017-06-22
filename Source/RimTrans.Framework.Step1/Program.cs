@@ -245,7 +245,7 @@ namespace RimTrans.Framework.Step1 {
                 string forceTranslation;
                 if (dict.TryGetValue(kvp.Key, out forceTranslation)) {
                     XElement translation = kvp.Value.Element("Translation");
-                    Console.WriteLine($"{translation.Value} => {forceTranslation}");
+                    Console.WriteLine($"{kvp.Key} => {forceTranslation}");
                     translation.Value = forceTranslation;
                 }
             }
@@ -262,7 +262,7 @@ namespace RimTrans.Framework.Step1 {
                 var map = mapOrUnique as SortedDictionary<string, XElement>;
                 foreach (XElement curSubMap in map.Values) {
                     foreach (XElement curField in curSubMap.Element("Fields").Elements()) {
-                        curField.RemoveAll();
+                        curField.Value = string.Empty;
                     }
                 }
                 doc_New.Root.Add(new XComment($"Total: {map.Count}"));
