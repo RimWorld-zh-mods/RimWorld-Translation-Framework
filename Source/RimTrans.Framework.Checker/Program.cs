@@ -124,7 +124,7 @@ namespace RimTrans.Framework.Checker {
             }
             var fields = solidNames_Root_Mod.Elements();
             Check_SolidNames_NullOrWhiteSpace(fields);
-            Check_SolidNames_Chinese(fields);
+            //Check_SolidNames_Chinese(fields);
         }
 
         static void Check_SolidNames_NullOrWhiteSpace(IEnumerable<XElement> fields) {
