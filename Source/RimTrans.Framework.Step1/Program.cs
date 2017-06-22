@@ -9,6 +9,7 @@ using System.Xml.Linq;
 namespace RimTrans.Framework.Step1 {
     class Program {
         static void Main(string[] args) {
+            Console.OutputEncoding = Encoding.Unicode;
             string configFile = "Config.xml";
             if (File.Exists(configFile)) {
                 XDocument configDoc = XDocument.Load(configFile);
@@ -68,7 +69,7 @@ namespace RimTrans.Framework.Step1 {
             out Dictionary<string, string> dict_First_Female) {
             string shuffledNameDefFolder_Framework = Path.Combine(frameworkPath, "Languages", "English", "DefInjected", "ShuffledNameDef");
             string shuffledNameDefFolder_Mod = Path.Combine(modPath, "Languages", language, "DefInjected", "ShuffledNameDef");
-            string[] files = { "Last.xml", "First_Male.xml", "First_Female.xml",  };
+            string[] files = { "Last.xml", "First_Male.xml", "First_Female.xml", };
             List<Dictionary<string, string>> dicts = new List<Dictionary<string, string>>();
             foreach (string curFile in files) {
                 Dictionary<string, string> curDict = new Dictionary<string, string>();
@@ -99,7 +100,7 @@ namespace RimTrans.Framework.Step1 {
             dict_First_Male = dicts[1];
             dict_First_Female = dicts[2];
         }
-        
+
         static void GetMap(string frameworkPath, string modPath, string language,
             out SortedDictionary<string, XElement> map_Last,
             out SortedDictionary<string, XElement> map_First_Male,

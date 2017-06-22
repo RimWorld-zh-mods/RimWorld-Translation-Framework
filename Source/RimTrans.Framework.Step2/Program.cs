@@ -9,6 +9,7 @@ using System.Xml.Linq;
 namespace RimTrans.Framework.Step2 {
     class Program {
         static void Main(string[] args) {
+            Console.OutputEncoding = Encoding.Unicode;
             string configFile = "Config.xml";
             if (File.Exists(configFile)) {
                 XDocument configDoc = XDocument.Load(configFile);
