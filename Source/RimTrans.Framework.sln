@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26430.13
+VisualStudioVersion = 15.0.26430.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RimTrans.Framework", "RimTrans.Framework\RimTrans.Framework.csproj", "{DCB9D003-8CDC-4FE3-8308-D917412A14D8}"
 EndProject
@@ -10,6 +10,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RimTrans.Framework.Step1", "RimTrans.Framework.Step1\RimTrans.Framework.Step1.csproj", "{FF7DE1F8-3EF3-4E65-95BE-8A760D0CC22C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RimTrans.Framework.Step2", "RimTrans.Framework.Step2\RimTrans.Framework.Step2.csproj", "{1B328F4F-B0D3-4B6A-BE5D-816369E5A0E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RimTrans.Framework.Checker", "RimTrans.Framework.Checker\RimTrans.Framework.Checker.csproj", "{B8FF96EA-7CEE-4AA6-A83A-A768CF26471D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -42,6 +44,12 @@ Global
 		{1B328F4F-B0D3-4B6A-BE5D-816369E5A0E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B328F4F-B0D3-4B6A-BE5D-816369E5A0E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B328F4F-B0D3-4B6A-BE5D-816369E5A0E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8FF96EA-7CEE-4AA6-A83A-A768CF26471D}.A16|Any CPU.ActiveCfg = Release|Any CPU
+		{B8FF96EA-7CEE-4AA6-A83A-A768CF26471D}.A16|Any CPU.Build.0 = Release|Any CPU
+		{B8FF96EA-7CEE-4AA6-A83A-A768CF26471D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8FF96EA-7CEE-4AA6-A83A-A768CF26471D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8FF96EA-7CEE-4AA6-A83A-A768CF26471D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8FF96EA-7CEE-4AA6-A83A-A768CF26471D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
