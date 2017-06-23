@@ -59,14 +59,18 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Core\RimTransMod.cs" />
+    <Compile Include="Defs\BackstoryDef.cs" />
+    <Compile Include="Defs\PawnBioDef.cs" />
     <Compile Include="Defs\SolidNameDef.cs" />
     <Compile Include="Defs\ShuffledNameDef.cs" />
+    <Compile Include="Defs\TraitRecord.cs" />
     <Compile Include="Injector\BackstoryDatabaseInjector.cs" />
     <Compile Include="Utility\GlobalInjector.cs" />
     <Compile Include="Injector\PawnNameDatabaseShuffledInjector.cs" />
     <Compile Include="Injector\SolidBioDatabaseInjector.cs" />
     <Compile Include="Utility\NameBankHelper.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Utility\PawnBioAndBacktoryUtility.cs" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

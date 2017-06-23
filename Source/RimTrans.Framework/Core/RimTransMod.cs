@@ -24,6 +24,7 @@ namespace RimTrans.Framework.Core {
 
         public override void Initialize() {
             GlobalInjector.Inject();
+            PawnBioAndBacktoryUtility.AddAllToDatabase();
         }
     }
 }

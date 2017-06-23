@@ -5,6 +5,9 @@ using Verse;
 
 namespace RimWorld {
     public class SolidNameDef : Def {
+
+        #region Fields
+
         public GenderPossibility gender;
 
         public string first;
@@ -19,18 +22,20 @@ namespace RimWorld {
 
         public bool pirateKing;
 
+        #endregion
+
         [DebuggerHidden]
         public override IEnumerable<string> ConfigErrors() {
-            if (string.IsNullOrEmpty(first)) {
-                yield return "the filed 'first' cannot be null or empty.";
+            if (string.IsNullOrEmpty(this.first)) {
+                yield return "the field 'first' cannot be null or empty.";
             }
-            if (string.IsNullOrEmpty(last)) {
-                yield return "the filed 'last' cannot be null or empty.";
+            if (string.IsNullOrEmpty(this.last)) {
+                yield return "the field 'last' cannot be null or empty.";
             }
         }
 
         public override string ToString() {
-            return $"SolidNameDef '{this.defName}'";
+            return $"{GetType().Name} '{this.defName}'";
         }
     }
 }

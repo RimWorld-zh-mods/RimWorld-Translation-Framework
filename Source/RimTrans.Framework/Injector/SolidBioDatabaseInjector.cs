@@ -22,7 +22,7 @@ namespace RimTrans.Framework.Injector {
             duplicate.Clear();
             foreach (PawnBio curPawnBio in DirectXmlLoader.LoadXmlDataInResourcesFolder<PawnBio>("Backstories/Solid")) {
                 TransPawnBioName(curPawnBio);
-                curPawnBio.name.ResolveMissingPieces(null);
+                curPawnBio.name.ResolveMissingPieces();
                 if (curPawnBio.childhood == null || curPawnBio.adulthood == null) {
                     PawnNameDatabaseSolid.AddPlayerContentName(curPawnBio.name, curPawnBio.gender);
                 } else {
