@@ -1,8 +1,22 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 using System.Xml;
 using Verse;
 
 namespace RimWorld {
+    public static class TraitRecordExtention {
+        public static List<TraitEntry> ToTraitEntryList(this List<TraitRecord> traitRecordList) {
+            if (traitRecordList == null)
+                return null;
+            List<TraitEntry> traitEntryList = new List<TraitEntry>();
+            foreach (TraitRecord record in traitRecordList) {
+                traitEntryList.Add(record.ToEntry());
+            }
+            return traitEntryList;
+        }
+    }
+
     public class TraitRecord {
 
         public TraitDef trait;
@@ -16,6 +30,16 @@ namespace RimWorld {
             } else {
                 this.degree = 0;
             }
+        }
+
+        public void ResolveReferences(BackstoryDef parent) {
+            foreach (TraitDegreeData data in this.trait.degreeDatas) {
+                if (data.degree == this.degree) {
+                    return;
+                }
+            }
+            Log.Error($"BackstoryDef '{parent.defName}' found no data at degree '{this.degree}' for trait '{this.trait.defName}', set to first defined.");
+            this.degree = this.trait.degreeDatas.First().degree;
         }
 
         public TraitEntry ToEntry() {

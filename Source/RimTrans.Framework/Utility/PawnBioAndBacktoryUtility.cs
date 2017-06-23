@@ -31,30 +31,5 @@ namespace RimTrans.Framework.Utility {
                 }
             }
         }
-
-        private static void VarifyTraits(Backstory bs) {
-            if (bs.forcedTraits != null) {
-                VarifyTraits(bs, bs.forcedTraits);
-            }
-            if (bs.disallowedTraits != null) {
-                VarifyTraits(bs, bs.disallowedTraits);
-            }
-        }
-
-        private static void VarifyTraits(Backstory bs, List<TraitEntry> traitEntries) {
-            foreach (TraitEntry entry in traitEntries) {
-                bool correct = false;
-                foreach (TraitDegreeData degreeData in entry.def.degreeDatas) {
-                    if (degreeData.degree == entry.degree) {
-                        correct = true;
-                        break;
-                    }
-                }
-                if (!correct) {
-                    Log.Error($"BackstoryDef '{bs.identifier}' found no data at degree '{entry.degree}' for trait '{entry.def.defName}', set to first defined.");
-                    entry.degree = entry.def.degreeDatas[0].degree;
-                }
-            }
-        }
     }
 }

@@ -89,6 +89,19 @@ namespace RimWorld {
             }
         }
 
+        public override void ResolveReferences() {
+            if (this.forcedTraits != null) {
+                foreach (TraitRecord record in this.forcedTraits) {
+                    record.ResolveReferences(this);
+                }
+            }
+            if (this.disallowedTraits != null) {
+                foreach (TraitRecord record in this.disallowedTraits) {
+                    record.ResolveReferences(this);
+                }
+            }
+        }
+
         public override string ToString() {
             return $"{GetType().Name} '{this.defName}'";
         }
@@ -107,18 +120,8 @@ namespace RimWorld {
             bs.bodyTypeGlobal = this.bodyTypeGlobal;
             bs.bodyTypeFemale = this.bodyTypeFemale;
             bs.bodyTypeMale = this.bodyTypeMale;
-            if (this.forcedTraits != null) {
-                bs.forcedTraits = new List<TraitEntry>();
-                foreach (var record in this.forcedTraits) {
-                    bs.forcedTraits.Add(record.ToEntry());
-                }
-            }
-            if (this.disallowedTraits != null) {
-                bs.disallowedTraits = new List<TraitEntry>();
-                foreach (var record in this.disallowedTraits) {
-                    bs.disallowedTraits.Add(record.ToEntry());
-                }
-            }
+            bs.forcedTraits = this.forcedTraits.ToTraitEntryList();
+            bs.disallowedTraits = this.disallowedTraits.ToTraitEntryList();
             bs.shuffleable = this.shuffleable;
             return bs;
         }
