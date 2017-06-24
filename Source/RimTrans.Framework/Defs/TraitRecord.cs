@@ -5,7 +5,9 @@ using System.Xml;
 using Verse;
 
 namespace RimWorld {
-    public static class TraitRecordExtention {
+
+    #region Extension
+    public static class TraitRecordExtension {
         public static List<TraitEntry> ToTraitEntryList(this List<TraitRecord> traitRecordList) {
             if (traitRecordList == null)
                 return null;
@@ -16,6 +18,7 @@ namespace RimWorld {
             return traitEntryList;
         }
     }
+    #endregion
 
     public class TraitRecord {
 
