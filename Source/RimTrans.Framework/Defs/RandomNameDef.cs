@@ -5,11 +5,9 @@ using Verse;
 
 namespace RimWorld {
     /// <summary>
-    /// For vanilla shuffled name
-    /// Class RimWorld.NameBank
-    /// Database: RimWorld.PawnNameDatabaseShuffled
+    /// For custom random name
     /// </summary>
-    public class ShuffledNameDef : Def {
+    public class RandomNameDef : Def {
 
         #region Fields
 
@@ -31,5 +29,6 @@ namespace RimWorld {
         public override string ToString() {
             return $"{GetType().Name} '{this.defName}'";
         }
+
     }
 }

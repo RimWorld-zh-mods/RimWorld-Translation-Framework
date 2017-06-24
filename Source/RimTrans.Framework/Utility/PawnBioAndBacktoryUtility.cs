@@ -28,20 +28,20 @@ namespace RimTrans.Framework.Utility {
 
         #region Methods
 
-        public static void TranslateVanillaPawnBios() {
+        public static void TranslateVanilla() {
             List<string> missingDefs = new List<string>();
             List<SolidNameDef> solidNamesMatched = new List<SolidNameDef>();
             foreach (var kvp in pendingResolveNames) {
-                SolidNameDef curSolidName = DefDatabase<SolidNameDef>.GetNamed(kvp.Key, false);
-                if (curSolidName == null) {
+                SolidNameDef curDef = DefDatabase<SolidNameDef>.GetNamed(kvp.Key, false);
+                if (curDef == null) {
                     if (kvp.Key != "Male_Tynan_Sylvester_Tynan") {
                         missingDefs.Add($"{kvp.Key} => {kvp.Value.ToString()}");
                     }
                 } else {
-                    solidNamesMatched.Add(curSolidName);
-                    f_firstInt.SetValue(kvp.Value, curSolidName.first);
-                    f_lastInt.SetValue(kvp.Value, curSolidName.last);
-                    f_nickInt.SetValue(kvp.Value, curSolidName.nick);
+                    solidNamesMatched.Add(curDef);
+                    f_firstInt.SetValue(kvp.Value, curDef.first);
+                    f_lastInt.SetValue(kvp.Value, curDef.last);
+                    f_nickInt.SetValue(kvp.Value, curDef.nick);
                 }
                 kvp.Value.ResolveMissingPieces();
             }
@@ -49,9 +49,9 @@ namespace RimTrans.Framework.Utility {
                 Log.Warning($"[{RimTransFrameworkMod.ModIdentifier}] SolidNameDef no found:\n{string.Join("; ", missingDefs.ToArray())}");
             }
             List<string> solidNamesNonMatched = new List<string>();
-            foreach (SolidNameDef curSolidName in DefDatabase<SolidNameDef>.AllDefs) {
-                if (!solidNamesMatched.Contains(curSolidName)) {
-                    solidNamesNonMatched.Add(curSolidName.defName);
+            foreach (SolidNameDef curDef in DefDatabase<SolidNameDef>.AllDefs) {
+                if (!solidNamesMatched.Contains(curDef)) {
+                    solidNamesNonMatched.Add(curDef.defName);
                 }
             }
             if (solidNamesNonMatched.Count != 0) {
@@ -59,7 +59,7 @@ namespace RimTrans.Framework.Utility {
             }
         }
 
-        public static void AddCustomPawnBios() {
+        public static void AddAllCustom() {
             foreach (PawnBio curPawnBio in from def in DefDatabase<PawnBioDef>.AllDefsListForReading
                                            select def.ToPawnBio()) {
                 curPawnBio.name.ResolveMissingPieces();

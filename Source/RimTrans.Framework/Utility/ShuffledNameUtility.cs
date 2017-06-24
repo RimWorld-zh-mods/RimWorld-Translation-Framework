@@ -17,18 +17,22 @@ namespace RimTrans.Framework.Utility {
 
         #region Methods
 
-        public static void TranslateVanillaNames() {
+        public static void TranslateVanilla() {
             NameBank nameBank = PawnNameDatabaseShuffled.BankOf(PawnNameCategory.HumanStandard);
-            foreach (List<string> namesList in (List<string>[,])f_names.GetValue(nameBank)) {
-                if (namesList != null)
-                    namesList.Clear();
-            }
+            nameBank.Clear();
             foreach (ShuffledNameDef curDef in DefDatabase<ShuffledNameDef>.AllDefs) {
                 nameBank.AddNames(curDef.slot, curDef.gender, curDef.shuffledNames);
             }
             nameBank.ErrorCheck();
         }
 
+        public static void AddAllCustom() {
+            NameBank nameBank = PawnNameDatabaseShuffled.BankOf(PawnNameCategory.HumanStandard);
+            foreach (RandomNameDef curDef in DefDatabase<RandomNameDef>.AllDefs) {
+                nameBank.AddNamesDedup(curDef.slot, curDef.gender, curDef.shuffledNames);
+            }
+        }
+        
         #endregion
 
     }

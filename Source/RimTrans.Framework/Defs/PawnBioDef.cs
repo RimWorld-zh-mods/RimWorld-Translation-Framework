@@ -4,6 +4,9 @@ using System.Diagnostics;
 using Verse;
 
 namespace RimWorld {
+    /// <summary>
+    /// For custom pawn bio
+    /// </summary>
     public class PawnBioDef : Def {
 
         #region Fields
@@ -32,6 +35,15 @@ namespace RimWorld {
             }
             if (this.childhood == null && this.adulthood != null) {
                 yield return "has adulthood backstory, but has no childhood backstroy.";
+            }
+        }
+
+        public override void ResolveReferences() {
+            if (this.adulthood != null && this.adulthood.spawnCategories != null) {
+                if (this.adulthood.spawnCategories.Count == 1 &&
+                    this.adulthood.spawnCategories[0] == "Trader") {
+                    this.adulthood.spawnCategories.Add("Civil");
+                }
             }
         }
 

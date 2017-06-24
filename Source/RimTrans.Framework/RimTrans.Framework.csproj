@@ -55,6 +55,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Defs\RandomNameDef.cs" />
     <Compile Include="HarmonyPatches\LanguageDatabase_Patch.cs" />
     <Compile Include="RimTransFrameworkController.cs" />
     <Compile Include="RimTransFrameworkMod.cs" />

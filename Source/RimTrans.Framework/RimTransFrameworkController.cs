@@ -15,9 +15,10 @@ namespace RimTrans.Framework {
         }
 
         public static void CallAll() {
-            PawnBioAndBacktoryUtility.TranslateVanillaPawnBios();
-            PawnBioAndBacktoryUtility.AddCustomPawnBios();
-            ShuffledNameUtility.TranslateVanillaNames();
+            PawnBioAndBacktoryUtility.TranslateVanilla();
+            PawnBioAndBacktoryUtility.AddAllCustom();
+            ShuffledNameUtility.TranslateVanilla();
+            ShuffledNameUtility.AddAllCustom();
         }
     }
 }

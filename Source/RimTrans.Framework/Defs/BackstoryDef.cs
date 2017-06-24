@@ -4,6 +4,9 @@ using System.Diagnostics;
 using Verse;
 
 namespace RimWorld {
+    /// <summary>
+    /// For custom backstory
+    /// </summary>
     public class BackstoryDef : Def {
 
         #region Fields

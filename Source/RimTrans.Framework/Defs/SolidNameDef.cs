@@ -4,6 +4,11 @@ using System.Diagnostics;
 using Verse;
 
 namespace RimWorld {
+    /// <summary>
+    /// For vanilla solid pawn bio
+    /// Class: RimWorld.PawnBio
+    /// Database: RimWorld.SolidBioDatabase and RimWorld.PawnNameDatabaseSolid
+    /// </summary>
     public class SolidNameDef : Def {
 
         #region Fields
