@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Diagnostics;
+using System.Linq;
 using Verse;
 
 namespace RimWorld {
@@ -69,6 +70,7 @@ namespace RimWorld {
         }
 
         public override void ResolveReferences() {
+            base.ResolveReferences();
             if (this.adulthoodDef != null && this.adulthoodDef.spawnCategories != null) {
                 if (this.adulthoodDef.spawnCategories.Count == 1 &&
                     this.adulthoodDef.spawnCategories[0] == "Trader") {

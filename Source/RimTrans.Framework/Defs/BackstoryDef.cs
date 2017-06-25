@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Diagnostics;
+using System.Linq;
 using Verse;
 
 namespace RimWorld {
@@ -93,6 +94,7 @@ namespace RimWorld {
         }
 
         public override void ResolveReferences() {
+            base.ResolveReferences();
             if (this.forcedTraits != null) {
                 foreach (TraitRecord record in this.forcedTraits) {
                     record.ResolveReferences(this);
@@ -102,6 +104,10 @@ namespace RimWorld {
                 foreach (TraitRecord record in this.disallowedTraits) {
                     record.ResolveReferences(this);
                 }
+            }
+            if (this.forcedTraits != null && this.forcedTraits.Count > 4) {
+                Log.Error($"{this} has more than 4 forced traits, will remove excess traits.");
+                this.forcedTraits.RemoveRange(4, this.forcedTraits.Count - 4);
             }
         }
 
