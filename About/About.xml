@@ -4,7 +4,7 @@
   <author>duduluu</author>
   <url>https://github.com/duduluu/RimWorld-Translation-Framework</url>
 	<targetVersion>0.17.1557</targetVersion>
-  <description>&lt;color=#8c9eff&gt;&lt;b&gt;NOTE: Requires HugsLib mod.&lt;/b&gt;&lt;/color&gt;
+  <description>&lt;color=#8c9eff&gt;&lt;b&gt;RimTrans.Framework is a modding library for translator.&lt;/b&gt;&lt;/color&gt;
 
 RimTrans.Framework is a modding library for translator.
 
