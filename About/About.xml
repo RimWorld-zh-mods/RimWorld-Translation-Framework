@@ -6,15 +6,34 @@
 	<targetVersion>0.17.1557</targetVersion>
   <description>&lt;color=#8c9eff&gt;&lt;b&gt;NOTE: Requires HugsLib mod.&lt;/b&gt;&lt;/color&gt;
 
-RimTrans.Framwork is a modding library for translator.
+RimTrans.Framework is a modding library for translator.
 
-Supports:
-  - Translating pawn names, included shuffled names and creative rewards names.
-  - Adding custom pawn names and backstories.
+### Translation Supports
+  - Language data patch
+  - Pawn names translation
 
-GitHub: https://github.com/duduluu/RimWorld-Translation-Framework
+### Extension Def Types
+  - PawnBioDef
+  - BackstoryDef
 
-Example: https://github.com/duduluu/RimWorld-PawnName-Chinese
+### LICENSE
+This mod is under the MIT license.
 
+--------------------------------
+
+&lt;color=#8c9eff&gt;&lt;b&gt;RimTrans.Framework 是为翻译人员准备的 Mod 制作库。&lt;/b&gt;&lt;/color&gt;
+
+RimTrans.Framework 是为翻译人员准备的 Mod 制作库。
+
+### 翻译支持
+  - 语言文件补丁
+  - 角色名称翻译
+
+### 扩展 Def 类型
+  - PawnBioDef
+  - BackstoryDef
+
+### 许可协议
+本 Mod 采用 MIT 许可协议。
 </description>
 </ModMetaData>
