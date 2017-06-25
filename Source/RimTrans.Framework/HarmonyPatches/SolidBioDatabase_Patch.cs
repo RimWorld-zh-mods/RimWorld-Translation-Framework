@@ -37,7 +37,7 @@ namespace RimTrans.Framework.HarmonyPatches {
                     curPawnBio.childhood.slot = BackstorySlot.Childhood;
                     BackstoryDatabase.AddBackstory(curPawnBio.childhood);
                     curPawnBio.adulthood.shuffleable = false;
-                    curPawnBio.childhood.slot = BackstorySlot.Adulthood;
+                    curPawnBio.adulthood.slot = BackstorySlot.Adulthood;
                     BackstoryDatabase.AddBackstory(curPawnBio.adulthood);
                 }
             }
