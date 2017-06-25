@@ -66,6 +66,7 @@
     <Compile Include="Defs\TraitRecord.cs" />
     <Compile Include="HarmonyPatches\SolidBioDatabase_Patch.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Utility\NameBankExtension.cs" />
     <Compile Include="Utility\NameTripleExtension.cs" />
     <Compile Include="Utility\PawnBioAndBacktoryUtility.cs" />
     <Compile Include="Utility\ShuffledNameUtility.cs" />

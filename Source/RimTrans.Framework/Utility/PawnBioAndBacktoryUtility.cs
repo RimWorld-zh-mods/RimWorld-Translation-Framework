@@ -55,7 +55,27 @@ namespace RimTrans.Framework.Utility {
                 }
             }
             if (solidNamesNonMatched.Count != 0) {
-                Log.Warning($"[{RimTransFrameworkMod.ModIdentifier}] SolidNameDef no matched any name:\n");
+                Log.Warning($"[{RimTransFrameworkMod.ModIdentifier}] SolidNameDef no matched any name:\n{string.Join(";", solidNamesNonMatched.ToArray())}");
+            }
+        }
+
+        public static void ResolveReferencesAllCustom() {
+            Dictionary<string, Backstory> allBackstories = BackstoryDatabase.allBackstories;
+            List<string> backstoryIdentifierNonMatched = new List<string>();
+            foreach (PawnBioDef curDef in from def in DefDatabase<PawnBioDef>.AllDefs
+                                          where def.backstoryFrom == PawnBioDef.BackstorySource.Vanilla
+                                          select def) {
+                if (curDef.childhoodIdentifier != null && curDef.adulthoodIdentifier != null) {
+                    if (!allBackstories.ContainsKey(curDef.childhoodIdentifier)) {
+                        backstoryIdentifierNonMatched.Add($"{curDef.defName} => childhood {curDef.childhoodIdentifier}");
+                    }
+                    if (!allBackstories.ContainsKey(curDef.adulthoodIdentifier)) {
+                        backstoryIdentifierNonMatched.Add($"{curDef.defName} => adulthood {curDef.adulthoodIdentifier}");
+                    }
+                }
+            }
+            if (backstoryIdentifierNonMatched.Count != 0) {
+                Log.Warning($"[{RimTransFrameworkMod.ModIdentifier}] PawnBioDef backstory indentifier no found:\n{string.Join("; ", backstoryIdentifierNonMatched.ToArray())}");
             }
         }
 

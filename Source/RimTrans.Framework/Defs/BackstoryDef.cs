@@ -111,7 +111,7 @@ namespace RimWorld {
 
         public Backstory ToBackstory() {
             Backstory bs = new Backstory();
-            bs.identifier = "BackstoryDef_" + this.defName;
+            bs.identifier = $"{GetType().Name}_{this.defName}";
             bs.slot = this.slot;
             bs.SetTitle(this.title);
             bs.SetTitleShort(this.titleShort);
