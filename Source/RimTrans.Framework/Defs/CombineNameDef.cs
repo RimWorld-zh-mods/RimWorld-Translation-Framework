@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using Verse;
 
 namespace RimWorld {
@@ -65,42 +66,48 @@ namespace RimWorld {
                 HashSet<string> nameSet = new HashSet<string>();
                 NameBank nameBank = PawnNameDatabaseShuffled.BankOf(PawnNameCategory.HumanStandard);
                 for (int i = 0; i < this.amount; i++) {
-                    string first = firstNames.RandomElement();
-                    string last = lastNames.RandomElement();
-                    while (!nameSet.Add($"{first}_{last}")) {
-                        first = firstNames.RandomElement();
-                        last = lastNames.RandomElement();
-                    }
-                    string nick = null;
-                    if (Rand.Chance(this.nickNameDatabaseChance)) {
-                        float f = Rand.Value;
-                        Gender gender;
-                        if (this.gender == GenderPossibility.Male) {
-                            if (f < 0.66666666f) {
-                                gender = Gender.Male;
-                            } else {
-                                gender = Gender.None;
-                            }
-                        } else if (this.gender == GenderPossibility.Female) {
-                            if (f < 0.66666666f) {
-                                gender = Gender.Female;
-                            } else {
-                                gender = Gender.None;
-                            }
-                        } else {
-                            if (f < 0.33333333f) {
-                                gender = Gender.Male;
-                            } else if (f < 0.66666666f) {
-                                gender = Gender.Female;
-                            } else {
-                                gender = Gender.None;
-                            }
+                    foreach (string last in lastNames) {
+                        Thread.Sleep(1);
+                        string first = firstNames.RandomElement();
+                        int threshold = 0;
+                        while (!nameSet.Add($"{first}")) {
+                            first = firstNames.RandomElement();
+                            threshold++;
+                            if (threshold > 99)
+                                break;
                         }
-                        nick = nameBank.GetName(PawnNameSlot.Nick, gender);
+                        string nick = null;
+                        if (Rand.Chance(this.nickNameDatabaseChance)) {
+                            float f = Rand.Value;
+                            Gender gender;
+                            if (this.gender == GenderPossibility.Male) {
+                                if (f < 0.66666666f) {
+                                    gender = Gender.Male;
+                                } else {
+                                    gender = Gender.None;
+                                }
+                            } else if (this.gender == GenderPossibility.Female) {
+                                if (f < 0.66666666f) {
+                                    gender = Gender.Female;
+                                } else {
+                                    gender = Gender.None;
+                                }
+                            } else {
+                                if (f < 0.33333333f) {
+                                    gender = Gender.Male;
+                                } else if (f < 0.66666666f) {
+                                    gender = Gender.Female;
+                                } else {
+                                    gender = Gender.None;
+                                }
+                            }
+                            nick = nameBank.GetName(PawnNameSlot.Nick, gender);
+                        }
+                        NameTriple name = new NameTriple(first, nick, last);
+                        name.ResolveMissingPieces();
+                        yield return name;
+                        i++;
                     }
-                    NameTriple name = new NameTriple(first, nick, last);
-                    name.ResolveMissingPieces();
-                    yield return name;
                 }
             }
         }
