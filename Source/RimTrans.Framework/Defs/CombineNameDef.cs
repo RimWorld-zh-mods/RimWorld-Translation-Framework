@@ -67,7 +67,7 @@ namespace RimWorld {
                 NameBank nameBank = PawnNameDatabaseShuffled.BankOf(PawnNameCategory.HumanStandard);
                 for (int i = 0; i < this.amount; i++) {
                     foreach (string last in lastNames) {
-                        Thread.Sleep(1);
+                        //Thread.Sleep(1);
                         string first = firstNames.RandomElement();
                         int threshold = 0;
                         while (!nameSet.Add($"{first}")) {
